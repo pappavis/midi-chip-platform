@@ -106,6 +106,8 @@ Defaults & clamps (per FS-1.0.3 / TD-1.0.2):
 ```
 
 	5.	Reboot the board.
+<img src="./img/CircuitPPython_repl.jpg">
+
 	6.	Verify the PWM signal on the chosen pin with an oscilloscope.
 	7.	Optional: route the pin through a small amplifier module to headphones for a rough audible check.
 
