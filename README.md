@@ -66,6 +66,8 @@ Defaults & clamps (per FS-1.0.3 / TD-1.0.2):
 
 ## Architecture (high level)
 
+<img src="./img/argitektuur_oorsig.jpg" width="40%" height="40%">
+
 - **AudioService**  
   Main scheduler loop; orchestrates MIDI, clock, chips, test mode, metrics.
 
