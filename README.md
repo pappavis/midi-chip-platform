@@ -5,6 +5,8 @@ Primary target: **LOLIN ESP32-S2 Mini** as a **USB MIDI device**.
 
 The goal is a clean architecture that can run **multiple chip emulators side-by-side** (SN76489 first), with shared clock sync and strict pin/resource management.
 
+<img src="./img/funksioneel_hooflyn.jpg" width="40%" height="40%">
+
 ---
 
 ## Status
@@ -99,7 +101,6 @@ Defaults & clamps (per FS-1.0.3 / TD-1.0.2):
   "note": "C2",
   "duration_s": 0
 }
-
 ```
 
 	5.	Reboot the board.
@@ -111,19 +112,21 @@ Defaults & clamps (per FS-1.0.3 / TD-1.0.2):
 Configuration overview
 
 Key fields in config.json:
+```
 	•	stop_behavior
 	•	logging (level + file cap)
 	•	test_mode (PWM test signal)
 	•	instances[] (chip instances: type, midi_channel, pins, stop_behavior override)
-
+```
 See:
+```
 	•	docs/FS-1.0.3.md
 	•	docs/TD-1.0.2.md
 	•	docs/JSON-SCHEMA.md
-
+```
 ⸻
 
-Development methodology (Fugro-style)
+# Development methodology
 
 We work in explicit cycles:
 	1.	Functional Spec (FS)
@@ -136,16 +139,18 @@ Same pattern applies for TD → code skeleton → tested release.
 ⸻
 
 Versioning & traceability
+```
 	•	FS versions: FS-X.Y.Z
 	•	TD versions: TD-X.Y.Z
 	•	Code releases: vX.Y.Z
+```
 
 Each approved FS/TD is traceable to Git commits/tags.
 Each release gets Markdown release notes under docs/releases/.
 
 ⸻
 
-Credits
+# Credits
 
 Lead/Owner: Michiel Erasmus
 
@@ -153,11 +158,11 @@ This project is learning-driven and builds on the wider community:
 	•	YouTube tutorials on MIDI, PWM audio, and chip emulation concepts
 	•	Open-source projects and emulator authors on GitHub
 
-TODO: Add explicit links + names for proper attribution (please provide your shortlist).
+## TODO: Add explicit links + names for proper attribution (please provide your shortlist).
 
 ⸻
 
-Roadmap (suggested)
+# Roadmap (suggested)
 	•	v0.2.x: SN76489 dual-mono PWM audio-out (first end-to-end audible output)
 	•	v0.3.x: Web UI (status + config editor)
 	•	v0.4.x: MIDI file playback via web UI
