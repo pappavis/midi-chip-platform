@@ -5,7 +5,7 @@ Primary target: **LOLIN ESP32-S2 Mini** as a **USB MIDI device**.
 
 The goal is a clean architecture that can run **multiple chip emulators side-by-side** (SN76489 first), with shared clock sync and strict pin/resource management.
 
-<img src="./img/funksioneel_hooflyn.jpg" width="40%" height="40%">
+<img src="./img/funksioneel_hooflyn.jpg" width="42%" height="42%">
 
 ---
 
@@ -108,6 +108,9 @@ Defaults & clamps (per FS-1.0.3 / TD-1.0.2):
 	5.	Reboot the board.
 	6.	Verify the PWM signal on the chosen pin with an oscilloscope.
 	7.	Optional: route the pin through a small amplifier module to headphones for a rough audible check.
+
+## Sanity check
+<img src="./img/thonny_sanity_check.jpg">
 
 ⸻
 
