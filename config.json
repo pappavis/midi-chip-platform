@@ -1,0 +1,47 @@
+{
+  "version": "v0.1.2",
+  "log_interval_s": 1.0,
+  "config_poll_interval_s": 0.5,
+  "stop_behavior": "configurable_per_instance",
+  "cc_map": {
+    "1": "modulation",
+    "7": "volume",
+    "10": "pan",
+    "11": "expression",
+    "64": "sustain",
+    "74": "brightness"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "LIGHT",
+    "to_console": true,
+    "to_file": true,
+    "file_path": "/logs.txt",
+    "max_bytes": 30000
+  },
+  "test_mode": {
+    "enabled": false,
+    "pin": "A01",
+    "mode": "square",
+    "note": "C2",
+    "sample_rate_hz": 8000,
+    "pwm_carrier_hz": 62500,
+    "duration_s": 0
+  },
+  "instances": [
+    {
+      "id": 0,
+      "type": "sn76489",
+      "midi_channel": 1,
+      "steal_policy": "highest",
+      "stop_behavior": "all_notes_off",
+      "pins": {
+        "tone1": "A01",
+        "tone2": "A02",
+        "tone3": "A03",
+        "noise": "A04"
+      },
+      "params": {}
+    }
+  ]
+}
