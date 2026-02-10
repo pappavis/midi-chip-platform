@@ -170,6 +170,8 @@ This project is learning-driven and builds on the wider community:
 	•	v0.4.x: MIDI file playback via web UI
 	•	Future: additional chip emulators (SID/6589 style, OPL2/YM3812 style)
 
+<img src="https://www.hobbyelectronica.nl/wp-content/uploads/2021/12/D1_mini_ESP32_usb_c.jpg" width="20%" height="20%">
+
 ⸻
 
 ```bash
