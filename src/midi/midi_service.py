@@ -8,7 +8,14 @@ from adafruit_midi.control_change import ControlChange
 from adafruit_midi.timing_clock import TimingClock
 from adafruit_midi.start import Start
 from adafruit_midi.stop import Stop
-from adafruit_midi.continue_ import Continue
+
+# Continue is version-dependent across adafruit_midi builds.
+# Your bundle contains: midi_continue.mpy -> MIDIContinue
+try:
+    from adafruit_midi.midi_continue import MIDIContinue
+except ImportError:
+    MIDIContinue = None
+
 
 class MidiService:
     def __init__(self):
@@ -27,11 +34,19 @@ class MidiService:
 
     @staticmethod
     def classify(msg):
-        if isinstance(msg, NoteOn): return "note_on"
-        if isinstance(msg, NoteOff): return "note_off"
-        if isinstance(msg, ControlChange): return "cc"
-        if isinstance(msg, TimingClock): return "clock"
-        if isinstance(msg, Start): return "start"
-        if isinstance(msg, Stop): return "stop"
-        if isinstance(msg, Continue): return "continue"
+        if isinstance(msg, NoteOn):
+            return "note_on"
+        if isinstance(msg, NoteOff):
+            return "note_off"
+        if isinstance(msg, ControlChange):
+            return "cc"
+        if isinstance(msg, TimingClock):
+            return "clock"
+        if isinstance(msg, Start):
+            return "start"
+        if isinstance(msg, Stop):
+            return "stop"
+        if MIDIContinue is not None and isinstance(msg, MIDIContinue):
+            return "continue"
         return "other"
+    
