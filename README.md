@@ -193,7 +193,7 @@ git push
 
 Sê vir my net hierdie 4 dinge (kort antwoorde is genoeg):
 	1.	Wil jy die README hoofsaaklik Engels hou, of Afrikaans?
-	2.	Moet “Fugro-style” eksplisiet genoem word, of liewer neutraal (“engineering workflow”)?
+	2.	Moet  liewer neutraal (“engineering workflow”)?
 	3.	Watter 3–10 YouTube links en 3–10 GitHub repos moet ek in “Credits” hard insit?
 	4.	Wil jy License nou op MIT/Apache-2.0 sit, of nog TBD?
 
