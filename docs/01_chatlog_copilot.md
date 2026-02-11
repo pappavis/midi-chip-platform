@@ -2893,6 +2893,200 @@ Als je wil, kan ik in dezelfde stijl ook meteen:
 
 (Geen extra input nodig; ik baseer het op wat hier al staat in README + deze TD.)
 
+------
+```
+# context
+Ik wil een AI chrod generator functioanlteit toevoegen.
+
+Weet je van enige MML trained op muziek theorie, die lokaal op mijn Mac M4 kunnen draaien, en circa <= 1gb is,  bijvb in Ollama met een python API.
+
+Help mij om deze verzoek in de functionele specs op te nemen.
+```
+
+**UUID: 8F4A2C91**
+
+Hier is een **concreet, FS‑klaar antwoord** op je vraag, met **gegronde bronnen**, én een **direct invoegbare uitbreiding voor je Functional Spec**.
+
+***
+
+## 1️⃣ Bestaat er een lokaal draaiend (≤ \~1 GB) model voor muziek‑/akkoordtheorie?
+
+### Samenvatting (kort en eerlijk)
+
+*   ✅ **Ja, gedeeltelijk**: er zijn **kleine general‑purpose LLM’s** (≤1 GB) die *voldoende* muziek‑ en akkoordtheorie kunnen doen **mits je het probleem strak afbakent** (chords/progressions, niet audio‑generatie).
+*   ❌ **Nee, volledig getrainde “pure” muziek‑theorie‑LLM’s onder 1 GB bestaan niet** als kant‑en‑klaar product.
+*   ✅ **Pragmatische oplossing**:
+    > *Kleine LLM (Ollama) + strikte output‑schema’s + eventueel rule‑based post‑validation*
+
+***
+
+## 2️⃣ Concrete modellen die lokaal op macOS (Apple Silicon, M4) draaien
+
+### ✅ **Gemma 3 – 1B**
+
+*   **Grootte:** \~815 MB
+*   **Platform:** Ollama
+*   **Sterk in:** gestructureerd redeneren, schema‑volgend tekst
+*   **Geschikt voor:**
+    *   toonladder → diatonische akkoorden
+    *   eenvoudige progressies (I‑IV‑V, ii‑V‑I, etc.)
+*   **Beperking:** niet expliciet muziek‑getraind    [\[komelin.com\]](https://komelin.com/blog/using-small-llms-locally)
+
+**Ollama**
+
+```bash
+ollama run gemma3:1b
+```
+
+***
+
+### ✅ **DeepSeek‑R1 – 1.5B (optioneel)**
+
+*   **Grootte:** \~1.1 GB (net boven je eis, maar vaak acceptabel)
+*   **Sterk in:** redeneren + constraints
+*   **Nadeel:** iets groter dan 1 GB    [\[komelin.com\]](https://komelin.com/blog/using-small-llms-locally)
+
+***
+
+### ⚠️ **LLAMUsic (3B)**
+
+*   **Grootte:** \~2 GB
+*   **Expliciet muziek‑gefinetuned**
+*   ❌ **Te groot voor jouw eis**    [\[ollama.com\]](https://ollama.com/llamusic/llamusic)
+
+***
+
+### 🔍 Waarom geen “echte” kleine muziek‑LLM?
+
+Onderzoek zoals **ChatMusician** toont aan dat sterke muziek‑theorie‑LLM’s **≥7B parameters** nodig hebben en daardoor meerdere GB’s groot zijn.  
+Dat bevestigt: *onder 1 GB moet je slim combineren*. [\[arxiv.org\]](https://arxiv.org/html/2402.16153v1)
+
+***
+
+## 3️⃣ Architectuur‑advies (belangrijk voor je project)
+
+Voor jouw **MIDI Chip Platform** is dit cruciaal:
+
+✅ Je wilt **geen generatief muziekmodel**, maar een **symbolische chord/progression generator**  
+✅ Output moet **deterministisch & valideerbaar** zijn  
+✅ Perfect te integreren als **Control‑Rate service**
+
+**Daarom:**
+
+*   LLM → *suggesties*
+*   Platform → *beslist & valideert*
+
+***
+
+## 4️⃣ ✅ Functionele Spec – directe toevoeging (copy‑paste klaar)
+
+### ➕ **FS‑X.Y.Z — AI Chord Generator (nieuw hoofdstuk)**
+
+````markdown
+## AI Chord Generator (Optional Feature)
+
+### Doel
+Het systeem kan automatisch akkoordprogressies genereren op basis van:
+- muzikale context (toonsoort, modus, tempo)
+- MIDI input (root note, scale hints, clock)
+- expliciete gebruikersparameters
+
+De gegenereerde output is **symbolisch**, **deterministisch toepasbaar** en **hardware‑agnostisch**.
+
+### Scope
+- Symbolische akkoorden (triads, 7ths, extensions)
+- Geen audio‑ of sample‑generatie
+- Geen real‑time audio DSP
+
+### Architectuur
+- AI Chord Generator draait als **logische service**, los van AudioService
+- De service kan:
+  - lokaal een LLM gebruiken (via Ollama)
+  - of fallbacken naar rule‑based generatie
+
+### AI Model (non‑normatief)
+- Het systeem **mag** gebruik maken van een lokaal draaiend LLM ≤ ~1 GB
+- Voorbeeld:
+  - Gemma 3 1B via Ollama (text‑only)
+- AI output is **niet bindend** en wordt altijd gevalideerd
+
+### Input
+- Key (C, D♭, …)
+- Mode (major, minor, dorian, mixolydian, …)
+- Length (bars / chords)
+- Complexity (basic | extended | chromatic)
+- Optional: MIDI context (recent notes, tempo)
+
+### Output (normatief)
+De output **moet** voldoen aan dit schema:
+
+```json
+{
+  "key": "C",
+  "mode": "major",
+  "progression": [
+    {"degree": "I",  "chord": "Cmaj7"},
+    {"degree": "IV", "chord": "Fmaj7"},
+    {"degree": "V",  "chord": "G7"},
+    {"degree": "I",  "chord": "Cmaj7"}
+  ],
+  "confidence": 0.0-1.0
+}
+````
+
+### Validatie
+
+*   Alle akkoorden moeten diatonisch zijn tenzij expliciet toegestaan
+*   Elk akkoord moet mappen naar een bekende chord‑structuur
+*   Ongeldige output wordt verworpen
+
+### Integratie
+
+*   De gegenereerde akkoorden kunnen:
+    *   worden vertaald naar MIDI Note‑On/Off events
+    *   of worden gebruikt als input voor chip‑instances
+
+### Niet‑doelen
+
+*   Geen automatische harmonisatie van audio
+*   Geen polyfone stemvoering optimalisatie
+*   Geen realtime improvisatie (future work)
+
+```
+
+---
+
+## 5️⃣ Relatie met je bestaande roadmap
+
+✅ **Past perfect bij:**
+- v0.3.x Web UI (config + chord generator UI)
+- v0.4.x MIDI file playback
+- Future SID / OPL chips (harmonic richness)
+
+✅ **Geen impact op:**
+- FS‑1.0.3 kern
+- TD‑1.0.2 scheduler & pin management
+- test_mode / logging / safety
+
+---
+
+## 6️⃣ Conclusie (belangrijk)
+
+- ✅ **Ja**, je kunt **lokaal op je Mac M4** een AI‑akkoordgenerator draaien
+- ✅ **Gemma 3 1B + Ollama + Python API** is de beste balans ≤1 GB
+- ✅ Door dit **correct in de FS te plaatsen**, blijft je project:
+  - beheersbaar
+  - deterministic
+  - hardware‑proof
+
+Als je wilt, kan ik **volgende stap**:
+- 🔧 de **TD‑uitbreiding** schrijven (AIChordService + interfaces)
+- 🧪 een **validatie‑engine** ontwerpen (rule‑based fallback)
+- 🧠 of een **prompt‑contract** maken dat Gemma “in het spoor” houdt
+
+Zeg maar wat je eerst wilt.
+```
+
 
 x
 
