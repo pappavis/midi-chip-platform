@@ -1,3 +1,7 @@
+# docs
+
+<img src="../img/argitektuur_oorsig.jpg" width="60%" height="60%">
+
 # TD-1.0.2 — Technical Design
 **Project:** MIDI Chip Platform (CircuitPython) — ESP32-S2  
 **Primary target:** LOLIN ESP32-S2 Mini (USB MIDI device)  
