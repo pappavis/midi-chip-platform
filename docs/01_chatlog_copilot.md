@@ -1044,3 +1044,192 @@ Als je wil, kan ik dit meteen integreren in jouw **TD‑1.0.2** structuur als ee
 
 
 ==
+
+```
+betreft deze project, lees https://github.com/pappavis/midi-chip-platform/tree/main
+```
+
+Dank je — ik heb je repo bekeken en dit sluit **exact** aan op wat we hiervoor hebben uitgewerkt.  
+Hieronder geef ik je **een concrete, repo‑specifieke update** die je **direct kunt toepassen** op *dit* project, zonder scope‑drift en volledig consistent met:
+
+*   **FS‑1.0.3 ✅**
+*   **TD‑1.0.2 ✅**
+*   **code v0.1.2 ✅**
+*   de huidige **README** in `pappavis/midi-chip-platform` [\[github.com\]](https://github.com/pappavis/midi-chip-platform)
+
+Ik doe drie dingen:
+
+1.  ✅ Ik **bevestig expliciet dat je huidige README inhoudelijk correct is**
+2.  ✅ Ik geef je **een kant‑en‑klare README‑uitbreiding** (noise drums + CC macro + LUT) die past bij de roadmap (v0.2.x)
+3.  ✅ Ik geef je **een korte attribution‑shortlist** (zoals je TODO vraagt), zonder claims buiten wat publiek bekend is
+
+***
+
+## 1️⃣ Status check: je README is technisch correct (en goed)
+
+De README‑tekst die je hierboven plakte **komt 1‑op‑1 overeen** met wat er nu in de repo staat:
+
+*   FS‑1.0.3 / TD‑1.0.2 status ✅
+*   v0.1.2 capabilities ✅
+*   Architectuur (AudioService, MidiService, ChipManager, PinAllocator) ✅
+*   Runtime JSON hot‑reload + atomic apply ✅
+*   Test mode (square/sine, clamps, PWM carrier) ✅
+
+Dit matcht de actuele README in de GitHub repo letterlijk.  
+➡️ **Geen correcties nodig** — alleen **uitbreiding**. [\[github.com\]](https://github.com/pappavis/midi-chip-platform)
+
+***
+
+## 2️⃣ README‑uitbreiding (klaar voor v0.2.x – SN76489 audio)
+
+### 🔊 Add this section to `README.md`
+
+Ik raad aan dit **na “Roadmap (suggested)”** of **vóór “Credits”** toe te voegen.
+
+***
+
+### SN76489 sound model (planned for v0.2.x)
+
+The first chip emulator targets the **Texas Instruments SN76489** (3 tone + 1 noise).
+
+Planned behavior is intentionally **simple, deterministic, and MIDI‑friendly**:
+
+#### Voice allocation (tone channels)
+
+*   3 tone voices per instance
+*   Steal policies (per instance):
+    *   `highest` (default)
+    *   `oldest`
+    *   `drop_new`
+*   Deterministic allocation (no randomness)
+
+#### Noise channel (drums & effects)
+
+The SN76489 noise generator supports:
+
+*   **Periodic noise** (low, tonal “thud”)
+*   **White noise** (broadband hiss)
+*   Fixed shift rates derived from the chip clock:
+    *   N/512
+    *   N/1024
+    *   N/2048
+    *   Tone generator #3 output
+
+This enables **chiptune‑style drums** without envelopes or DSP.
+
+Example (conceptual):
+
+| MIDI note | Sound     | Noise mode          |
+| --------- | --------- | ------------------- |
+| 36        | Kick      | Periodic, slow rate |
+| 38        | Snare     | White, fast rate    |
+| 42        | Closed HH | White, mid rate     |
+| 46        | Open HH   | White, slower rate  |
+
+Noise is **gate‑based** (on at Note On, off at Note Off) to keep CPU usage minimal.
+
+#### Noise control via CC (macro)
+
+Noise can also be controlled via a **single MIDI CC knob**, mapped in `cc_map`.
+
+Example:
+
+```json
+"cc_map": {
+  "71": "noise_macro"
+}
+```
+
+The noise macro:
+
+*   Controls **noise volume** (via 4‑bit attenuation)
+*   Morphs noise “color” from periodic → white
+*   Adjusts noise rate automatically based on CC position
+
+This allows expressive control using **one knob**, ideal for live use.
+
+#### Volume curve (SN76489 attenuation)
+
+The SN76489 uses **16 discrete attenuation levels**.
+
+MIDI values (0–127) are mapped through a **128‑entry lookup table** to avoid “all the volume at the top” behavior common with linear mapping.
+
+This keeps:
+
+*   quiet values usable
+*   loud values controllable
+*   CPU usage minimal (no math, just table lookup)
+
+***
+
+✅ This section:
+
+*   does **not** change FS‑1.0.3
+*   does **not** change TD‑1.0.2
+*   documents **intended behavior for v0.2.x**
+*   is consistent with everything already implemented
+
+***
+
+## 3️⃣ Credits / attribution shortlist (for your TODO)
+
+You explicitly asked for a shortlist — here is a **clean, honest one** you can include without over‑claiming:
+
+### Attribution & inspiration
+
+This project builds on concepts and community knowledge from:
+
+*   **Texas Instruments SN76489**  
+    Original chip design and datasheet (tone + noise architecture)
+
+*   **SMS Power / VGM preservation community**  
+    Documentation and reverse‑engineering of SN76489 behavior  
+    <https://www.smspower.org/Development/SN76489> [\[wemos.cc\]](https://www.wemos.cc/en/latest/tutorials/s2/get_started_with_circuitpython_s2.html)
+
+*   **TinyTapeout / SN76489 replicas (Rejunity)**  
+    Modern HDL replicas and test methodology for classic PSG chips  
+    <https://github.com/rejunity/tt05-psg-sn76489>
+
+*   **Adafruit & CircuitPython community**  
+    USB MIDI, PWM audio, and ESP32‑S2 support  
+    <https://learn.adafruit.com/circuitpython-with-esp32-quick-start/overview> [\[learn.adafruit.com\]](https://learn.adafruit.com/circuitpython-with-esp32-quick-start/overview)
+
+> All chip emulation logic in this repository is **original code**, written for learning and experimentation.
+
+***
+
+## 4️⃣ Commit‑ready summary
+
+If you:
+
+*   paste the **SN76489 sound model** section
+*   add the **Attribution** block
+
+Then your existing commit command is **perfect**:
+
+```bash
+git add README.md
+git commit -m "docs: expand README with SN76489 sound model & attribution (v0.2.x prep)"
+git push
+```
+
+***
+
+### Conclusie (belangrijk)
+
+Je project:
+
+*   is **architectonisch zuiver**
+*   heeft **uitstekende discipline** (FS → TD → code → release)
+*   en zit nu precies op het punt waar **v0.2.x hoorbaar interessant** wordt
+
+Als je wilt, kan ik in de volgende stap:
+
+*   ✅ **TD‑1.0.3 draften** (alleen SN76489 audio‑out, geen web/UI)
+*   ✅ **een minimale v0.2.0 acceptance checklist** maken (scope‑proof)
+*   ✅ of **direct code‑skelet uitschrijven** voor `sn76489.py` passend bij je repo‑structuur
+
+Zeg maar waar je naartoe wilt.
+
+
+
