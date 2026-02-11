@@ -3087,6 +3087,334 @@ Als je wilt, kan ik **volgende stap**:
 Zeg maar wat je eerst wilt.
 ```
 
+```
+Zie als voorbeeld ook
+https://github.com/PetrIvan/chord-seq-ai-app
+
+Doen **volgende stap**:
+- 🔧 de **TD‑uitbreiding** schrijven (AIChordService + interfaces)
+- 🧪 een **validatie‑engine** ontwerpen (rule‑based fallback)
+- 🧠 of een **prompt‑contract** maken dat Gemma “in het spoor” houdt
+
+
+```
+
+**UUID: 5A0D8C3E**
+
+Helemaal goed — en slim dat je **<https://github.com/PetrIvan/chord-seq-ai-app>** als referentie pakt: dat project is expliciet gebouwd als **chord‑progression suggester** (“choose the next chord from suggestions”, incl. model/style selectie).   
+Dit sluit ook aan bij jouw eerdere interne “AI Chord Progression Generator inspired by Scalar 2” work‑item/slide‑materiaal. [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app/blob/main/README.md), [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app) [\[1-on-1 and...rs reunion | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAQ2VfzkAACoc1ccgMkWTIpbuSu3EBNGAASF6AqvAAA%3d&exvsurl=1&viewmodel=ReadMessageItem), [\[Fugro 1-on...powerpoint | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAAAAAEMAACoc1ccgMkWTIpbuSu3EBNGAAXma4bHAAA%3d&exvsurl=1&viewmodel=ReadMessageItem)
+
+Hieronder doe ik de **volgende stap** zoals gevraagd:
+
+1.  🔧 **TD‑uitbreiding**: `AIChordService` + interfaces + integratiepunten (non‑blocking ontwerp)
+2.  🧪 **Validatie‑engine**: rule‑based fallback + output repair/normalisatie
+3.  🧠 **Prompt‑contract**: Gemma “in het spoor” (JSON‑only, schema, constraints, self‑check)
+
+> **Bronnen/KB die ik gebruik**
+>
+> *   <https://github.com/PetrIvan/chord-seq-ai-app> beschrijft het concept “compose progressions by suggesting the next chord”, plus features zoals “Selecting Models and Styles”. [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app/blob/main/README.md), [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app)
+> *   Je interne mail/slide‑materiaal noemt expliciet “AI Chord Progression Generator inspired by Scalar 2”. [\[1-on-1 and...rs reunion | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAQ2VfzkAACoc1ccgMkWTIpbuSu3EBNGAASF6AqvAAA%3d&exvsurl=1&viewmodel=ReadMessageItem), [\[Fugro 1-on...powerpoint | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAAAAAEMAACoc1ccgMkWTIpbuSu3EBNGAAXma4bHAAA%3d&exvsurl=1&viewmodel=ReadMessageItem)
+> *   Voor een ≤1GB Ollama‑model: Gemma 3 (1b) wordt genoemd als \~815MB en lokaal bruikbaar. [\[1_Digital...dard 1-0-0 | PDF\]](https://fugro.sharepoint.com/sites/MSC-Geo-data-Digitalisation/Information/Minimum%20metadata%20standard/1_Digital%20Foundation%20Metadata%20Standard%201-0-0.pdf?web=1)
+
+***
+
+## 🔧 1) TD‑uitbreiding (copy‑paste Markdown voor je repo)
+
+> **Doel:** Voeg een **AI chord generator** toe zonder je real‑time scheduler te blokkeren (CircuitPython is single‑threaded).  
+> **Belangrijk designprincipe:** *AI‑calls zijn “slow path” en mogen nooit in de tight loop.*  
+> Daarom: genereren gebeurt **on‑demand** (CC trigger / config request / web UI later), met caching.
+
+Plak dit als nieuwe sectie in je `docs/TD-1.0.2.md` (of als `docs/TD-1.0.3-draft.md` als je de TD‑versie wilt bumpen).
+
+```md
+## 13. AIChordService (TD Extension) — chord/progression suggestions (local LLM + validation)
+
+### 13.1 Goal
+Add an optional AI-assisted chord/progression generator that:
+- Suggests the next chord(s) or a full progression
+- Runs locally (Ollama) and stays within tight resource constraints
+- Never blocks the real-time scheduler loop
+- Always returns validated, deterministic output
+
+Inspired by “next chord suggestion” UX patterns (similar to chord progression copilot tools). (Non-normative reference: chord-seq-ai-app suggests next chord and supports model/style selection.) 
+
+### 13.2 Non-goals
+- No audio generation
+- No heavy DSP
+- No sample-accurate voice leading
+- No always-on background inference
+
+### 13.3 Architecture placement
+AIChordService is NOT part of the tight AudioService tick.
+It is invoked only on:
+- explicit user request (e.g., CC mapped action)
+- explicit UI action (future web UI)
+- explicit config-driven action (e.g., generate on boot) — optional
+
+Output is cached so the scheduler loop can read results without waiting.
+
+### 13.4 Interfaces
+
+#### 13.4.1 Data structures
+**ChordToken**
+- symbol: string (e.g., "Cmaj7", "Dm", "G7", "F#dim")
+- degree: optional string (e.g., "I", "ii", "V/V")
+- duration_beats: optional float
+- meta: optional dict (confidence, source, style tags)
+
+**ChordContext**
+- key: string (e.g., "C", "Eb")
+- mode: string ("major"|"minor"|"dorian"|...)
+- bpm: optional float (from ClockService)
+- time_signature: optional "4/4" etc.
+- history: list[ChordToken] (previous chords)
+- constraints: dict (allowed extensions, chromatic allowed, max suggestions, etc.)
+
+**ChordSuggestionResult**
+- ok: bool
+- suggestions: list[ChordToken]
+- progression: optional list[ChordToken]
+- diagnostics: dict (validation errors, repairs performed)
+- source: "ai" | "rules"
+- model: string (e.g., "gemma3:1b")
+
+#### 13.4.2 Service API
+AIChordService:
+- suggest_next(context: ChordContext) -> ChordSuggestionResult
+- generate_progression(context: ChordContext) -> ChordSuggestionResult
+- get_cached(request_id) -> ChordSuggestionResult | None
+
+ValidationEngine:
+- validate(result: ChordSuggestionResult, context: ChordContext) -> (ok, repaired_result, diagnostics)
+- fallback_generate(context: ChordContext) -> ChordSuggestionResult  (rule-based)
+
+### 13.5 Config integration (schema strategy)
+Two supported strategies:
+
+A) **Schema bump (recommended)**:
+Add optional top-level object `ai_chords` (requires JSON-SCHEMA bump, e.g., v0.1.3).
+
+B) **No schema bump (compatible with v0.1.2)**:
+Store all ai settings under `instances[i].params.ai_chords` or under global `cc_map` actions.
+
+### 13.6 Invocation & real-time safety
+- AIChordService calls must be rate-limited (cooldown, e.g., >= 250ms between calls)
+- Calls must not run inside the main scheduler tick
+- If a request is triggered during playback, return cached suggestions or fallback rules
+- Timeout policy: if AI does not respond within a configured budget, fallback rules
+
+### 13.7 MIDI trigger (example)
+Use cc_map to map a CC to an action string:
+- "80": "ai_next_chord"
+- "81": "ai_generate_progression"
+
+Router rule:
+- On CC action, enqueue an AIChord request (non-blocking)
+- Later (same second), cache the result; UI can fetch it, or log it
+
+### 13.8 Observability
+- Log when AI is invoked, which model, and whether fallback was used
+- Metrics:
+  - ai_requests_total
+  - ai_success_total
+  - ai_fallback_total
+  - ai_validation_fail_total
+  - ai_latency_ms (best-effort)
+
+### 13.9 Security & safety
+- AI output must be treated as untrusted
+- Always validate/repair before applying
+- Never allow AI to directly claim pins, change scheduler state, or alter stop behavior
+```
+
+***
+
+## 🧪 2) Validatie‑engine + rule‑based fallback (ontwerp)
+
+Hier is een **concrete validatie‑engine** die je (a) beschermt tegen hallucinaties, en (b) zorgt dat je altijd bruikbare output hebt — zelfs als Ollama uit staat.
+
+### 2.1 Output‑schema (strikt)
+
+Gebruik **exact één JSON object** als output (de prompt‑contract forceert dat zo). Dit schema is bewust eenvoudig:
+
+```json
+{
+  "key": "C",
+  "mode": "major",
+  "suggestions": [
+    {"symbol": "Fmaj7", "degree": "IV", "confidence": 0.62},
+    {"symbol": "Dm7",   "degree": "ii", "confidence": 0.58}
+  ],
+  "progression": [
+    {"symbol": "Cmaj7", "degree": "I",  "duration_beats": 4},
+    {"symbol": "Fmaj7", "degree": "IV", "duration_beats": 4},
+    {"symbol": "G7",    "degree": "V",  "duration_beats": 4},
+    {"symbol": "Cmaj7", "degree": "I",  "duration_beats": 4}
+  ]
+}
+```
+
+### 2.2 Validatiestappen (deterministisch)
+
+**Stap V1 — JSON parse**
+
+*   Geen JSON → reject → fallback rules
+
+**Stap V2 — Normalisatie**
+
+*   Normaliseer enharmonics (Db/C#) (optioneel, maar consistent maken)
+*   Normaliseer chord symbols (`Cmaj7`, `Cm`, `Cmin7`, `C-7` → één canon)
+
+**Stap V3 — Symbol parse**
+Parse `symbol` in `{root, quality, extensions, alterations, slash}`:
+
+*   root ∈ {A..G} + optional #/b
+*   quality ∈ {maj, min, dim, aug, sus2, sus4, dom}
+*   extensions ∈ {6,7,9,11,13,maj7,m7} etc.
+
+**Stap V4 — Diatonic check (default)**
+Als `constraints.chromatic=false`:
+
+*   alleen akkoord‑roots die in de toonladder zitten
+*   akkoordkwaliteit moet matchen met diatonische triads/7ths (I=maj, ii=min, iii=min, IV=maj, V=dom/maj, vi=min, vii°=dim)
+
+**Stap V5 — Cadence sanity (optioneel)**
+Als `constraints.require_resolution=true`:
+
+*   dominanten (V7) moeten naar I/vi kunnen resolven (soft rule)
+
+**Stap V6 — Repair**
+Als AI net buiten de regels zit:
+
+*   vervang chord door dichtstbijzijnde diatonische kandidaat
+*   of drop chord uit suggestions lijst
+
+### 2.3 Rule‑based fallback generator (altijd beschikbaar)
+
+Als AI faalt → maak suggestions uit templates, afhankelijk van key/mode.
+
+**Templates (major)**
+
+*   Basic: `I → IV → V → I`
+*   Pop: `I → V → vi → IV`
+*   Jazz-ish: `ii → V → I`
+
+**Templates (minor)**
+
+*   `i → iv → V → i`
+*   `i → VI → III → VII`
+
+**Next‑chord suggestions**
+
+*   Op basis van huidige degree (Markov‑achtig maar deterministisch):
+    *   na I: {IV, V, vi, ii}
+    *   na V: {I, vi}
+    *   na ii: {V}
+    *   na IV: {V, I, ii}
+
+> Dit “choose the next chord” patroon matcht precies de UX die tools als chord‑seq apps gebruiken (user kiest uit suggestions). [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app/blob/main/README.md), [\[github.com\]](https://github.com/PetrIvan/chord-seq-ai-app)
+
+***
+
+## 🧠 3) Prompt‑contract voor Gemma (Ollama) — “in het spoor”
+
+Je doel is **stabiele JSON output**, geen prose. Dit contract is ontworpen voor **Gemma 3 1B** (klein, \~815MB) op Ollama. [\[1_Digital...dard 1-0-0 | PDF\]](https://fugro.sharepoint.com/sites/MSC-Geo-data-Digitalisation/Information/Minimum%20metadata%20standard/1_Digital%20Foundation%20Metadata%20Standard%201-0-0.pdf?web=1)
+
+### 3.1 System prompt (hard rules)
+
+```text
+You are a music-theory chord assistant.
+Return ONLY a single JSON object, no Markdown, no commentary.
+
+Hard requirements:
+1) Output must be valid JSON.
+2) Use these keys only: key, mode, suggestions, progression.
+3) Each suggestion item: {symbol, degree, confidence}.
+4) Each progression item: {symbol, degree, duration_beats}.
+5) confidence is 0.0-1.0. duration_beats is a number.
+6) If unsure, output fewer suggestions rather than guessing.
+7) Prefer diatonic chords unless chromatic=true is provided.
+8) Never include explanatory text outside JSON.
+```
+
+### 3.2 User prompt template (met context)
+
+```text
+Generate chord suggestions.
+
+Context:
+key="{KEY}"
+mode="{MODE}"
+time_signature="{TS}"
+bpm={BPM}
+chromatic={CHROMATIC}
+max_suggestions={N}
+
+History chords (most recent last):
+{HISTORY_LIST}
+
+Task:
+- Provide up to max_suggestions suggestions for the NEXT chord.
+- Also provide a short 4-chord progression continuing the history.
+- Keep diatonic unless chromatic=true.
+Return JSON only.
+```
+
+### 3.3 Few-shot voorbeeld (super effectief voor 1B modellen)
+
+Voeg 1 example toe vóór je echte prompt:
+
+```json
+{"key":"C","mode":"major","suggestions":[{"symbol":"Fmaj7","degree":"IV","confidence":0.62},{"symbol":"G7","degree":"V","confidence":0.60}],"progression":[{"symbol":"Cmaj7","degree":"I","duration_beats":4},{"symbol":"Fmaj7","degree":"IV","duration_beats":4},{"symbol":"G7","degree":"V","duration_beats":4},{"symbol":"Cmaj7","degree":"I","duration_beats":4}]}
+```
+
+Daarna pas je echte context prompt.
+
+***
+
+## Praktische integratiehint (Python ↔ Ollama)
+
+Omdat je “in Ollama met een Python API” vroeg: je kunt simpel via HTTP naar de lokale Ollama server. (Dit is generieke techniek; geen tool‑bron nodig.)
+
+**Pseudo‑call (concept):**
+
+*   POST `http://localhost:11434/api/generate` (of `/api/chat` afhankelijk van model)
+*   payload: `{model:"gemma3:1b", prompt:"...", stream:false}`
+*   parse response → JSON → validate engine → cache.
+
+***
+
+## Bonus: waarom jouw enterprise context dit ondersteunt
+
+Je interne [1-on-1 and  Copilot masters reunion](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAQ2VfzkAACoc1ccgMkWTIpbuSu3EBNGAASF6AqvAAA%3d\&exvsurl=1\&viewmodel=ReadMessageItem\&EntityRepresentationId=fa66ff51-08db-4abf-a705-be32f1d4d372) laat zien dat je al een **AI Chord Progression Generator** hebt gepitcht/gebouwd als concept (Scalar 2‑inspired).   
+En [Fugro 1-on-1 20250514  powerpoint](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAAAAAEMAACoc1ccgMkWTIpbuSu3EBNGAAXma4bHAAA%3d\&exvsurl=1\&viewmodel=ReadMessageItem\&EntityRepresentationId=a36e1c6a-fcb2-4a3e-a9b2-a813addc59dc) bevestigt dat het al in je “what I built” slides stond.   
+Dus deze TD‑uitbreiding is niet “random”: het is een nette productisatie‑stap. [\[1-on-1 and...rs reunion | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAQ2VfzkAACoc1ccgMkWTIpbuSu3EBNGAASF6AqvAAA%3d&exvsurl=1&viewmodel=ReadMessageItem) [\[Fugro 1-on...powerpoint | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAAAAAEMAACoc1ccgMkWTIpbuSu3EBNGAAXma4bHAAA%3d&exvsurl=1&viewmodel=ReadMessageItem)
+
+***
+
+## Wat je hierna kunt doen (zonder meteen FS te wijzigen)
+
+Je kunt dit als **TD‑extension** opnemen en implementeren als **feature toggle**:
+
+*   `ai_chords.enabled=false` default
+*   als disabled: alles blijft exact zoals v0.1.2 werkt
+
+***
+
+## Bronnen / links (zoals je vroeg)
+
+*   ChordSeqAI repo + README (next‑chord suggestions, model/style selection):
+    *   [PetrIvan/chord-seq-ai-app](https://github.com/PetrIvan/chord-seq-ai-app)
+    *   [README.md](https://github.com/PetrIvan/chord-seq-ai-app/blob/main/README.md)
+*   Gemma 3 1B grootte (≈815MB) + Ollama context: [\[1_Digital...dard 1-0-0 | PDF\]](https://fugro.sharepoint.com/sites/MSC-Geo-data-Digitalisation/Information/Minimum%20metadata%20standard/1_Digital%20Foundation%20Metadata%20Standard%201-0-0.pdf?web=1)
+*   Jouw interne referentie naar “AI Chord Progression Generator” in slides/mails: [\[1-on-1 and...rs reunion | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAQ2VfzkAACoc1ccgMkWTIpbuSu3EBNGAASF6AqvAAA%3d&exvsurl=1&viewmodel=ReadMessageItem), [\[Fugro 1-on...powerpoint | Outlook\]](https://outlook.office365.com/owa/?ItemID=AAMkADgzMWJkYTI5LWJhZmItNDM5MC04OWE0LTg5ZTg0ZmZmMTU1OABGAAAAAABXTKCYyHprS6eyMMemkT8CBwCoc1ccgMkWTIpbuSu3EBNGAAAAAAEMAACoc1ccgMkWTIpbuSu3EBNGAAXma4bHAAA%3d&exvsurl=1&viewmodel=ReadMessageItem)
+
+***
+
+### 1 korte vervolgvraag (alleen om het correct in TD te “pinpointen”)
+
+Wil je dat `AIChordService` **op de ESP32‑S2 zelf** draait (Ollama via netwerk is dan niet haalbaar), of is het bedoeld voor een **companion app op je Mac** die MIDI terugstuurt naar de ESP32‑S2?  
+*(Als je niets zegt, ga ik uit van “companion app op Mac” — dat past het best bij Ollama/Gemma.)*
 
 x
 
