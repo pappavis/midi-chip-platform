@@ -1,4 +1,8 @@
+# de idee
+<img src="../img/gebruikvoorstel.gif" alt="jij speelt">
+
 # Architectuur overzicht
+
 
 <img src="../img/argitektuur_oorsig.jpg" width="60%" height="60%">
 
