@@ -3,6 +3,9 @@
 A modular “MIDI → retro sound chip” platform in CircuitPython.
 Primary target: **LOLIN ESP32-S2 Mini** as a **USB MIDI device**.
 
+# Hoe werkt het??
+<img src="./img/gebruikvoorstel.gif" alt="jij speelt">
+
 The goal is a clean architecture that can run **multiple chip emulators side-by-side** (SN76489 first), with shared clock sync and strict pin/resource management.
 
 <img src="./img/funksioneel_hooflyn.jpg" width="42%" height="42%">
