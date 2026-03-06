@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "midi_channel": 1,
+  "log_level": "DEBUG",
+  "pwm_pin_preference": "IO18"
+}
