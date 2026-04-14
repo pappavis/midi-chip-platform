@@ -1,0 +1,2805 @@
+Ja
+Ja
+Ja
+Ja
+Ja
+Ja
+omreer jy tenminste iets van programmering weet nie?
+Ja, dit helpt. Goed.
+Ik maak een opname in ieder geval van dit gesprek.
+Dat tekst en dan ga ek dit later straks gebruiken
+als info om vir jou als interview.
+Maar anyway, vertel, ok?
+Dank u, dank u.
+Ik heb geen programmeringsachtergrond nie.
+Ek is wel baie goed met Excel formules en automatisatie
+tot op een sekere punt is in Excel.
+En al die jaren heb ek AppSheet gebruikt.
+AppSheet is kabelbasis in Excel sheet om in een app met een Google product.
+Maar met vandagse white coding en identity coding gedink as AppSheet gaan nageval wegval.
+Want die user interface kan jy nie verander nie.
+en so is baie limitaties.
+En toe white coding op die scene kom te sê,
+hier is die antwoord na my gebede.
+En want nou kan nou ten nie goed wat jy nooit voering kon doen,
+het nie geld voor developers nie.
+Nou kan jy jou eigen goed doen, eigen goed bouw,
+jy het nie nis nodig om te programmer nie.
+Jy het begin rond speel met Google AI Studio,
+en vandaar af Antigravity,
+wat jy dan op jou DSG installeert.
+Langs 2 report, ek het een diesel rebite app,
+zo kan verbouw, ek is zo 80 cent klaar geboere,
+waar hulle diesel verbruik uitwerk,
+en die rapatte wat na Sarshoek versie hier in het bos,
+en so aan,
+wat is een logboeken transaction,
+die van systeem.
+Maar wat het toe achtergekom het is,
+omrede ek nie codeering ken nie,
+hart het my tokens vanaf uit,
+want my prompt is nie af die raad nie,
+ek sê my prompt is te groot,
+en dan,
+dan,
+dan,
+dan,
+dan haak hy die telkens uit,
+en hy maak foute,
+hoe dit achtergekom het met die goede modele sien,
+wat hy nie alles breed sien,
+maar nog steeds,
+het vat zekere goed,
+my verskrikkelijk lang,
+waar,
+iemand wat programmering achtergrond het,
+gaan weet,
+hy moet na hierdie script toe gaan,
+en hy moet daar sê,
+het verander dit en dit en dit,
+en dan gaan het baie funniger gaan,
+en ek het gehoor hier met nieuwe chats,
+op maalse chats te lang is,
+wat het te veel telkens langs door die kort.
+ek het,
+ek het a point of sale ook al gebouw,
+fantasties,
+maar ek weet my goed,
+dit is nie die achtergrond 100% recht nie,
+en as ek vir kliente iets wil bouw,
+wat werk met,
+met geld,
+ek wil nie geld verloor vir die klient nie,
+imagine ek bouw nou a,
+a taxidermie app,
+en,
+iets gebeur met my data basis,
+of,
+iemand daar skryf oor een ander klient,
+en hy verloor,
+miljoenen rande,
+ek wil nie in soe situatie sit,
+die het my bang gemaakt,
+om,
+om,
+om te gaan naar een ontwikkelaar toe,
+specifiek iemand wat,
+white coding gebruik,
+om redactwere het,
+van baie geld en tyd spaar,
+maar die mens is nie eerlik daarbuiten nie,
+nie hulle maak,
+asof hulle nou alles van vooraf,
+die goede,
+die goede sit,
+wat ek nie weet,
+ek weet allemaal gebruik,
+al is jy een,
+gesookte,
+met die billig verdinker,
+maar in alle geval,
+toe kry ek,
+Pakistanis,
+en,
+hy is baie billig,
+met sy poste van die app,
+lokaal in Zuid-Afrika,
+die kost enig iets,
+tussen 100,000 en 200,000 aang,
+vir die basis app,
+wat ek nou soek,
+nou,
+kom ons sê,
+is die oomlik op 2,000 dollar,
+wat ek sê,
+22,000,
+kom ons sê,
+tussen 48,000 en 50,000,
+as hy alles,
+alles moet doen,
+maar,
+toe ek nou nog na jou luister,
+en ek voel nog altyd,
+as ek die rechte,
+eh,
+span gaan kry,
+kom ons nie met,
+eitjins,
+die rechte eitjins,
+as jy nou sê,
+business analyst,
+en die een wat dit doet,
+en die een wat dit doet,
+as ek swiss kan kry,
+dan gaan ek jy nie,
+amper jiltemaal self kan doen,
+en dan gaan ek so,
+een developer,
+die ook net gebruik,
+om vir my,
+eh,
+te verifiëer,
+en te,
+te kyk,
+dat alles in die achtergrond recht is,
+dat die,
+die pipe in recht ingesit is,
+die plafysel,
+die elektriciteit,
+en al daar goed,
+mooi in plek is,
+goed wat ek nie weet nie,
+want,
+ehm,
+wat die mense daar buiten nie weet nie is,
+dat is goed wat hulle nie eerst weet,
+dat hulle nie eerst weet nie,
+nou ek weet gelukkig,
+dat is goed wat ek nie eerst van weet nie,
+en ek snap het,
+dit is,
+nie,
+nie,
+heel even,
+ek herteen ek,
+ehm,
+ook,
+ek was net soos jy,
+ook begin met chat,
+op gegeven moment,
+ontdek ek,
+nou die chat,
+dit is net grafis,
+as jy grafisch chat gebruik,
+loop jy uit credits,
+dus ek breng,
+ChatCPT Pro,
+so ek een ongelimiteer chatintervise gebruik,
+ehm,
+ek had eerst,
+soort van,
+gevibecode,
+met,
+met die chatintervise,
+en dan probeer plakke,
+na tek,
+na tekstbestanden,
+maar dit,
+dit neem,
+neem helse lang,
+en,
+toen had ek die,
+en ek het ook ontdek,
+dat hy,
+maak foute,
+hy gaan,
+hy gaan dingen vergeet,
+hy gaan,
+spekschatten vergeet,
+of hy,
+ehm,
+hy laat gewoon,
+belangrijke deel van die code uit,
+of hy krij,
+ineens krijg je foutmeldingen,
+wat iets wat net had gewerkt,
+dus toen had ek ontdek,
+ehm,
+toen begon ek het meer,
+toen begon ek meer,
+met die context-historie,
+die,
+al zijn responses,
+ik probeer hem plakke,
+na,
+na tekstbestanden,
+en laat ek dit weer lees,
+is,
+dus ik had hem,
+sy eigen werk,
+laat review,
+en,
+in het volgende proces,
+laat ek hem dit automatisch doen,
+eh,
+nog steeds in die chat-interviews,
+ehm,
+en,
+toen word my code,
+word toen,
+in een keer,
+veel beter,
+ehm,
+en toen was ek ook begon,
+met,
+met,
+met een,
+met een proces,
+een zogenaamde governance proces,
+van,
+van business case,
+naar,
+functioneel werk,
+naar review,
+van dit,
+en dit,
+was allemaal,
+nog een nieuwe leader,
+interview,
+met chat-tips,
+hallo,
+interdrie,
+en dit,
+en dit,
+en dit,
+en dit,
+en dit,
+in dit,
+eigenlijkHayst voor mij,
+pha,
+dat wą,
+быть,
+op,
+een niens,
+dag,
+op,
+aan,
+pond,
+ga Tig,
+lag,
+met,
+zij,
+van,
+tu,
+kroch,
+hou,
+ik,
+..
+Hei, Krasbeth.
+Kies met jou, my Wi-Fi is al die stil te trek.
+Ja, gaan probleem.
+Nou, ek wil net net laas nog, ek herken dit, dus het is burig dat jy een soort van een team bouw en dat jy dit,
+die probleem is dat ek wat ek aflug een week had ontdekt met de chat, dat duur lang,
+To ontdek ek met OpenFlow, wat jy gewoon als met normale instructies, alleen maar met prompts kan jy informatie schrijf,
+maar dan, hy gebruik veel credits en waar die kwaliteit en die automatisering is veel verder vooruit gegaan
+en dan kan jy echt soort van virtual agents maak wat jou, wat die code gaan review, wat jou gaan uitbewijs van dit is niet fout
+en denk als jy dan een goeie, als jy op gegeven moment jou prompts had verfijnd, dan zou jy wat jy wil doen,
+so een taxiderme app of code genereer wat iemand niet gaat veld maak, wat hij die formulus niet gaat fouten maak,
+of dat hij niet iets gaat vergeet, of dat hij niet iets gaat vergeet, of dat hij dit kan doen en dat hij dit kan doen en dat hij die code genereer en alles.
+Ja, so dit wat jy nou nou al verdelik is wat jy gedoen is,
+as jy, als jy, die dit, die klaar PRD document opgestel en alles,
+as dit, die doodstel voor moet voer, gaan dit bitterlijk makkelijk kan, kan die neem ek aan.
+Ja, op dit moment, op dit moment doen hij alles, waar ik mij,
+hij begin,
+ok, laat, ik begin aan de hand van een project,
+ik wil een synthesizer maak, die fysieke ding wat jy zag,
+en, ehm,
+zodat hij,
+en, en, ik begin met user stories,
+vertel, gewoon vertel wat ek doen,
+sowieso net zoals ons nu aan de praat vertel,
+jy vertel oor die taxiderme,
+jy, jy, jy, jy, jy het een interview, jy, jy vertel wat jy doen,
+wie is het proces,
+dan na, oor,
+gaan, ek, geef jy die dit databronne wat hij moet doen,
+en, ehm,
+maar ek het al eigenlijk al geweet wat ek,
+wat helemaal in einde wil,
+en, toe kon ek het ook test,
+dus ja,
+Ja, ek denk dat dit proces wel helemaal kan en volledig geautomatiseerd is en dat jy gewoon met hem kan praat zoals nu praat en dat hij toch moet dat hij veel functieel ontwerp, business case gaan bijstelen, roadmap, die backlog, dat hij code gaan genereren wat je kan testen, uitvoeren en al dat soort van mening.
+Dus ja, ek wil, ek is daarmee bezig. En, want ook die voordeel is, wat my voordeel is, ek weet van programmering, dus ek heb ervaring, dus ek kan ook op dit gebied, kan ek dit self-check.
+Ok, want, my probleem is, ek het, ek het dittie van, het groep, dit is al sê, spierst en, wat, ek het nou,
+Wacht even, laatste, laatste 10 seconde, verbinding is verbree, was, was slecht geweest, kan je niet weer aan het halen?
+Ja, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie.
+Hallo, hi, hi, Kasper, ja, kies, Mathieu, sorry, ek heb net veel gebis, al nou, als u maal Zuid-Afrika zijn.
+Ok, kom, ek begin net voor, so, ek sit in een situasie, waar, as jy, as, as ek nou na je plan toe gaan over financiering,
+dan voel ek, ek weet omtrend alles, nie, dit, ek kan dit uit my komp uit, ek gaan veel financiering, kan kry veel bezigheid,
+want dit wat ek gedoen het al vir a paar jaar, maar nou moet, moet die apps krys, ja, kan het doen,
+maar, ek, ek, ek voel ons die een paar keer, want ek wees nie, wat gaan verkeerd gaan, of wat ek nie wees nie,
+en, eh, ek voel, ek het mensen nodig om te gebruik, wat, my die goed kan double check,
+en daarvoor, nou voel ek, nobody's lens, eh, wat gaan ek om nou eindelijk spaar,
+want, nou is ek in die middel van die prentie, ja, ek het die architect, en die business analyst,
+maar, klein bezigheer, en onthoor, of juist, hulle vol apps heen, maar het nie, hulle arm,
+en, eh, ja, so langs door die koord, het, hoe je het voel op die imposter syndroom, het aan die begin,
+want jy het nog nie jou eerste app gebouw nie, en as ek nou na die klient toe gaan gaan,
+dan gaan ek je weet om om te prijs nie, want ek op ons sê, ek gaan hierdie ontwikkelaar gebruik,
+en gaan ek bestemake, maar jy gebruik nou die ou, hoeveel betaal jy om,
+en ek is een deursichtige mens, dan gaan ek later opeindig, en sê kan nie eens geld vragen wat ek,
+hoe nie, so, ek het, ek het gedink, as ek kon,
+een werkbare prototype al gebouw het, en na die klient toe gaan,
+en sê, luister, ek het rees hierdie vrouw,
+dan gaan ek baie meer,
+eh, gaan ek, gaan ek baie meer geloofwaardigheid vir die klient heen,
+want ek gaan omklaar iets zien wat werk, en ek kan my sê, maar,
+kan hier nie dit in dit verander,
+en dan kan ek basis,
+eh, om selke raad, het gaan so veel kost,
+en hulle kan my hiervoor app te postie dan gee,
+en dan kan ek ontwikkelaar betaal,
+om die rees van die goeders te doen,
+eh, nou, dis, dis maar hoe ek gedink het,
+want op die stadium,
+gaan die ontwikkelaar vir my alles ga uitkoud,
+en alles doen,
+ek het vir my PRD gegeer,
+vir my,
+wat is die architect gegeer,
+en, dan gaan hy alles doen,
+en ek kan saam met hom mee werk,
+en sovoort,
+maar ek weet het gaan nog steeds,
+is as ek en hy,
+saam die goed moet doen,
+gaan die klient nog steeds,
+tussen 50 en 60 duizend band op betaal,
+en,
+jy weet wat vir iemand in Amerika,
+of Nederland nie baie geld is nie,
+maar, vir Suid-Afrikaanse,
+een boer,
+wat een taxidermie teesuit het,
+dit gaan vir hom,
+voel ek,
+julle mol te veel ges,
+ok, nou, ek,
+ek kan, ek kan een uitdaging,
+ek gaan,
+ek gewoon iets probeer,
+is, als ek met my,
+eh,
+as jy jou,
+als jy het bijvoorbeeld,
+die verhaal beskrijf,
+van wat die taxidermie moet gaan doen,
+wat is een bedrijfsproces,
+wat is inputs, outputs,
+foto's,
+dat hy moet upload,
+so duidelik,
+als moeilijk,
+dan kan ek,
+het is dit weet,
+dan kan ek dit,
+eh,
+in,
+in my proces ingooi,
+en,
+kyk,
+of hy in,
+een keer,
+dit kopieer,
+plak,
+druk,
+enter,
+of hy daarna,
+10 minuut,
+in,
+in,
+MVP,
+in website,
+voorbeeld website,
+daar uitspoeg,
+wat is,
+jy sê,
+ek wil het bijwaardeer,
+dit is,
+maar,
+ek het al uit haar gedoe,
+ek het haar PRB geskryf,
+ek het een routnet,
+ek het een mindmap,
+en,
+ek het,
+ek het volledig op,
+nou,
+groebeer,
+het Bits,
+Gtt,
+alles gedoen,
+so ek het hele dreed,
+ok,
+goed,
+wat ek,
+wat,
+ok,
+eerstens,
+dit is dit,
+ek kan jy niks beloof,
+van hoe dit gaan,
+dit is gewoon,
+dit is,
+dit is,
+dit is eerste keer,
+wat ek nu dit gaan doen,
+wat ik,
+eh,
+want dit is iets wat ik,
+dit, wat jy nu beschrijf,
+dit is,
+en dit met iemand interview,
+en dit proces,
+omdoen,
+en een website bouw,
+en,
+iteratief werk,
+en dit al met,
+white coding,
+dus,
+eh,
+dus wat jy eigenlijk met iemand,
+met alle mensen wil doen,
+dit doe ek nu eerst met jou,
+en dan gaan jy dit,
+met jou taxi daarmee gebeur het,
+en dit is,
+dit is so'n soort van die,
+van die gebeurkinges,
+en so,
+wat ek gaan,
+wat ek,
+eh,
+wat eerstens,
+want ek wil graag,
+ek wil graag,
+en daar gaan ook mensen wees,
+wat,
+eh,
+ik zie,
+wat sikker dienste,
+dit baie bezig het,
+dit soek,
+soek sa eie,
+applicatie,
+maar jy kan nie daarvoor betaal nie,
+en ek wil graag,
+die mark,
+my lekke,
+want jy loont een probleem op,
+jy nie kan dit vinnig oplost,
+as jy die rechte proces te gebruik,
+en ek wil graag,
+die mark betregen,
+ek wil dit baie geniet,
+eh,
+ek het my,
+eh,
+net nog geen weet het gegeen,
+ek het my,
+point of sale,
+het of hy ditelijk gebruik,
+het ek achtergekom,
+ek kan toegang krijg,
+voor die databasis,
+oh ja,
+en toe,
+eh,
+toe die word,
+ingeneer,
+dat ik point of sale,
+dat hij remotely kan werk,
+skryg my eie ding,
+met anti-gravity,
+ek sê die agente,
+ek koppel my die databasis,
+via MCP,
+aan SQL Server databasis,
+on-on-on-on-on-trent,
+en ek doen transaksies op die huidige point of sale,
+en ek sê vir die agente,
+kyk wat ek doen,
+kyk wat gebeur in die databasis,
+en dan vandaar af,
+skryg jy my die brand en,
+en die bank,
+wow,
+ek het binnen drie daa,
+eerst,
+ek het ding geskrypt,
+en,
+maar ek,
+ek het,
+ek het,
+soos gewee,
+het ek,
+shiny object syndrome,
+of eekkoorinkie syndrome,
+eh,
+as ek iets anders,
+ek lost vinnig het in die middel,
+en,
+ja,
+iets anders,
+getraak my aandacht,
+of ek,
+ek,
+ek voel,
+ek het klaar die ding bereik,
+en ek het klaar my toe van mien,
+tussie vir die dag het rin,
+en dan gaan ek iets anders betoet,
+maar,
+maar ja,
+so,
+het jy al met anti-gravity gebeur?
+eh,
+nee,
+ek het,
+ek,
+nog nie,
+maar,
+wat,
+ek weet het is een browser,
+of het is een,
+iets met van Google,
+ja?
+Ja,
+die anti-gravity,
+ja,
+anti-gravity,
+ek weet nie wat noem je alles nie,
+maar,
+dis nou een incentive,
+en,
+jy download hem op jou rekenaar,
+en dan,
+eh,
+hy is lokaal gestoor,
+hy,
+hy kan volle beheerkryf van jou rekenaar,
+hy kan die folder skip,
+hy,
+hy skryf basis die code,
+op jou rekenaar,
+en ook met proms,
+en binnen in anti-gravity,
+such as DCT,
+dat flow,
+dat gemene,
+alles,
+ek in model kies,
+jy kan vorms,
+die documente,
+documente,
+beide aanhouders,
+die development blog,
+en hier,
+ook map,
+en die hand hand op,
+en al dat soort dit,
+en,
+dit is alles lokaal op jou beestje,
+en,
+dan kan hy dit stoot na,
+na,
+a get up toe.
+Ok,
+dit link,
+dit,
+dit link,
+dit is,
+dit is eigenlijk selfs als,
+open pool,
+is,
+anti-gravity,
+maar dan,
+open pool is,
+open source,
+en met die code zelf,
+van,
+van open pool,
+maar,
+ja,
+dit is,
+misschien kan ek,
+anti-gravity gaan onderzoek,
+want dit is eigenlijk precies,
+dit is,
+met open pool,
+ek sê,
+daar is een fireclaw,
+eh,
+fireclaw,
+wat je kan koppel aan anti-gravity,
+ja,
+maar dit is,
+dit is,
+dit is,
+eh,
+ok,
+met,
+met,
+want,
+ek wist nie dat jy met,
+anti-gravity,
+overfereld,
+naar github kan publish,
+en,
+eh,
+agent,
+en eigen pront,
+en so,
+en weet sê wat kan doen.
+hy het,
+hy het een eitje,
+hy klomp eitjens ook,
+jy kan eitje,
+in die 20 eitjens apart,
+dat,
+daar,
+met elkeens eie saak,
+en ek weet nog nie,
+lekker hoe werk dit nie,
+eh,
+maar,
+jy kan,
+met anti-gravity,
+kan jy aan,
+baie goed koppel,
+nie baie mcp,
+en,
+hy het een fireclaw,
+ek sêker,
+open flow,
+dan ook met hom kan werk,
+wat anti-gravity,
+of wat ek nie verstaan nie,
+is,
+hy,
+hy gaan doen,
+en toets nie die goed,
+self nie,
+of misschien weet ek nog nie,
+van dit lied,
+maar,
+hy het ek met alle toets,
+en dan sê het,
+o,
+hy is een koud,
+en dan,
+moet ek dit nou,
+en dan,
+weet,
+wat ek nou weer lang,
+en,
+soos laat het ek,
+waarop ek vir die liter,
+of wil ek kursieve elg gebruik,
+vir die liter,
+en,
+op my een,
+een module heb,
+het het iere gevat,
+om het bedrag te krijg,
+het ek self gedinkt,
+het geset maar,
+het het iets met die fond te doen,
+en,
+en,
+en maak het saam toen raam in,
+en,
+en bracht daar die oplossing,
+die weet,
+maar,
+sikker goed vind,
+iemand die ek,
+wat iere en iere,
+waar iemand die jy,
+die dalk in een paar seconde,
+sal weet,
+wat die probleem,
+of,
+kom beter instructies,
+sê,
+maar,
+wat ek het,
+en,
+het het selfde,
+het selfde,
+het selfde,
+van fouten te ontdek,
+het ek een soort van,
+genaamde,
+testharness,
+waar hy,
+as hy fouten ontdek,
+moet hy die fouten,
+gaan onderzoek,
+hy moet een,
+uitvoerplan,
+samenstel,
+en,
+hy moet my adviseer,
+wat hy gaan verander,
+en,
+hy moet vergelijk,
+waarom hy dit gaan doen,
+en,
+hy moet,
+ek moet kan rollback,
+naar die vorige versie,
+van een fix,
+dus,
+om precies,
+wat jy nie beschrijf,
+dit te,
+af te vang,
+dus,
+dit,
+dit bevurreld,
+iets,
+als het die times,
+na die nieuwe raaming,
+misschien weet ek ek nie direct,
+maar,
+hy,
+moet my begeleid,
+dan naartoe,
+dat ek,
+in plaats van,
+dat ek een uur om die besers,
+10 minuten mee bezig,
+dus om dit op te los,
+ja,
+ja,
+joh,
+nee, dit blink goed,
+sê,
+so siel,
+ek sal,
+ek sal baie waardere,
+sê,
+uit halkanel,
+ek is op boemelaar status,
+en,
+nou,
+sê,
+ek sal,
+kijk,
+hoe kan ek,
+een geldie maak,
+of een ding,
+uit die klient uit,
+want,
+het ek nou nou om toegang van,
+en sê,
+nee,
+maar ons moet een fiver gebruik,
+en,
+nou,
+moet hy,
+daaraf,
+uit en draan,
+daarin betaal,
+maar,
+ek,
+kom sê,
+ons,
+ons het een risiko,
+dat,
+die developer,
+ek ken hem van geen kant af,
+nie,
+ja,
+en e-news is goed,
+maar daar produceer hy nie van ons,
+wat ons soek nie,
+hoe krijg my geld terug,
+wil jy,
+as jy met sikke,
+een tyf van langdradige goed,
+na kneem toe gaan,
+dan,
+dan gaan jy ons verloor,
+nou,
+ek,
+ek,
+ek,
+ek,
+ek vind jou,
+ek vind jou,
+jou aanpak,
+interessant,
+is dat jy eerst,
+een basiswebsite gaan bouw,
+dat jy na die,
+na die persoon al benader,
+sê,
+kijk,
+ek het al hier een website gebouw,
+dit is,
+dit is een voorbeeld,
+en hy is helemaal gericht op jou,
+en dit is een app,
+wat spesifiek op jou,
+taxidermie gericht is,
+of jou,
+weet ek veel,
+jou kaas en,
+kaas en brooikie,
+besigheid,
+en,
+hy is spesifiek op jou,
+hy,
+alles het hierin,
+betaal my,
+10.000 rand,
+het het 20,
+30.000 rand,
+en hy is van jou,
+of betaal my elke maal,
+300,
+500 rand,
+en,
+jy kan hom gebruik,
+ja,
+ja,
+en hy is klaar,
+hy is klaar,
+hier staat al jou data,
+alles is hier al beskikbaar,
+jou producte,
+weet ek,
+vir jou kaas brooikie,
+X,
+en jou kaas in,
+in ou,
+met wat,
+20 rand,
+of 30 rand,
+so weet nie hoeveel het,
+met,
+te hoerig kost,
+maar,
+dit staat alles al,
+hier is jou menu,
+kijk,
+hier is jou betaal,
+na jou betaalsysteem,
+jy kan gewoon,
+alles klaar,
+jy moet,
+wil jou,
+ja of nie,
+en wat wil jou anders?
+Ja,
+dit is,
+dit is,
+dit is,
+die manier,
+waar ons om toe gaan,
+want,
+hierdie mense ook,
+hy weet toch nie wat hy nie weet nie,
+so hy,
+hy weet nie as eindig wat hy al soep nie,
+so as hy kom bys,
+wat hy nodig het dan van hy,
+van,
+wat do ek by hulle sit,
+jy sê vir hulle precies,
+ek,
+kom ek sê vir hulle wat hy dink jy hulle nodig het,
+want hulle volgens my sê nie,
+so ek klaar da,
+die sê hulle hier sê,
+flink of jy hier gewaard het,
+maar dit is,
+dit is om het,
+dit is om het,
+ja,
+jy weet,
+dat sê daarmee is een,
+is een vervaardigingsbezigheid,
+en hy is niks anders,
+dit is enige ander vervaardigingsbezigheid nie,
+en jy moet net,
+dink aan die stappen,
+en wat wil die kleing graf sien,
+wat wil die kleing graf sien,
+en wat wil syd nie in die graf sien,
+so,
+dus basis,
+jy wil net,
+jy wil,
+het die post toe kan inneem,
+jy wil een potatie kan geë,
+jy wil die oude dokumente kan oplaai,
+en jy wil vir hom kan praaf,
+wat dit die betrifie is,
+soek hy van die goed,
+al die,
+die bokse kop in sy velle,
+en alles met,
+spesifieke kodes kry,
+hulle moet aan mekaar gekoppel wees,
+wat hulle kan verloor nie,
+in die databas is,
+en dan,
+as die kleing dan nou weg gaan,
+oorseer,
+dan wil jy kom opdaterings kan geë,
+of hulle met enige tyd kan invang,
+een kleing te portaal in,
+om te sien,
+waar in die proces is sy bokkop,
+en dan moet hy een notifikatie kan kry,
+en hy gaat hier in die proces,
+wat hy dan iets moet goedkeer,
+stel nou maar die bokkyk links,
+en hy sê nie,
+hy wil eerder die bok moet recht kyk,
+en dan moet hy sê,
+soek die bok recht kyk,
+en dan moet hy dit so goedkeer,
+en dan kan die tekstie daar nie verder aangaan,
+en hy het een audit trail om te sien,
+maar jy vervee,
+soek jou bok so,
+en dan as dit nou by finale,
+as die trofee dan nou klaar is,
+dan moet die klent eerst betaal,
+hy kan uiteraard ook na die foto's kyk,
+dan moet hy die finale betaling maak,
+en dan word die volgende proces,
+is dan die versending,
+of shipments in Engelse terme,
+dan moet daar die dyns voorbereid word,
+om geskeept te word,
+en dan moet die weibel wees,
+en die klent aan die ander kant,
+hoe dan kan volge,
+dis net in een nete top wat dit is,
+en ek het dit so mooi,
+in my project requirement document,
+het dit so opgesteld,
+en ek kan dit via spier,
+ek so graag wil,
+ja, ek baie opgewonde oor jou agenten ding wat jy gebouw het,
+en die kruis verificaties en toetsen en goete,
+want ek het so systeem gebruik in Zuid-Afrika,
+die dynk ek die ene,
+as jy so stelsel kan bouw,
+en jy kan bij die klent sit,
+en jy,
+dierom,
+jy vraan nie vir die klent,
+klomp vra,
+en jy verstaan die business case,
+en jy voer dit en die ding in,
+kan jy binnen een week vir die klente,
+een prototype gee,
+en jy kan,
+jy kan binnen twee weke,
+kan jy,
+kan jy tot die,
+die tot productie gaan,
+nou jy denk jy kan het,
+as jy,
+as jy al jou,
+jou,
+eh,
+as jy al die informatie had,
+jou funsionalist specificaties,
+jy weet al wat het,
+plus jy eie ervaring,
+en jy het die,
+jy het een agent ingesteld met,
+met governance beheer,
+wat,
+eh,
+inventarisaties op vraag gestel,
+en die devil's advocate speelt,
+dat jy,
+misschien al binnen een dag,
+ja,
+binnen,
+binnen een paar uur,
+al zelfs,
+in,
+in,
+in,
+eh,
+een demo website kan bouw,
+wat misschien nog nie geïntegreerd is,
+wat nog nie weibels kan verwerk,
+of,
+eh,
+en,
+maar,
+wat,
+maar,
+maar,
+maar,
+maar,
+met wel,
+en nog niet in integratie,
+sekere manual stappen het,
+maar nog steeds,
+ja,
+ja,
+maar dat jy,
+hy kan het simuleer,
+dat jy die simulaties inbouw,
+asof jy een way wil stuur,
+met,
+met DHL,
+of weetveel,
+en,
+en,
+dat jy daar in is,
+dat jy sien,
+ok,
+dit is moeilijk,
+alleen,
+die integraties moet jy dan onderzoek,
+dit gaan misschien extra kosting kies,
+en dan koste bedoel,
+en jy moet maandeliks betaal aan,
+DHL,
+of,
+ja,
+koor ja,
+maar dit is,
+dit is die minder belangrijkste gedeelte nou,
+genauwe van die klenten sê,
+eh,
+MVP is,
+hy wil die klenten kan inneem,
+hy wil foto's kan inneem,
+en hy wil heer die klenten moet kan kyk en kan goedkeer,
+en hy moet,
+as hy,
+as hy moet die betaling neen kan kry,
+van Stripe of PayPal of so,
+en,
+en daalig so betaal,
+so wie die goed,
+waar hy makkelijk gereconcileer kan hoort,
+dit is sy hoofdhoefte,
+daarin het goed kan vaten,
+twee en drie wees,
+maar ja,
+eh,
+ja,
+nee, ek,
+dit vindt my goed,
+maar het jy dit al,
+het jy dit al,
+eh,
+in jou,
+eh,
+doks geschreven,
+die,
+die proces,
+in die video,
+alles,
+oké,
+alles,
+alles,
+alles geschreven,
+ek kan,
+en is in Afrikaans ook reed,
+mooi,
+as hy,
+as hy wil,
+en jy wil daar indruk in jouw systeem,
+en met die,
+kan ek het nou vir jou stuur,
+ja,
+as hy dit na my te stuur,
+dan gaan ek het,
+eindelijk is dit een soort van officieel my werktijd nog,
+maar ek is moe baas,
+nee, nee, maar maak niet uit,
+dit als stuur het maak,
+maar wat ek,
+net,
+net informatie,
+wat my,
+eh,
+wat my proces doen is,
+hy,
+hy maak dokumentatie,
+dus alles wat jy gaan stuur,
+gaan ek,
+gaan ek nie neem,
+en dan,
+gaan ek,
+dan gaan ek,
+dan gaan ek,
+dan sal hy daar,
+op basis daarvan,
+functionele,
+hy sal een businesskeis schrijf,
+hy,
+hy maak een,
+technisch,
+functionele ontwerp,
+hy gaan user stories schrijf,
+alles wat jy my nie had verteld,
+van die taxidermie,
+dit sal hy,
+dit gaan hy alvast,
+in die user stories beskryf,
+van die user story,
+en hy sal,
+en hy gaat die,
+hy sal skrim kanban backlog maak,
+en,
+die let gesproken ook nog,
+alvast in,
+mdp 0.0.1,
+ja,
+ja,
+en,
+fantastisch,
+web-based,
+het was een,
+like,
+web-based,
+web-based code,
+so,
+met,
+ja,
+hier gaan,
+is een web-app,
+beest teker,
+en ek weet nie,
+wat die proces om,
+dit van daaraf later,
+na,
+een native app,
+zoals een Android,
+of,
+of,
+Iphone,
+zoals een Spotify,
+maar,
+web-app,
+het waars voordeel,
+dit kan op enige plek,
+en,
+maar makkelijk,
+kan je inlok,
+maar,
+die punt is net,
+je gaan sikkel,
+met sekere,
+funktionaliteiten,
+soos,
+soos,
+instant messaging,
+en sekere typen van goeders,
+en,
+en,
+dalkiel camera,
+zoog,
+ja,
+ja,
+ja,
+dit kan nog later uitsorteer,
+met,
+messaging,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+met,
+openplol,
+whatsapp berichte verstuur,
+en ontvang,
+dus,
+je kan een volledige,
+je kan geautomatiseer,
+geautomatiseer,
+eh,
+a chatbot,
+via,
+via,
+via whatsapp,
+georbeeld,
+ek,
+ek kan,
+opgeven moment,
+kan ek eindelijk,
+chat,
+ehm,
+chat CPT,
+of tenminste,
+openplol,
+en miswashinglik,
+en anti-gravity ook,
+opdracht gee,
+om,
+as ek een bericht,
+as jy met my gaan,
+gaan whatsapp,
+dat hy my gaan impersoneer,
+en reeg,
+en doen,
+alsof,
+jy,
+jy denk,
+jy praat met my,
+maar jy praat nie met my,
+joh.
+Wonderlijk,
+wonderlijk,
+dit is,
+en alles,
+alles gebeur,
+die is daar op whatsapp,
+so,
+hoe meer jy kan integreer,
+betekent,
+hoe beter,
+hoe beter,
+so ja,
+ja,
+neem maar pas,
+ek,
+ek,
+stuur my,
+stuur my die,
+die,
+die,
+die,
+ek,
+wat ek,
+wat ek gaan doen is,
+al gaan ek,
+gaan die gesprek,
+wat ek,
+wat ek nou het,
+dit gaan ek ontzet,
+in,
+in tekst,
+dit gebruik,
+dit is die databron,
+plus,
+alles,
+ding,
+info,
+wat jy net gestuur,
+en dit gaan ek,
+sal ek,
+sal ek,
+sêg,
+ok,
+dit is al die databronen,
+kan,
+kan ek,
+kan ek,
+vir jou,
+eh,
+net ter,
+terwille van,
+die omskakeling na tekst,
+jy kan ek sê,
+precies,
+van die begin,
+tot die einde toe,
+hoe dit werk,
+vir die tekst daarmee,
+dit kan ook dalk help,
+ok,
+wacht jy,
+nie,
+user story,
+moet effe,
+kiks,
+moet doen ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+den,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+�,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+ek,
+Moet mooi afgeslag word en sy fel moet gepresipteer word en en en.
+En ja, so met ander woorde, dan vat die professionele jachter nou die klient saam na taxidermie toe.
+Hy vat dan nou die bok en die kop en die tanden en wat ook al saam.
+Hulle gaan na die taxidermie toe.
+Hy kom in die taxidermie en hy kies dan wat sy type trofee soekrys
+vir Sennema sy kudo wat hy geskiet het of sy leidberg of wat ook al.
+En hy kies die trofee Sennema en dan word daarom dier die taxidermie gesêkel.
+Ruit meneer, dit gaan vir jou soveel kost.
+Dan stier hulle kom Sennema op die oomlijke kwotatie.
+Somming na die boon toe, argument onthalwe met a payment guideway Sennema.
+En dan kan hy dit aanswaar en hy kan dan betaling maak.
+Het gewone kvat hulle ontrent so 50% de positief.
+Nou Sennema het bringe a bok in.
+Nou a bok het woerend, hy het a fel, Sennema het tanden.
+So daar word basis dieke maar a jobkaart gecreëid, vertrefeeerd.
+En binnen na die jobkaart het jy een verskillende items.
+Al hierdie items moet aan mekaar gekoppel word met die code.
+So dat dit nie kan verloor nie.
+Sennema gesêkel kan dink dat sy daarmee duisende kliënte wat in kom met, kom met sy ouwe keer.
+En kom met, doof, spees.
+Tam je uit te jen ohen.
+Kom met, doof, spees.
+Weet te jenen om te jak Emmy
+O, O, O, O, O, O, O.
+O, O, O, O, O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+Jy hoef niks te doen, dit word een test, want theorieet gesproken, jy spreek een spraakbericht in, hy vertaal die spraakbericht bij my naar tekst en hy stuur dit naar my en ook naar jou.
+Oh ok, dit is interessant, maar ek gaan gaf jy een voice now dan spier.
+Ok, goed zo, ok, oei.
+Ok, en dan die PhD, dankie.
+O, O, O.
+Oep.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+die nous geleues, die weithelige
+van die weithelige
+Terima kasih.
+O, O, O.
+O, O, O.
+O, O, O, O.
+O, O, O, O, O, O.
+Ja, kom ons volgend na door, wat is dit nou?
+Wat is dit nou?
+Ehm...
+Maar, nou ja, weet je wel.
+Het gaat wel.
+Het gaat wel.
+Het gaat wel.
+Ja, jy had ook die heterolatie.
+Jy had ook een...
+Jy had daar ook nog een uitreik.
+Maar jou is echt...
+Hater.
+En jij wil nie echt wat eigen ding
+en je eigen eigen ding, dat jij niet voor zover...
+Maar heeft hij mij ge...
+Daar...
+Nee, waar is de mens?
+Heeft hij mij gevraagd...
+Heeft hij...
+Heeft hij mij gevraagd of ik het wil, of ik je daar niet kan helpen?
+Nee.
+Oké.
+Maar...
+Dus ik heb ook niet de optie om...
+om nee te zeggen.
+Want jij zegt al...
+Ik heb zo ervaard...
+Er wordt al namens mij nee gezegd.
+Nou, het is meer aan je aardigheid.
+Want dan denk jij...
+Je hebt zelf nogal veel dingen aan je eigen huis te doen.
+Dat doe je ook al niet.
+Dat snap ik, maar...
+Dat gaat ook niet uit.
+Ja.
+Maar zo...
+Ik hoef je niet te vragen.
+Ik vind het ook...
+Ik vind het ook zelf wel...
+Eh...
+Kijk...
+Ik werk op dit moment niet zelf.
+Nee.
+Dus...
+Ik heb ook wel gewoon...
+Ik heb ook wel...
+Ik heb ook wel gewoon...
+Dat is wat meer...
+vrij...
+Ik vind het ook wel...
+Eh...
+Kijk...
+Ik werk op dit moment niet zelf.
+Nee.
+Dus...
+Ik heb ook wel gewoon...
+Ik heb ook wel gewoon...
+Dat is wat meer...
+Vrij...
+Vrij...
+Vind ik veel...
+Van andere mensen...
+In dit soort dingen als te doen.
+Dus ik vind het ook...
+Best wel...
+Kijk...
+Is iemand...
+Dit laatste baan...
+Van hem te doen ofzo...
+Vind ik het ook wel wel anders.
+Maar ik denk...
+Ja...
+Ik werk nu...
+Andere mensen wel...
+En dan is het best wel...
+Ook een belasting.
+Het is ook niet...
+Zeg maar...
+Soms kan je zeggen...
+Dan denk je...
+Oké...
+Het is niet zo...
+Zeg maar...
+Eet...
+Ja...
+Iets verplaatsen...
+Ofzooiets...
+Maar dit is echt wel...
+Gewoon...
+Ja...
+Het klang...
+Eén van de stondste...
+Zinnigste klop...
+In te doen...
+En het is echt...
+Zeven meter...
+Voor zeven meter...
+Dan moet dat behangen af...
+En eigenlijk heb je dan...
+Ja...
+Ik bedoel...
+Ik bedoel...
+Als je een lege basis...
+Er niks moet hebben...
+Om een pak te voren van me aan...
+En...
+En...
+Dat maakt het ook niet heel...
+Weet je wel...
+Weet je wel...
+Weet je ook wel...
+Weet je ook wel...
+Ja...
+Maar...
+Weet je wel...
+Weet je wel...
+Weet je wel...
+Weet je wel...
+Weet je wel...
+Weet je wel...
+Maar hoeveel...
+Hoeveel lagen...
+Waarom ga je verweideren?
+Want ik...
+Want...
+Ik zag van de weekend...
+Ongeveer drie lagen...
+Nee...
+Twee...
+En twee lagen...
+In de opzitter...
+Sommige plekken...
+Ja...
+Maar daaronder heb je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Weet je dan...
+Maar is dat niet een...
+Is dit niet meer efficiënt om...
+Bijvoorbeeld...
+Een behangstomer...
+Of...
+Te...
+Nee...
+Ik kan het met een kleenstomer...
+En dat is...
+Nou ja...
+Maar behangstomer is...
+Oké...
+Een behangstomer is...
+Heeft een veel groter...
+Een soort van...
+Bak...
+Oké...
+En...
+Een keer meer...
+Het is...
+In het verleden...
+In het verleden...
+Het is...
+Heel aard...
+Ja...
+Maar luister...
+Even...
+En...
+En...
+Je bent nu...
+Je schouders...
+Je bent nu aan het krabbing...
+En...
+Enzovoort...
+Je bent je schouders...
+Je bent je arme aan het gebruiken...
+En...
+Dit kan bijdragen...
+Aan...
+Aan...
+Algemene toestand...
+Ik meld dit...
+Nee...
+Maar...
+Ik denk...
+Ik heb een boonmau...
+Ja...
+Wat is dat?
+En ik hoor even...
+Een...
+Een...
+Een...
+Een...
+Een...
+Een...
+Een...
+Ze...
+Een...
+En...
+Een...
+Een...
+Omdat er een soort van stil zijn, maar niet zo echt van later, maar het voelde alweer die nou weer liefde in jou.
+Ja, we moeten gewoon even opleggen, maar het is een soort van goed aansleefd.
+Omdat het normaal is gaat, en het is pas de doorzitter ook nog.
+Nou ja, het is een van alles wat we hebben gedaan.
+Ik wil eigenlijk even kijken voor de laatste stappen, dat is mijn verlissing, dat is een aanslaafdra,
+en dat is wel een groot spiegel ook al voor je, workplace, ja, iets van, ik denk dat het van een soort draaistoeltje wil, ik denk dat dat heel veel elektrische draaistoeltjes.
+De draaistoeltjes, oh ja, ja, maar had je niet ooit, ik bedoel, van de laaggezettende draaistoeltjes?
+Ja, maar ik denk dat een draaistoel is in de zin wat praktisch, want je hebt niet veel ruimte, en als je een, als je een echte stoel hebt, dan kan je wat meer,
+je kan mensen, die iemand kan gaan zitten, en naar links en rechts kijken, en misschien nog voor de spiegel, dat is gewoon in het kader van ruimte meer.
+Dat is ook inderdaad, ja, en ik vind het ook heel lekker, zeker wel, het is een soort van spiel, het gevoel, ook,
+dan draaistoeltjes van, ja, en het is ook praktisch met werk, van, dat willen we laten zien, dat het even aan de zijkant is,
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja, dat is zo, eh, handig, maar ja, het is echt, ik en ik voel gewoon wel, ja, zo die tijdstuk van, eh,
+en, eh, deze maand, ik had wel gekeken, wanneer moet ik WD aan gaan vragen, enzo,
+Ja.
+Eh, maar dat is nu nog niet, dus dat is in iets van 1 mei, dat moet ik dat doen, en, eh, maar ik zie echt gewoon
+niet, nee, dat is wel een beetje jammer, van lucht.
+Nee.
+Dus, ja, dus vind ik wel een lot sterk, maar ja, misschien is dat echt wel maar een...
+Ja, maar dan wordt het, eh, van die, dat ik met het, eh, ROC, dat ze zo, ja, gestoord was.
+Ja, dat is wel mooi.
+Ja, ja, ik weet niet, af te laat te zien, denk ik, ik weet zelfs dat ik die vakkakuur al hoorde al,
+dan was het echt niets van mij, ik deed zo'n half, acht, acht, acht en dan,
+en dan al in het stressmodus van, eh, alles klaar zetten, die examen,
+het staat in welke vakkenblad, maar je kan nu echte servicier en dan het spouten doen.
+En dan, eh, die Tom Zalwacht al daar, allemaal problemen gaan om, je hoortje tot 9 uur,
+van dingen die niet goed staan, of niet goed vergaan zijn, of whatever,
+ik denk, nou, dat is niet niks van mij mogelijk, toch?
+Ik heb wel gewoon rustig.
+Kunnen we starten zo ver?
+Eh, nee.
+Nee.
+Het is er achteraf gezien, denk ik, ja, ook al, wat het wel qua uren goed geweest,
+vind ik het helemaal niet aantrekkelijk vinden.
+Nee.
+Nee.
+Nee.
+Nee.
+Maar, ja, ik zit ook al naar hele andere dingen te kijken.
+Ik denk wel gewoon naar, cijf je winkel of je memorie, ja, of, deze gewoon totaal,
+totaal buiten, buiten, buiten, buiten de box.
+Ja, maar weet je wel, als je een leven anders wilt leden, moet je ook andere incolliënt gaan zoeken.
+Maar je hebt ook al een brede ervaring, wat je werkt, ooit bij de bouwling, jaren lang bij de bouwling gewerkt.
+En je was bij die opleiding, ooit bij ROC gewerkt, je was bij personeelzaken van HMC en je was ook nog managementsassistent geweest met groen, beter groen, gezond in De Haag.
+En je was bij TDC, TDAH, officieel winkelsupport medewerker, of milkswinkelsupport, enzo, een coördinaal winkelcoördinator.
+Dus dit was, ja, die heb heel veel verschillende ervaringen gehad.
+Ja, ik heb wel wat, maar ik ben natuurlijk ook wel nog geen centen meer, dus ik denk dat het wel ook is, dat je dan natuurlijk ook...
+Heet jy het, die is net wat er vandaan is, die is daarom?
+Ja, maar vervur nog, ek werk nog altijd in de ICT, ek was altijd, ek volgde in een bepaalde soort van lijn.
+Het is niet dat ik, ek ben al jaren in, zeg maar, in soort van functioneel beheer, maar jy doen, jy heb een brede...
+Wat heeft onderwijs, en examens, en wat jy ooit heb gedaan, waar is dat gerelateerd aan bij TDAH winkelcoördinator?
+Wat heeft, qua werkzaamheden, is totaal andere sektor ook?
+Nee, maar het maakt ook niet zoveel uit. Het gaat ook om dat je moet coördineren, organiseren, regelen, ehm, dat je verantwoordelijkheid volgt,
+om dingen op te pakken, dat je ook anders kan werken.
+Ja, dus Stefan wel, weet je, je zit in al die sectoren, en dan kan je wel zien van het eeuw,
+je moet daar gedaan, hier is het niet het steltje te zijn, en anders zou je heel moeilijk ergens dat je het net te kunnen vinden,
+want je had iemand echt al in een onderwijs geweld moeten hebben, ofzo.
+Het is wel misschien handig, maar je hoeft niet, hoor.
+Het is meer dat je, ehm, ja, gewoon een beetje weet hoe dat soort dingen werken.
+En, ehm, naja, dat.
+Maar, ja, het is meer dat ik denk van, ehm, die vakken die je leest.
+Ik vind het zo gewoon, dat ik, ehm, ik vind het echt wel denk van, dit is niet gewoon echt,
+van die hele stad, dat je gewoon stelt van een doel voor.
+Dus ja, dat is eigenlijk gewoon wel, het leuk vind.
+Het is een ingewikkeld stad, dus je denkt van, nee, dan ben je het normaal, maar,
+en dan, in de helftende week, deze ben je dan toch weer iets anders.
+Ja.
+Ja.
+En toen was ik, ehm, ook met Caroline, die is het ook gaan doen.
+Toen was ik ook nog even aan de restructuur, hè.
+Ja, het klinkt me als, ehm.
+Ja, dat klinkt me als, ehm.
+Ja.
+Ja, het klinkt me als, ehm.
+Ja.
+Ja.
+En je hebt toch nog die, eh, Isabel, wat open is, wat, wat, wat, met haar stichting,
+wat nu hard loopt.
+En je kunt, of weet je wat, in een stichting, ehm,
+een stichting, je kan mensen in dienst neem bij een stichting.
+Je kan personeel aanneem voor een salaris, maar diegene die het stichting staart vindt.
+Dus Isabel mag herself niets aan verdienen.
+En die mag ook niet, ehm, ook niet via kickbacks, en, enzovoorts met, ehm,
+enzovoorts met, ehm, enzovoorts, dit is legaal.
+Maar, je kan wel mensen in dienst neem, bij voorbeeld.
+Oké, het is niet dat je wil.
+Maar, weetens, het gaat om het principe van de bedrijfstaten.
+Ah, hallo, dit is vroeg niet wat je zegt. Isabel kan gaan bezalen.
+Als je een stichting hebt, kan je wel gaan laten bezalen.
+Oké, nou ja.
+Hoe is dat dan als je geld moet verdienen, als je dan een stichting moet?
+Ja, die theorie is, die theorie is, die stichting is, gaat voor goede doelen.
+En, die theorie is dat de stichting...
+Ja, maar twee jaar is ook een stichting.
+Ja, maar je mag geen, een stichting mag niet winst nabejagen.
+Maar dat is dus anders. Winst, nou ja, of je zelf niet uit, die houdt allemaal dingen door elkaar.
+Je mag gewoon in een stichting, mag je jezelf gewoon uitdalen.
+En je mag het dan, ehm, vanavondig krijgen hoor.
+En er staat niemand in stichting in die stichting aan.
+Ja.
+Dus je mag het gewoon personeel aanmelen.
+Ja.
+Nou, oké, nee, correctie. Ja, goed dat je het zegt, maar, ehm, ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja, je zei, je zei, ik had ook gewoon een bepaalde voor de dingen die we in het verleden niet,
+maar nu wel.
+Ja.
+Voor de eeuwen die zij daar, zeg maar, aan de steek.
+Ja.
+Ja.
+Dus, ja.
+Maar, ik wil nu zien mijn ideeën in de stichting doen hoor.
+Maar, ehm, ja.
+Wel, dan.
+Zoals te kijken naar.
+Waar gaat de stichting in de winkel en de combinatie, weet ik.
+zo'n groot stad.
+Ja.
+Aan de andere kant, denk ik, ja, het is een groot stad.
+Maar, hij is wel, heel meer aan de kant van het lager, als het gaat om neren.
+Dan, als ik het hard doe, en hier, thuis.
+En, ik kan het hier thuis ook doen, dus het gaat niet in de plek.
+Ja.
+Maar, het gaat om de bereikbaarheid.
+En als de bereikbaarheid is zo, zo in de normale grover.
+Als je een lingua hebt.
+Dus, ik denk dat het een jaar, dat je moet verlaten.
+Dus, je komt het niet te kant.
+Ja.
+Als je dan, je kan nu de film aan het doen.
+Dus, stel dat die ww, ja.
+Stel dat je zegt, oké.
+Je mag, een half jaar, weet ik wel.
+Aan grovering van.
+Ja.
+Goed, ww.
+Ja.
+Ja.
+Dan denk ik echt, dat ik dacht, ja.
+Maar, wanneer zou ik dan niet gewoon, dat hele bouw doen?
+Gewoon wel, met een winkel erbij.
+Ja.
+Ja.
+Ja, dan ben ik gewoon volledig, maar jammer dat die winkel, eh.
+Waar het, eh, dat het, eh, gevoel was.
+Dat jij op je ogen had gehad.
+Nee, ja, maar, ik bedoel, daar gaat het niet om.
+Ik doe het niet veel van.
+Ik heb er nog heel veel mee.
+Nou ja, misschien niet weten, misschien wel.
+Maar, het gaat meer om, je voelt al heel wat anders dan.
+Ja.
+Het gaat meer om, van, ja, wat wil ik?
+Weet je wel?
+Van, wat is de wijsheid in deze fraadheid?
+Ja.
+Dat, dat is meer waar ik mee weet, en in mijn hoofd.
+Ja, even.
+Het is, eh...
+Ehm.
+Ja.
+Even.
+Het is, eh...
+Ik bedoel.
+Ik bedoel.
+Ik bedoel.
+Ik bedoel.
+Ik bedoel.
+Ik bedoel, ja.
+Ik bedoel.
+Ik bedoel.
+Ja, en dan had ik nog wel niets om.
+Dan denk je, hoe je er alleen maar syriaar is.
+Nou, nee.
+Wat heb je er te doen?
+Oké, nee.
+Verklaar.
+Een syriaar is, je, jij, jij.
+Oké, vertel.
+Hoe die uit Syria komt.
+Ja.
+Ja.
+En die mensen, ja.
+Die beginnen gewoon met winkels en ondernemen.
+Die komen nu op vluchteling.
+Toen heb ik daar in een geval, weet ik zo, drie jaar of zo, vijf jaar.
+en, ehm, willen we gewoon hun eigen monee nemen.
+Dus die doen, die zijn gewend iets op monee maakt.
+Ja, want dit is, en dit...
+Laat het zo'n groot ding weten.
+Nou, weet u waarom, daar is een reden waarom, waarom mensen daar makkelijker onderneemt.
+Is omdat daar, ehm, economie is meer gebast, is daar, er zijn minder formele werkgelegenheden mee.
+Er zijn weinig, die enige vaste banen zijn meestal mensen die bij een telecombedrijf werken of bij overheden.
+En, voor die rest, heb je, heb je, heb je vaak ondernemers.
+Heb je die moe...
+Dat weet ik niet veel.
+Ik denk echt, om...
+Dat soort langer, dat is mij zo bekend, vind ik al wel.
+Maar, het gaat erom, dat het een bepaalde, ook mentaliteit is.
+Ik noem het even als voorbeeld, de syrische mentaliteit van, weet je wel, gewoon doen.
+En, ehm, hier gaan we gelijk heel erg nadenken.
+Ja, maar wat al?
+We gaan het heel moeilijk maken.
+Terwijl ik denk, ja, is het nou echt...
+Je moet aanreken, je moet een belastingdeling, je moet andere afvoeringen, je moet het liefst niet in het probleem komen.
+Ja, dat snap ik allemaal.
+En aan de andere kant denk ik ook, ja, maar ja.
+Weet je, het goede deen die, die dat doet, die het wel doet, ehm, die weet ook gewoon hoe het is.
+Ja, want, ehm...
+Ja, ik kan wel omhoog, allemaal dingen bedenken, maar ja, ik heb het niet gedaan, dus dat weet je niet.
+Ja, maar heel even ter informatie, ehm, als ik heb je al gedaan over ondernemerschap en mijn jeugd ervaren, Zuid-Afrika,
+Hindoestanen zijn ondernemers.
+Hindoestanen werken nooit, die werken niet voor hun, voor hun baas.
+Nee.
+En toch, en ze waren, ze waren, in die apartheidstijd, ze waren van die meest welvarende groep, ehm, in hun eigen, in hun eigen omgeving.
+Ja.
+Dikke Mercedes, grote huizen, echt, renditte, en dat ook nog in die apart, in die apartheidstijd.
+ehm, en die ANC-regime heeft een pesthekel aan, ehm, aan die, ehm, Hindustanen.
+Eerst is het blanke, tweede is het nu Hindustanen.
+Nee, maar, los ben je daarvan, ehm, is het gewoon iets, ja.
+Want ik denk, ja, ehm, het heeft te maken met, hoe zit je in, in het proces, weet je, hoe bekijk je dingen, hoe benader je dingen.
+Ja.
+En als er allerlei dingen roept, gebeurt er, waardoor je, ehm, wat perking is niet ofzo, dus waardoor je denkt, oh ja maar, ja maar, ja maar.
+Ja.
+Dikke?
+Dat vind ik heel handig.
+En, ja, wat natuurlijk ook een beetje is, ik vind het een lange stel, als je dat weer op mijn huid gaat oefen, ja.
+Ja, gij toch iets anders hoort, waai, dan, als je het, of een confessionele werkplek zou doen, ja.
+Ok, weet jy wat ek, wat ek net sit te denken, in plaats van net gewoon doen, het is, ja, eh, eerstens, niems, had ek, eh,
+had gewoon een winkel gestaat, sy het nooit een winkel gehad, en, ok, dit is, eh, Michiel was die, was die sponsor geweest,
+en sy kon haar ding doen, en eventueel was dit een enorme financiële, eh, last geworden.
+Laten we dit even buiten beschouwing neem, maar sy, sy was daar gewoon ingesprongen geweest, net zonder ervaring.
+Ja.
+En, eh, misschien kan jy, gewoon in Piet Heinstraat, of Jan Hendrik, of, of in, eh, langslopen by van die ondernemers,
+en, neem, en, vraag of jy, of jy iemand, by een winkel wat onlang was geopend, of afgelopen jaar, of so,
+wat, jy wil, jy wil graag een winkel starten, nie vertel wat jy wil doen, het kan by een tabakzaak sy,
+het kan by een, weet te veel, een eetzaak sy staan, had jy voor je een ervaring, had jy daar voor een bedrijf gehad,
+wat was jou, eh, of was jy gewoon begonnen, wat was jou proces,
+dat soort van info, dan, eh, niet, niet om jou te ontmoedigen, maar meer om jou te, te sterk in jou,
+in dit idee van, oké, jy gaat er gewoon aan beginnen, met de winkel.
+Ja, ja.
+Het is, want het is best wel, het is best wel een soort van grote stap, en die heb, eh,
+de meeste mensen doet dit met een partner, die heeft een, die heeft een vriend, die heeft een, eh, die heeft een, dat soort van dingen, dus.
+Hoe zou je het bouwen, het zegt lijn als wij, maar het is ook wel een beteld in de gedachte,
+zijn heel veel mensen die alleen zijn die dat ook niet?
+Ja, er zijn veel mensen die het alleen zijn, maar ik heb, ik heb geluisterd naar,
+als ik nu ook technisch mag zijn, daar meer dan 2.500, of misschien 3.000 interviews,
+echt een goddeloze veelheid, 2 interviews per dag, 3, 4 jaar lang, elke dag.
+En, wat mij daaruit blijkt, dat 999,99% heeft een partner, iemand wat actief meedenken,
+oké, jy kan het op jouw leven, prima.
+Ja, oké.
+Dus, ik weet niet waar je, waar, wat voor dingen je luistert, maar, en sowieso gaat het in die podcast,
+ook niet over, oh, ik heb een partner, dat is hele jonge, laat ik helemaal geen nummer weer,
+het zijn van mensen die zelf ondernemen, wat zou het betekenen dat je, oh, je moet je, eh, een partner hebben,
+wat heeft een partner dat je überhaupt mee te maken?
+Eh, niks.
+Het is gewoon iemand wat, het is iemand wat, wat op hetzelfde niet wou, met hart en ziel,
+en dan, eh, daarin zitten, en als je een relatie hebt, eh, je kan je niet, dan,
+dit is juist echt nog bijna nooit gebeurd, dat partner samen, ons ondernemen,
+dat is eerder de uitvoering van de religie.
+Ja, maar, kan je, kan je meewerken?
+Ja, maar, ik had, ja, oké.
+Ja, oké.
+Ja, ik weet niet.
+Ja, nou, oké, dat zijn verschillende meningen.
+om dit te doen, en jouw manier, als jij dit wilt doen, zoals jij dit goed vindt,
+dat is helemaal, het is helemaal goed.
+Nee, maar ik heb het gemiddeld, dat vind ik net voor jou, dat je dan dingen moet doen,
+en dan, bij jou, is het, als je het eender hebt gehoord in een potpast,
+is het gelijk 100 jaar.
+En dan, over de wijze moet je ook, maar het is heel groot,
+en dan, ja, het is gewoon dat je dat dan eender hebt gehoord enzo,
+maar, het blijft wel leuk.
+Dus ik vind niet dat ik daarmee, eh, die boek die en toe ofzo,
+of die 18 lady, die doet het gat gaan zetten.
+Ja.
+Dus die doet ons ook nog een partner,
+ik heb nog nooit aan mannen die niet, eh,
+maar niet dat je van weet.
+Of wat?
+Niet waarvan jy weet.
+Maar het is prima, als jy dit,
+jy kan ook, als jy jarenlang ervaring hebt,
+en jy weet hoe die proces werkt,
+en, eh, van, van, in jou, in jou expertgebied,
+ja, dan kan jy dit ook alleen doen.
+en jy mag ook wel even voortgetek,
+tel voor dat jy dit samenloopt,
+en, en dan, of zou jy dan,
+die eerder die godmins te voorslag?
+Wel, Mims, voor die voordeel,
+voor in my, in my jeugdgeval,
+voor Mims als geval is,
+als het winkel, eh,
+zij had een sponsor,
+en zij kon, zij kon die winkel starten,
+zij kon haar ideaal nastreven,
+en, zij kon,
+ze had niet hoef te stressen over eten,
+eh, dat er geen geld is voor eten,
+of dat er, zij had haar,
+ze had haar onderdak,
+en, maar,
+dit is verschillende mensen,
+is het anders,
+jij hebt dat behoefte niet.
+Andere mensen heeft, eh,
+heeft zelf geld,
+maar ze hebben een behoefte aan begeleiding,
+of iemand om mee te sparen,
+en ervaring,
+enzovoorts,
+en, sommige mensen hebben het,
+en willen het,
+helemaal zelf doen,
+ze wil zelf,
+bij wijze van spreken,
+berg Everest in hun eigen,
+met hun,
+zelf om beklimmen,
+ze wil hem zelf voorwerken,
+alle materialen sameneem,
+ze wil hem met uppie,
+tot aan die piek van Everest klimmen,
+geen hulp van niemand.
+Nou wel,
+Michiel, ehm,
+ik denk dat het voor jouw moeder,
+een moeder,
+een soort van,
+deurig geweld,
+die ligt gewoon,
+niet meer dat deurig,
+maar dan,
+weet je,
+dat,
+misschien,
+jouw vader,
+een beetje,
+een zak van haar,
+en zei,
+dit is het leukste te doen,
+maar één,
+dan dat het echt,
+weer te zien,
+oké,
+weet je,
+dit is,
+dat het vaak,
+in de meeste,
+een stukje,
+zo'n nieuwe woorden,
+en daar ga je,
+ik weet niet,
+zo,
+ik kan het niet helemaal,
+over hoe je daarover staat,
+meer dan deuriging,
+dat het slecht te doen,
+daarin.
+Ja.
+Zo,
+ik zeg maar zo,
+zeg maar,
+een soort van,
+uit,
+en ik heb meerdere vrouwen,
+die gewoon,
+in die manier,
+in die manier,
+in die manier,
+zei,
+oh,
+ik kan,
+ik kan,
+ik kan,
+ik kan beginnen,
+en dan doen ze dan,
+eigenlijk,
+met zelf,
+de mogelijkheden,
+van mijn relatie,
+in die manier,
+dan is er voorbeeld,
+dat zijn vrouwen,
+die hebben dan,
+bijvoorbeeld,
+als de kinderen,
+voor,
+en die gaan dan,
+over,
+nou ja,
+nu is de tijd,
+van de kinderen,
+en de kinderen,
+en,
+dat,
+en dan denk je,
+eh,
+dat is toch,
+iets,
+anders,
+dan,
+als jij,
+gewoon,
+er echt van,
+reden,
+hebt,
+als je,
+op die manier,
+in de website,
+zit,
+als jij,
+gewoon,
+dus,
+daarnaast,
+ja,
+dan,
+kan je ook,
+heel anders,
+naar je,
+onderneming kijken,
+dan kan je,
+op een hele andere manier,
+of,
+weet je dat allemaal,
+dan,
+als je het,
+gewoon,
+van nul,
+zomaar,
+ze hebben gewoon,
+geen geld,
+dus,
+ehm,
+dat kan nou,
+denk ik,
+nog,
+nog,
+maar zo,
+is gewoon,
+geen geld.
+Ja, maar het zijn veel mensen,
+daarom,
+veel mensen,
+zonder geld,
+die gaan,
+iets beginnen,
+wat,
+als ze in een winkel beginnen,
+in,
+iets wat je gaat,
+inkoop,
+of verkoop,
+misschien,
+mobiele telefoonhoesjes,
+of,
+ehm,
+weet ik veel,
+zelfs op die markt,
+die verkoop,
+iets van alles,
+die heeft,
+een mini AliExpress.
+Ja,
+goed,
+maar,
+dat is bij mij,
+ik heb natuurlijk niet,
+een inkoop,
+dus, eh,
+toch een voordeel,
+hoe,
+aan de dag van de sport,
+waar ik hier iets wil doen,
+alleen,
+ben ik wel afhandelijk,
+van het inbedrijf,
+van mensen,
+jy bent aan,
+jy zit in die diensting industrie,
+jy zit in,
+jy dienst,
+die service industrie,
+die service industrie,
+service,
+diensting industrie,
+diensting,
+diensting,
+jy verkoop,
+jy het geen voor,
+jy het,
+jy het,
+jy het,
+in,
+jy verkoopt een,
+jy verkoopt een dienst.
+Nou,
+dat is niet,
+als ik een winkel,
+zou hebben,
+dan verkoop ik wel,
+voorraad.
+Maar,
+als ik alleen,
+ga doen,
+voor een winkel,
+met teiling,
+dan heb ik inderdaad,
+diensten.
+Dan verkoop ik verschillende dingen.
+Als ik kleding wil gaan verkozen,
+dan,
+heb ik natuurlijk wel,
+gewoon,
+voorraad.
+Dank je wel?
+Ja.
+Dus,
+ja,
+ja,
+ja,
+ja,
+dat zouden we een soort van,
+tevings gaan maken.
+Ja,
+of je dit,
+vol tijds wil gaan doen,
+en of je dit,
+eh,
+ja,
+of je dit echt met de meditering wil doen,
+of,
+ja.
+Nou ja,
+ik moet ook eens kijken,
+van,
+ik heb net wel een wetening van,
+de pleiding van Noors,
+eh,
+van Timka,
+ja,
+ja,
+ja,
+ja,
+ja,
+ja,
+het is elke keer,
+want ik, eh,
+weet ik altijd los,
+ja,
+maar,
+ja,
+eh,
+die,
+ja,
+ja,
+ja,
+ja,
+ja,
+ja,
+ja,
+ja,
+al zover,
+dat hij zijn,
+echte,
+solo vlucht had gedaan.
+Ja,
+het is gewoon,
+hetzelfde van de mobiele,
+het maakt het uit,
+en dan niet uit,
+ik weet hoe het eindeblad wordt,
+maar,
+ja,
+maar wanneer,
+wanneer,
+vliegt hij een,
+en vliegt bij de W,
+dat hij bijvoorbeeld,
+die,
+zo'n opleidingsliefd heeft,
+dat hij gewoon,
+hij gaat op vakantie naar,
+eh,
+naar Italië,
+en hij denkt, oké,
+met een vliegtuig huren,
+en hij gaat zo'n vliegtuig,
+en ik heb,
+en hij bent gesertificeerd,
+voor dat soort van vliegtuiging,
+eh,
+is hij nu al zo ver,
+dat hij,
+dus op vakantie kan gaan,
+en,
+gewoon,
+voor de middag,
+in vliegtuig huren,
+voor een rondlucht?
+Oké,
+ik denk,
+ik denk,
+ik denk,
+ah, oké,
+misschien een veelste technische vraag,
+maar,
+eh,
+ja,
+ja,
+ik denk,
+het moet niet zorgen,
+we moeten zorgen.
+Oké,
+ja,
+maar ja,
+nee,
+die 10k,
+ja,
+nou ja,
+het is meer,
+het speel moet ik nu wel mee,
+ik denk,
+dat vind ik ook de sluiters van,
+maar dan moet ik,
+bij Jorda,
+nou,
+ik vind ik de sluiters nodig,
+want dan moet ik wel gewoon mee,
+dan moet ik de situatie,
+dan werkt het van de PDH aan,
+ja,
+ik heb het niet nodig,
+ik weet niet of ik hetzelfde besluit neemt,
+misschien zou ik nu wel ook hebben genomen,
+en dan denk ik,
+ja,
+maar misschien zou ik dat wel toch snel in de vorm van een lening hebben gedaan,
+ik heb het nu misschien gewoon geschreven,
+ja,
+maar nu ja,
+ik wil echt zo'n,
+eh,
+meegaal er al,
+waar ik zelf,
+in de lezing natuurlijk ook,
+eh,
+nuttig van kan gebruik te maken,
+ja,
+het eindelijk snijdt het wel uit,
+het gaat echt wel ten koste van het wel uit,
+want,
+al dat gaat gewoon,
+ik zou hebben gehad,
+dan,
+ja,
+maar heb jij,
+heb jij niet zogenaamd,
+buyer's remorse?
+nee, nee,
+want, weet ik het voor mij niet,
+met de dier,
+heel denk ik,
+van,
+de keuze voor,
+voor lenen,
+of geven,
+dan,
+niet heel anders,
+of misschien gewoon deel,
+of gewoon deel,
+of gewoon deel te nemen,
+en deel te geven,
+weet je hoor,
+daar gaat het natuurlijk ook gewoon goed voor dienen,
+want dan denk ik, ja,
+eh,
+stel je zou de helft doen,
+weet je,
+de helft zelfvertalen,
+en de helft lenen,
+dat je dan moet hebben,
+dat je gewoon pensie wilt,
+aan de andere kant,
+heb ik natuurlijk nooit zoveel,
+een opleiding,
+of,
+weet je,
+dingen kunnen ook medetalen,
+maar ja,
+wat ik mij afvraag is,
+of ik denk,
+of je zelf al die vraag hebt gevraagd,
+dus,
+stel,
+veronderstel,
+je had geen,
+ehm,
+geen,
+die erfenis,
+je had het niet,
+maar je had wel die,
+ehm,
+HNC,
+en die,
+die,
+TDAH,
+ehm,
+uitbetalingen,
+of je dan,
+alsnog,
+met,
+welke keuze,
+hoe zou je dan,
+ehm,
+zou je dan,
+je landstijl wil beginnen,
+of zou je die dan,
+anders,
+hoe zou je die,
+anders aanpakken,
+misschien is dat,
+die,
+aanpak,
+wat je,
+ja,
+in de zucht,
+je hebt niet helemaal dat geld,
+je hebt niet helemaal toegezegd,
+aan de woord,
+dus,
+misschien moet je dan,
+is het nodig dat je,
+ja,
+die,
+het,
+wel wat je zei,
+van die ideefalingen,
+je bent een Syrisse vluchteling,
+of je bent een Syrië,
+het gaat vanuit,
+je hebt,
+je hebt,
+je hebt alleen,
+ehm,
+je hebt het geld niet,
+je hebt niet,
+drie ton op die bank,
+of twee ton,
+of iets,
+je hebt,
+20k of 30k op die bank,
+en daarmee moet je dit doen,
+en daarmee gaan je dit doen,
+en daarmee gaan je dit doen,
+en daarmee gaan je dit doen,
+en daarmee gaan je dit doen,
+en daarmee gaan je dit doen,
+ja,
+dus,
+ik zit wel gewoon zo in te doen,
+ja,
+dus als je dit wil doen,
+zal ik het meer wil doen,
+vanzelf,
+met zoveel stil en dan,
+van,
+wat uitbouwen,
+en,
+ehm,
+en,
+kijk je dan ook een beetje,
+ik hoor niet heel erg gezien,
+door de kathletoer,
+dus dat is ook een beetje,
+wel, ik denk,
+dat ik ook een hele leuke dingen,
+dat ik niet zou,
+ja,
+ik zal wel een beetje grote af,
+door,
+ik denk,
+oh,
+ik denk,
+oh,
+dat is een beetje,
+ik denk,
+dat is een beetje,
+dat,
+maar de ja,
+ik vind het een minuutje,
+nee,
+en,
+en,
+dat je ook,
+om je de baan,
+waarbij je nog,
+dat,
+dat je een beetje,
+waar,
+de karo daar is,
+of zo,
+en,
+dan,
+dat je dan,
+dat je,
+dat je,
+dat je,
+hebt,
+ja,
+goed,
+maar,
+ja,
+ik denk,
+ehm,
+ik vind het natuurlijk,
+gewoon,
+heel,
+heel wichtig,
+gaan kijken,
+naar de financiër,
+en, ehm,
+ja,
+hoe je het ziet,
+en, ehm,
+wat de mogelijkheden zijn,
+ervoor,
+ik ga even,
+Caroline,
+direct vieren,
+en,
+zij heeft echt,
+gewoon,
+precies,
+wat ik nu,
+wil doen eigenlijk,
+heeft zij,
+gedaan,
+ja,
+met WD,
+en,
+met een soort,
+vintage-achtige,
+ehm,
+ehm,
+ehm,
+plek van het,
+wel ander werk,
+natuurlijk,
+maar,
+ik zag hem dan,
+opkopen van,
+ehm,
+vintage, ehm,
+en doorgekomen,
+en,
+ik heb daar ook een,
+ik wil,
+ook voor,
+maar ik weet ook niet,
+misschien, ehm,
+die zijn,
+met een hele dag anders,
+ja,
+dus,
+ik ga ook van,
+ehm,
+en de eerste keer,
+van jou,
+ik weet je,
+ik ben leeg van,
+van, ehm,
+voor dit,
+en,
+en,
+en,
+zelfs leeg van,
+met je,
+en,
+en,
+en,
+moest ik horen,
+van jouw kant,
+van,
+weet jij wat,
+hoe heb je daar gedaan,
+en,
+dat moet ik dan doen ook,
+ik, ehm,
+ik moet, ehm,
+ik durf, ehm,
+hang durven en net werken,
+mensen niet als ze algemeen doen,
+als mensen, ehm,
+wat ik een vraag,
+ten hulp.
+Ja.
+Oké.
+Ja.
+Dat gaat vandaag,
+in ieder geval doen,
+en, ehm,
+Ja, het is een beetje, het is van God die les houden en, eh, vertrouwen.
+Ja, die meestal die, nee, die spreekwoordelijke, die goeroes zeggen vertrouwen krijg je door het te doen.
+Dat is wel zelfvertrouwen.
+Klopt.
+En, je hebt al wel, al veel zelfvertrouwen, al veel moed getoond en door hieraan te, door dit te doen.
+Eerstens, die investering in die opleiding, dat is, dat is een bak geld.
+En, zo, en dat is al, dat is al teweiding, ja, dat is al, je hebt de stap, dus, eh, ze vindt ook een laserfout.
+Ja, dat is het ook, hè, dat maakt ook een betrengde gemoedig voor mij.
+Omdat ik nu ook nu zit, en dat ik zat, dan denk ik, oh ja, dan moet ik dan mijn werkgever in juni,
+van mij, ik moet de link in het probleem bijvoorbeeld, gaan aanpassen.
+Ja.
+Eh, want dat had ik afgesproken, dat ik dan niet naar, wat dan niet naar staat, dat ik bij TDAH werd.
+Nee.
+Dus dat ik, eh, niet even een bericht naar, die zaak, die deze afscheid neemt, weet je dat?
+Ja, ik dacht, ja, hoe ga ik mezelf dan noemen?
+Ik dacht, ja, hoe ga ik mezelf dan noemen?
+Ga ik dan gewoon al zeggen, eh, want als ik in mijn profiel, ja, ik denk dat ik dat wel kan doen,
+dat ik mijn profiel gewoon invult, al dat ik stilist ben, en, nou ja, dat ik een paar goede woorden erbij,
+en dat ik op die manier, ehm, ja, voor de WD vind ik natuurlijk vaster van belang,
+dat je denkt, ja, nu verder ben je al bezig.
+Daarom kan ik me ook niet echt intrijden bij de KVK nu, en, dus, maar ja, aan de andere kant,
+ik ben nog niet echt klaar met de opleiding, dus ik zou nu sowieso niet.
+Ja.
+Dat heeft de dingen jouw gevolgorde doen.
+Ja.
+Maar, ja, voor die winkel, ik ga gewoon even kijken, eh,
+wat voor bedrag heb ik over,
+ik denk dat ik vandaag ook een beetje,
+ik hoef me te staan naar beneden los, maar, nou ja,
+ik moet een planning gaan maken voor deze week, en voor volgende week,
+wat ga ik verder doen?
+En, ja, dan moet je gewoon voor jezelf op een bepaalde moment een besluit nemen.
+Een soort deadline van, oké, weet je, ik ga dat in ieder geval, je hoeft niet een besluit nemen,
+ik ga een winkel beginnen, maar je kan in ieder geval wel oriënteren.
+Ja.
+En ik heb er nu eigenlijk nog niet georiënteerd,
+ik heb er nog niet een financieel overzicht,
+van wat zou ik daar eens toe aan willen besteden.
+Want het is gewoon een investering dan.
+Ja.
+Oké.
+Ja, wat komt er allemaal bij kijken, eh, of dat soort dingen.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Dus, nou ja, oké, ik heb gedacht, ik denk dat jij het dan werk?
+Ja.
+Ik weet wel wat te doen.
+Oké.
+Maar ik ga even een broodje produceren.
+Ja.
+Ja.
+Nou, ik heb wel behoefte aan je hart te luchten.
+Ja.
+Ja.
+Ja.
+Het is ook al zo'n poortje ingegrozen, dan praat ik wel over.
+Dus, ehm.
+Ik was al niet bezig.
+Ik was al een ander bezig met AI, ook met keseerde ontwikkeling.
+Ik had gesprek, ik had Casper gebeld.
+Casper het mij gebeld, van Zuid-Afrika, van Slavo.
+We hadden gesproken over AI, hij wil apps bouwen enzovoorts.
+En, dus eigenlijk wat ik met App wou doen,
+Ja.
+Nee, heb ik nooit gehad met Casper doen.
+Tenminste, hij was super proactief.
+Hij heeft mij informatie opgestuurd.
+Hij was hier ook al mee bezig geweest.
+Hij heeft mij, en hij heeft mij informatie opgestuurd.
+Hij heeft mij dokumentatie.
+Dus, in plaats van alleen maar bullshitting.
+En hij, ehm, heeft hij onderneemd uit actie.
+En, ehm, hij, hij heeft ook, hij had ook zelf benoemd,
+dat, ehm, dat, ehm, dat, ehm, dat, ehm, van dat mensen,
+van, van bullshitting, of mensen dat ze dingen beloofd
+en het nu al niet doen.
+Ja.
+Of, ehm, zeg dat ze, dat er niet afspraken na komen enzo.
+En, en zij, en vragen, dus weg.
+Hij heeft mij info opgestuurd.
+Ik ga een beetje, met, met, dit met hem overleggen.
+En, om te kijken wat, wat heeft daar verder uitgebeeld.
+En, wie weet, een euro afdaling verdiend. Hoopelijk.
+Oké.
+Maar, ik denk wel, dat hij ook zo'n fiek is, die gewoon,
+want, anders had hij ook niet met Snabel in te gaan.
+Ja.
+Eh, want die is daar, ja, ook vanuit, of die vind.
+Ja, oké.
+Ja, want hij was, Snabel was bij, was bij Salou mee geweest,
+bij, bij zijn, bij die, bij die, bij die koffieplek waar hij ooit was.
+Ja.
+Met, ehm, en toen was, toen was hij, toen had Snabel en ik heel lang gepraat over
+zijn, een zorggelijke idee, website bouwen, data verzamelen,
+over boerderij en, enzovoorts, en verkopers, inkopers,
+marketing, communicatie, YouTube, videoclips maken, enzovoorts.
+Dat heb ik allemaal in verzameld, info.
+Ja.
+Eh, en, dus, dat is nog, dat is een tweede kuis.
+De eerste kuis is, eigenlijk drie, heb ik drie AI proceskeis in.
+Keis één is van Snabel, voor, voor hem zijn vastgoedgebeuren bouwend.
+Keis twee is, voor, ehm, Casper een proces, proces maken,
+om eigen met AI te ontwikkelen en te bouwen,
+en, het volgende projectstructuur, en dan, die, dat proces te gaan toepassen op,
+een taxidermie bedrijf, wat hij, wat hij iets voor wil doen.
+en, hij wil, en, hij wil een app, hij wil naar bij een bedrijf, een maatwerk app bouwen,
+waarin iemand al benader en sê, kijk, Aisha, hier heb ik een app voor jou, van, van,
+die landstijl, en, dit heeft jou klant in, dit heeft jou profiel,
+hij zoek al naar, naar alle aanbevelingen,
+jou klant uitgekoppeld met betaalsysteem,
+alsjeblief, klant in klaar, wil je hem?
+Ja.
+Dit is, en dit is een voorbeeld van wat, wat kan,
+jy kan hem nog verder gaan uitruide, maar hier is een voorbeeld.
+Aisha, kan betaal je app of gratis?
+Nou, dan, dit is, dit is die product wat ik dan, wat jy dan aanbied is,
+jy koop die app, of jy betaal, of jy, of jy kan hem gratis gebruik, met beperkinge.
+Ja jy.
+Jy.
+Jy.
+Jy.
+Dus dit is, dit is die, dit is die dienst wat jy dan kan aanbied.
+En, anyways, emm, ja hier was ik onder andere ook.
+Is er een soort XO dan, die Y-BOM 3-0?
+Ehm, ja sommige wel, maar hij wil, die mogelijkheid is,
+kijk, K-K-K-Koppen, bijvoorbeeld, Inge-Words,
+is, is, eh, iedereen, alles wat jy moet kan doen,
+wat jy moet kan doen, moet jy in die vorm van MS Word kan doen,
+als jy word gebruikt, bijvoorbeeld, of dit jy alweer gebruik,
+jy heb een standaard app, en alles,
+en veel bedrijven moet voldoen aan die standaard app,
+jy gebruik standaard funktionaliteit, maar wat als jou proces net iets anders is,
+wat jy wil dit op een andere manier doen,
+wat niet in die standaard app is, proces past,
+dan moet jy a, dan moet jy iemand gaan in die hiering,
+ten duurste om dit ontwikkeling, of b,
+jy kan nu met AI, jy eigen werse van die app gaan creëren,
+en wat precies doen, zoals jy dit doet, dat jy dit doet.
+En dat is wat Casper wil gaan doen,
+hij wil, ja, er zijn standaard apps, maar ik wil afwijk van standaard,
+en ik wil mijn eigen ding doen,
+wat niet werkt, of dit, maar niet iets anders.
+Maar snap je hier wel een maier?
+Ik wil het niet zijn.
+Ja, je kan daar, er zijn standaard apps,
+nee, maar dit,
+dit is,
+ik ga net, het zal het in verweer samenvatten in mijn bericht enzo,
+en die,
+maar goed, ik wil even een brooietje produceer,
+lieve mens.
+Ja?
+Ik sterf van de honger, ik wil even een brooietje produceer.
+Oké, die schrijf je van langs wel al dat bij je voorzien?
+Ja.
+Goed, dat gaan we doen.
+Oké.
+Ik heb net wel, ze spreek je later.
+Ik moet het uitleggen, maar ik ga even bij je uit,
+en als je moeder dit ook niet maakt,
+want als je moeder hebt gevaart,
+heb ik het ook gevaart.
+Oké, zoiets ja.
+Ja.
+Goed, dat was,
+meteen, doei.
+Goed, dat is.
+Goed, dat is.
+Goed, dat is.
+one
+Hem.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+Alle,
+O ho.
+O, O, O, O, O, O, O.
+O이실a
+Terima kasih.
+Okay.
+...
+...
+...
+...
+...
+...
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+O.
+Oes, oes, oes, oes, oes.
+Oes, oes.
+Oes, oes.
+Oes, oes.

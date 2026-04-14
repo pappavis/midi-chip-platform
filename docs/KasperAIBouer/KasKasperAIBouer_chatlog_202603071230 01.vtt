@@ -1,0 +1,8417 @@
+WEBVTT
+
+00:00.000 --> 00:05.940
+Ja
+
+00:05.940 --> 00:07.860
+Ja
+
+00:07.860 --> 00:09.640
+Ja
+
+00:09.640 --> 00:09.860
+Ja
+
+00:09.860 --> 00:22.940
+Ja
+
+00:22.940 --> 00:24.920
+Ja
+
+00:24.920 --> 00:28.920
+omreer jy tenminste iets van programmering weet nie?
+
+00:28.920 --> 00:30.920
+Ja, dit helpt. Goed.
+
+00:30.920 --> 00:35.920
+Ik maak een opname in ieder geval van dit gesprek.
+
+00:35.920 --> 00:40.920
+Dat tekst en dan ga ek dit later straks gebruiken
+
+00:40.920 --> 00:46.920
+als info om vir jou als interview.
+
+00:46.920 --> 00:48.920
+Maar anyway, vertel, ok?
+
+00:48.920 --> 00:50.920
+Dank u, dank u.
+
+00:50.920 --> 00:54.920
+Ik heb geen programmeringsachtergrond nie.
+
+00:54.920 --> 00:58.920
+Ek is wel baie goed met Excel formules en automatisatie
+
+00:58.920 --> 01:01.920
+tot op een sekere punt is in Excel.
+
+01:01.920 --> 01:04.920
+En al die jaren heb ek AppSheet gebruikt.
+
+01:04.920 --> 01:09.920
+AppSheet is kabelbasis in Excel sheet om in een app met een Google product.
+
+01:09.920 --> 01:14.920
+Maar met vandagse white coding en identity coding gedink as AppSheet gaan nageval wegval.
+
+01:14.920 --> 01:17.920
+Want die user interface kan jy nie verander nie.
+
+01:17.920 --> 01:20.920
+en so is baie limitaties.
+
+01:20.920 --> 01:22.920
+En toe white coding op die scene kom te sê,
+
+01:22.920 --> 01:25.920
+hier is die antwoord na my gebede.
+
+01:25.920 --> 01:29.920
+En want nou kan nou ten nie goed wat jy nooit voering kon doen,
+
+01:29.920 --> 01:31.920
+het nie geld voor developers nie.
+
+01:31.920 --> 01:34.920
+Nou kan jy jou eigen goed doen, eigen goed bouw,
+
+01:34.920 --> 01:36.920
+jy het nie nis nodig om te programmer nie.
+
+01:36.920 --> 01:40.920
+Jy het begin rond speel met Google AI Studio,
+
+01:40.920 --> 01:42.920
+en vandaar af Antigravity,
+
+01:42.920 --> 01:46.920
+wat jy dan op jou DSG installeert.
+
+01:46.920 --> 01:51.920
+Langs 2 report, ek het een diesel rebite app,
+
+01:51.920 --> 01:54.920
+zo kan verbouw, ek is zo 80 cent klaar geboere,
+
+01:54.920 --> 01:57.920
+waar hulle diesel verbruik uitwerk,
+
+01:57.920 --> 02:00.920
+en die rapatte wat na Sarshoek versie hier in het bos,
+
+02:00.920 --> 02:01.920
+en so aan,
+
+02:01.920 --> 02:03.920
+wat is een logboeken transaction,
+
+02:03.920 --> 02:05.920
+die van systeem.
+
+02:05.920 --> 02:08.920
+Maar wat het toe achtergekom het is,
+
+02:08.920 --> 02:10.920
+omrede ek nie codeering ken nie,
+
+02:10.920 --> 02:12.920
+hart het my tokens vanaf uit,
+
+02:12.920 --> 02:15.920
+want my prompt is nie af die raad nie,
+
+02:15.920 --> 02:17.920
+ek sê my prompt is te groot,
+
+02:17.920 --> 02:18.920
+en dan,
+
+02:18.920 --> 02:19.920
+dan,
+
+02:19.920 --> 02:20.920
+dan,
+
+02:20.920 --> 02:21.920
+dan,
+
+02:21.920 --> 02:22.920
+dan haak hy die telkens uit,
+
+02:22.920 --> 02:23.920
+en hy maak foute,
+
+02:23.920 --> 02:25.920
+hoe dit achtergekom het met die goede modele sien,
+
+02:25.920 --> 02:26.920
+wat hy nie alles breed sien,
+
+02:26.920 --> 02:27.920
+maar nog steeds,
+
+02:27.920 --> 02:29.920
+het vat zekere goed,
+
+02:29.920 --> 02:30.920
+my verskrikkelijk lang,
+
+02:30.920 --> 02:31.920
+waar,
+
+02:31.920 --> 02:33.920
+iemand wat programmering achtergrond het,
+
+02:33.920 --> 02:34.920
+gaan weet,
+
+02:34.920 --> 02:35.920
+hy moet na hierdie script toe gaan,
+
+02:35.920 --> 02:36.920
+en hy moet daar sê,
+
+02:36.920 --> 02:38.920
+het verander dit en dit en dit,
+
+02:38.920 --> 02:40.920
+en dan gaan het baie funniger gaan,
+
+02:40.920 --> 02:42.920
+en ek het gehoor hier met nieuwe chats,
+
+02:42.920 --> 02:43.920
+op maalse chats te lang is,
+
+02:43.920 --> 02:45.920
+wat het te veel telkens langs door die kort.
+
+02:45.920 --> 02:46.920
+ek het,
+
+02:46.920 --> 02:48.920
+ek het a point of sale ook al gebouw,
+
+02:48.920 --> 02:49.920
+fantasties,
+
+02:49.920 --> 02:51.920
+maar ek weet my goed,
+
+02:51.920 --> 02:53.920
+dit is nie die achtergrond 100% recht nie,
+
+02:53.920 --> 02:55.920
+en as ek vir kliente iets wil bouw,
+
+02:55.920 --> 02:57.920
+wat werk met,
+
+02:57.920 --> 02:58.920
+met geld,
+
+02:58.920 --> 03:00.920
+ek wil nie geld verloor vir die klient nie,
+
+03:00.920 --> 03:02.920
+imagine ek bouw nou a,
+
+03:02.920 --> 03:03.920
+a taxidermie app,
+
+03:03.920 --> 03:04.920
+en,
+
+03:04.920 --> 03:06.920
+iets gebeur met my data basis,
+
+03:06.920 --> 03:07.920
+of,
+
+03:07.920 --> 03:09.920
+iemand daar skryf oor een ander klient,
+
+03:09.920 --> 03:10.920
+en hy verloor,
+
+03:10.920 --> 03:11.920
+miljoenen rande,
+
+03:11.920 --> 03:13.920
+ek wil nie in soe situatie sit,
+
+03:13.920 --> 03:15.920
+die het my bang gemaakt,
+
+03:15.920 --> 03:16.920
+om,
+
+03:16.920 --> 03:17.920
+om,
+
+03:17.920 --> 03:19.920
+om te gaan naar een ontwikkelaar toe,
+
+03:19.920 --> 03:20.920
+specifiek iemand wat,
+
+03:20.920 --> 03:22.920
+white coding gebruik,
+
+03:22.920 --> 03:23.920
+om redactwere het,
+
+03:23.920 --> 03:25.920
+van baie geld en tyd spaar,
+
+03:25.920 --> 03:27.920
+maar die mens is nie eerlik daarbuiten nie,
+
+03:27.920 --> 03:28.920
+nie hulle maak,
+
+03:28.920 --> 03:29.920
+asof hulle nou alles van vooraf,
+
+03:29.920 --> 03:30.920
+die goede,
+
+03:30.920 --> 03:31.920
+die goede sit,
+
+03:31.920 --> 03:32.920
+wat ek nie weet,
+
+03:32.920 --> 03:33.920
+ek weet allemaal gebruik,
+
+03:33.920 --> 03:34.920
+al is jy een,
+
+03:34.920 --> 03:35.920
+gesookte,
+
+03:35.920 --> 03:36.920
+met die billig verdinker,
+
+03:36.920 --> 03:37.920
+maar in alle geval,
+
+03:37.920 --> 03:38.920
+toe kry ek,
+
+03:38.920 --> 03:39.920
+Pakistanis,
+
+03:39.920 --> 03:40.920
+en,
+
+03:40.920 --> 03:41.920
+hy is baie billig,
+
+03:41.920 --> 03:42.920
+met sy poste van die app,
+
+03:42.920 --> 03:44.920
+lokaal in Zuid-Afrika,
+
+03:44.920 --> 03:45.920
+die kost enig iets,
+
+03:45.920 --> 03:47.920
+tussen 100,000 en 200,000 aang,
+
+03:47.920 --> 03:48.920
+vir die basis app,
+
+03:48.920 --> 03:49.920
+wat ek nou soek,
+
+03:49.920 --> 03:50.920
+nou,
+
+03:50.920 --> 03:51.920
+kom ons sê,
+
+03:51.920 --> 03:52.920
+is die oomlik op 2,000 dollar,
+
+03:52.920 --> 03:53.920
+wat ek sê,
+
+03:53.920 --> 03:54.920
+22,000,
+
+03:54.920 --> 03:55.920
+kom ons sê,
+
+03:55.920 --> 03:56.920
+tussen 48,000 en 50,000,
+
+03:56.920 --> 03:57.920
+as hy alles,
+
+03:57.920 --> 03:58.920
+alles moet doen,
+
+03:58.920 --> 03:59.920
+maar,
+
+03:59.920 --> 04:00.920
+toe ek nou nog na jou luister,
+
+04:00.920 --> 04:02.920
+en ek voel nog altyd,
+
+04:02.920 --> 04:04.920
+as ek die rechte,
+
+04:04.920 --> 04:05.920
+eh,
+
+04:05.920 --> 04:06.920
+span gaan kry,
+
+04:06.920 --> 04:07.920
+kom ons nie met,
+
+04:07.920 --> 04:08.920
+eitjins,
+
+04:08.920 --> 04:09.920
+die rechte eitjins,
+
+04:09.920 --> 04:10.920
+as jy nou sê,
+
+04:10.920 --> 04:11.920
+business analyst,
+
+04:11.920 --> 04:12.920
+en die een wat dit doet,
+
+04:12.920 --> 04:13.920
+en die een wat dit doet,
+
+04:13.920 --> 04:15.920
+as ek swiss kan kry,
+
+04:15.920 --> 04:16.920
+dan gaan ek jy nie,
+
+04:16.920 --> 04:18.920
+amper jiltemaal self kan doen,
+
+04:18.920 --> 04:19.920
+en dan gaan ek so,
+
+04:19.920 --> 04:20.920
+een developer,
+
+04:20.920 --> 04:21.920
+die ook net gebruik,
+
+04:21.920 --> 04:22.920
+om vir my,
+
+04:22.920 --> 04:23.920
+eh,
+
+04:23.920 --> 04:24.920
+te verifiëer,
+
+04:24.920 --> 04:25.920
+en te,
+
+04:25.920 --> 04:26.920
+te kyk,
+
+04:26.920 --> 04:27.920
+dat alles in die achtergrond recht is,
+
+04:27.920 --> 04:28.920
+dat die,
+
+04:28.920 --> 04:30.920
+die pipe in recht ingesit is,
+
+04:30.920 --> 04:31.920
+die plafysel,
+
+04:31.920 --> 04:33.920
+die elektriciteit,
+
+04:33.920 --> 04:34.920
+en al daar goed,
+
+04:34.920 --> 04:35.920
+mooi in plek is,
+
+04:35.920 --> 04:36.920
+goed wat ek nie weet nie,
+
+04:36.920 --> 04:37.920
+want,
+
+04:37.920 --> 04:38.920
+ehm,
+
+04:38.920 --> 04:40.920
+wat die mense daar buiten nie weet nie is,
+
+04:40.920 --> 04:41.920
+dat is goed wat hulle nie eerst weet,
+
+04:41.920 --> 04:42.920
+dat hulle nie eerst weet nie,
+
+04:42.920 --> 04:43.920
+nou ek weet gelukkig,
+
+04:43.920 --> 04:45.920
+dat is goed wat ek nie eerst van weet nie,
+
+04:45.920 --> 04:46.920
+en ek snap het,
+
+04:46.920 --> 04:47.920
+dit is,
+
+04:47.920 --> 04:48.920
+nie,
+
+04:48.920 --> 04:49.920
+nie,
+
+04:49.920 --> 04:50.920
+heel even,
+
+04:50.920 --> 04:51.920
+ek herteen ek,
+
+04:51.920 --> 04:52.920
+ehm,
+
+04:52.920 --> 04:53.920
+ook,
+
+04:53.920 --> 04:54.920
+ek was net soos jy,
+
+04:54.920 --> 04:55.920
+ook begin met chat,
+
+04:55.920 --> 04:56.920
+op gegeven moment,
+
+04:56.920 --> 04:57.920
+ontdek ek,
+
+04:57.920 --> 04:58.920
+nou die chat,
+
+04:58.920 --> 04:59.920
+dit is net grafis,
+
+04:59.920 --> 05:00.920
+as jy grafisch chat gebruik,
+
+05:00.920 --> 05:01.920
+loop jy uit credits,
+
+05:01.920 --> 05:02.920
+dus ek breng,
+
+05:02.920 --> 05:04.920
+ChatCPT Pro,
+
+05:04.920 --> 05:06.920
+so ek een ongelimiteer chatintervise gebruik,
+
+05:06.920 --> 05:07.920
+ehm,
+
+05:07.920 --> 05:08.920
+ek had eerst,
+
+05:08.920 --> 05:09.920
+soort van,
+
+05:09.920 --> 05:10.920
+gevibecode,
+
+05:10.920 --> 05:11.920
+met,
+
+05:11.920 --> 05:12.920
+met die chatintervise,
+
+05:12.920 --> 05:13.920
+en dan probeer plakke,
+
+05:13.920 --> 05:14.920
+na tek,
+
+05:14.920 --> 05:15.920
+na tekstbestanden,
+
+05:15.920 --> 05:16.920
+maar dit,
+
+05:16.920 --> 05:17.920
+dit neem,
+
+05:17.920 --> 05:18.920
+neem helse lang,
+
+05:18.920 --> 05:19.920
+en,
+
+05:19.920 --> 05:20.920
+toen had ek die,
+
+05:20.920 --> 05:21.920
+en ek het ook ontdek,
+
+05:21.920 --> 05:22.920
+dat hy,
+
+05:22.920 --> 05:23.920
+maak foute,
+
+05:23.920 --> 05:24.920
+hy gaan,
+
+05:24.920 --> 05:25.920
+hy gaan dingen vergeet,
+
+05:25.920 --> 05:26.920
+hy gaan,
+
+05:26.920 --> 05:27.920
+spekschatten vergeet,
+
+05:27.920 --> 05:28.920
+of hy,
+
+05:28.920 --> 05:29.920
+ehm,
+
+05:29.920 --> 05:31.920
+hy laat gewoon,
+
+05:31.920 --> 05:33.920
+belangrijke deel van die code uit,
+
+05:33.920 --> 05:34.920
+of hy krij,
+
+05:34.920 --> 05:35.920
+ineens krijg je foutmeldingen,
+
+05:35.920 --> 05:36.920
+wat iets wat net had gewerkt,
+
+05:36.920 --> 05:38.920
+dus toen had ek ontdek,
+
+05:38.920 --> 05:39.920
+ehm,
+
+05:39.920 --> 05:40.920
+toen begon ek het meer,
+
+05:40.920 --> 05:41.920
+toen begon ek meer,
+
+05:41.920 --> 05:42.920
+met die context-historie,
+
+05:42.920 --> 05:43.920
+die,
+
+05:43.920 --> 05:44.920
+al zijn responses,
+
+05:44.920 --> 05:46.920
+ik probeer hem plakke,
+
+05:46.920 --> 05:47.920
+na,
+
+05:47.920 --> 05:48.920
+na tekstbestanden,
+
+05:48.920 --> 05:49.920
+en laat ek dit weer lees,
+
+05:49.920 --> 05:50.920
+is,
+
+05:50.920 --> 05:51.920
+dus ik had hem,
+
+05:51.920 --> 05:52.920
+sy eigen werk,
+
+05:52.920 --> 05:53.920
+laat review,
+
+05:53.920 --> 05:54.920
+en,
+
+05:54.920 --> 05:55.920
+in het volgende proces,
+
+05:55.920 --> 05:56.920
+laat ek hem dit automatisch doen,
+
+05:56.920 --> 05:57.920
+eh,
+
+05:57.920 --> 05:59.920
+nog steeds in die chat-interviews,
+
+05:59.920 --> 06:00.920
+ehm,
+
+06:00.920 --> 06:01.920
+en,
+
+06:01.920 --> 06:02.920
+toen word my code,
+
+06:02.920 --> 06:03.920
+word toen,
+
+06:03.920 --> 06:04.920
+in een keer,
+
+06:04.920 --> 06:05.920
+veel beter,
+
+06:05.920 --> 06:06.920
+ehm,
+
+06:06.920 --> 06:07.920
+en toen was ek ook begon,
+
+06:07.920 --> 06:08.920
+met,
+
+06:08.920 --> 06:09.920
+met,
+
+06:09.920 --> 06:10.920
+met een,
+
+06:10.920 --> 06:11.920
+met een proces,
+
+06:11.920 --> 06:13.920
+een zogenaamde governance proces,
+
+06:13.920 --> 06:14.920
+van,
+
+06:14.920 --> 06:15.920
+van business case,
+
+06:15.920 --> 06:16.920
+naar,
+
+06:16.920 --> 06:17.920
+functioneel werk,
+
+06:17.920 --> 06:18.920
+naar review,
+
+06:18.920 --> 06:19.920
+van dit,
+
+06:19.920 --> 06:20.920
+en dit,
+
+06:20.920 --> 06:21.920
+was allemaal,
+
+06:21.920 --> 06:22.920
+nog een nieuwe leader,
+
+06:22.920 --> 06:23.920
+interview,
+
+06:23.920 --> 06:24.920
+met chat-tips,
+
+06:26.920 --> 06:27.920
+hallo,
+
+06:27.920 --> 06:28.920
+interdrie,
+
+06:28.920 --> 06:29.920
+en dit,
+
+06:29.920 --> 06:30.920
+en dit,
+
+06:30.920 --> 06:31.920
+en dit,
+
+06:31.920 --> 06:32.920
+en dit,
+
+06:32.920 --> 06:33.920
+en dit,
+
+06:33.920 --> 06:34.920
+in dit,
+
+06:34.920 --> 06:37.920
+eigenlijkHayst voor mij,
+
+06:37.920 --> 06:38.920
+pha,
+
+06:38.920 --> 06:39.920
+dat wą,
+
+06:39.920 --> 06:40.920
+быть,
+
+06:40.920 --> 06:41.920
+op,
+
+06:41.920 --> 06:42.920
+een niens,
+
+06:42.920 --> 06:43.920
+dag,
+
+06:43.920 --> 06:45.460
+op,
+
+06:45.600 --> 06:47.920
+aan,
+
+06:47.920 --> 06:49.920
+pond,
+
+06:49.920 --> 06:50.920
+ga Tig,
+
+06:50.920 --> 06:51.920
+lag,
+
+06:51.920 --> 06:52.920
+met,
+
+06:52.920 --> 06:53.920
+zij,
+
+06:55.920 --> 06:56.680
+van,
+
+06:56.920 --> 06:57.920
+tu,
+
+06:57.920 --> 06:58.920
+kroch,
+
+06:58.920 --> 06:59.920
+hou,
+
+06:59.920 --> 07:01.920
+ik,
+
+07:01.920 --> 07:03.920
+..
+
+07:03.920 --> 07:08.960
+Hei, Krasbeth.
+
+07:09.760 --> 07:12.760
+Kies met jou, my Wi-Fi is al die stil te trek.
+
+07:13.000 --> 07:13.720
+Ja, gaan probleem.
+
+07:14.820 --> 07:24.140
+Nou, ek wil net net laas nog, ek herken dit, dus het is burig dat jy een soort van een team bouw en dat jy dit,
+
+07:24.660 --> 07:29.140
+die probleem is dat ek wat ek aflug een week had ontdekt met de chat, dat duur lang,
+
+07:29.140 --> 07:40.180
+To ontdek ek met OpenFlow, wat jy gewoon als met normale instructies, alleen maar met prompts kan jy informatie schrijf,
+
+07:40.280 --> 07:49.240
+maar dan, hy gebruik veel credits en waar die kwaliteit en die automatisering is veel verder vooruit gegaan
+
+07:49.240 --> 08:00.100
+en dan kan jy echt soort van virtual agents maak wat jou, wat die code gaan review, wat jou gaan uitbewijs van dit is niet fout
+
+08:00.100 --> 08:07.400
+en denk als jy dan een goeie, als jy op gegeven moment jou prompts had verfijnd, dan zou jy wat jy wil doen,
+
+08:07.520 --> 08:14.300
+so een taxiderme app of code genereer wat iemand niet gaat veld maak, wat hij die formulus niet gaat fouten maak,
+
+08:14.300 --> 08:24.300
+of dat hij niet iets gaat vergeet, of dat hij niet iets gaat vergeet, of dat hij dit kan doen en dat hij dit kan doen en dat hij die code genereer en alles.
+
+08:24.300 --> 08:30.000
+Ja, so dit wat jy nou nou al verdelik is wat jy gedoen is,
+
+08:30.000 --> 08:39.680
+as jy, als jy, die dit, die klaar PRD document opgestel en alles,
+
+08:40.480 --> 08:46.060
+as dit, die doodstel voor moet voer, gaan dit bitterlijk makkelijk kan, kan die neem ek aan.
+
+08:46.060 --> 08:59.880
+Ja, op dit moment, op dit moment doen hij alles, waar ik mij,
+
+09:00.820 --> 09:02.360
+hij begin,
+
+09:03.480 --> 09:07.260
+ok, laat, ik begin aan de hand van een project,
+
+09:07.360 --> 09:10.220
+ik wil een synthesizer maak, die fysieke ding wat jy zag,
+
+09:10.220 --> 09:11.720
+en, ehm,
+
+09:11.720 --> 09:12.400
+zodat hij,
+
+09:13.140 --> 09:15.040
+en, en, ik begin met user stories,
+
+09:15.660 --> 09:17.420
+vertel, gewoon vertel wat ek doen,
+
+09:17.420 --> 09:19.480
+sowieso net zoals ons nu aan de praat vertel,
+
+09:19.560 --> 09:20.740
+jy vertel oor die taxiderme,
+
+09:21.120 --> 09:23.280
+jy, jy, jy, jy, jy het een interview, jy, jy vertel wat jy doen,
+
+09:23.360 --> 09:24.120
+wie is het proces,
+
+09:24.680 --> 09:25.220
+dan na, oor,
+
+09:25.380 --> 09:27.720
+gaan, ek, geef jy die dit databronne wat hij moet doen,
+
+09:28.240 --> 09:29.820
+en, ehm,
+
+09:30.940 --> 09:32.500
+maar ek het al eigenlijk al geweet wat ek,
+
+09:32.600 --> 09:33.840
+wat helemaal in einde wil,
+
+09:34.360 --> 09:35.840
+en, toe kon ek het ook test,
+
+09:36.360 --> 09:36.900
+dus ja,
+
+09:36.900 --> 09:58.520
+Ja, ek denk dat dit proces wel helemaal kan en volledig geautomatiseerd is en dat jy gewoon met hem kan praat zoals nu praat en dat hij toch moet dat hij veel functieel ontwerp, business case gaan bijstelen, roadmap, die backlog, dat hij code gaan genereren wat je kan testen, uitvoeren en al dat soort van mening.
+
+09:58.520 --> 10:11.380
+Dus ja, ek wil, ek is daarmee bezig. En, want ook die voordeel is, wat my voordeel is, ek weet van programmering, dus ek heb ervaring, dus ek kan ook op dit gebied, kan ek dit self-check.
+
+10:15.380 --> 10:25.640
+Ok, want, my probleem is, ek het, ek het dittie van, het groep, dit is al sê, spierst en, wat, ek het nou,
+
+10:28.520 --> 10:38.200
+Wacht even, laatste, laatste 10 seconde, verbinding is verbree, was, was slecht geweest, kan je niet weer aan het halen?
+
+10:38.200 --> 10:40.820
+Ja, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie, hou nie.
+
+10:58.520 --> 11:12.760
+Hallo, hi, hi, Kasper, ja, kies, Mathieu, sorry, ek heb net veel gebis, al nou, als u maal Zuid-Afrika zijn.
+
+11:12.760 --> 11:21.800
+Ok, kom, ek begin net voor, so, ek sit in een situasie, waar, as jy, as, as ek nou na je plan toe gaan over financiering,
+
+11:22.180 --> 11:29.260
+dan voel ek, ek weet omtrend alles, nie, dit, ek kan dit uit my komp uit, ek gaan veel financiering, kan kry veel bezigheid,
+
+11:29.620 --> 11:36.940
+want dit wat ek gedoen het al vir a paar jaar, maar nou moet, moet die apps krys, ja, kan het doen,
+
+11:36.940 --> 11:43.340
+maar, ek, ek, ek voel ons die een paar keer, want ek wees nie, wat gaan verkeerd gaan, of wat ek nie wees nie,
+
+11:43.980 --> 11:50.260
+en, eh, ek voel, ek het mensen nodig om te gebruik, wat, my die goed kan double check,
+
+11:50.360 --> 11:55.240
+en daarvoor, nou voel ek, nobody's lens, eh, wat gaan ek om nou eindelijk spaar,
+
+11:55.320 --> 12:00.800
+want, nou is ek in die middel van die prentie, ja, ek het die architect, en die business analyst,
+
+12:01.640 --> 12:06.800
+maar, klein bezigheer, en onthoor, of juist, hulle vol apps heen, maar het nie, hulle arm,
+
+12:06.800 --> 12:13.280
+en, eh, ja, so langs door die koord, het, hoe je het voel op die imposter syndroom, het aan die begin,
+
+12:13.360 --> 12:17.780
+want jy het nog nie jou eerste app gebouw nie, en as ek nou na die klient toe gaan gaan,
+
+12:18.120 --> 12:21.960
+dan gaan ek je weet om om te prijs nie, want ek op ons sê, ek gaan hierdie ontwikkelaar gebruik,
+
+12:21.980 --> 12:25.160
+en gaan ek bestemake, maar jy gebruik nou die ou, hoeveel betaal jy om,
+
+12:25.520 --> 12:31.120
+en ek is een deursichtige mens, dan gaan ek later opeindig, en sê kan nie eens geld vragen wat ek,
+
+12:31.120 --> 12:35.160
+hoe nie, so, ek het, ek het gedink, as ek kon,
+
+12:35.880 --> 12:39.380
+een werkbare prototype al gebouw het, en na die klient toe gaan,
+
+12:39.460 --> 12:41.220
+en sê, luister, ek het rees hierdie vrouw,
+
+12:41.620 --> 12:42.560
+dan gaan ek baie meer,
+
+12:43.260 --> 12:46.500
+eh, gaan ek, gaan ek baie meer geloofwaardigheid vir die klient heen,
+
+12:46.560 --> 12:49.100
+want ek gaan omklaar iets zien wat werk, en ek kan my sê, maar,
+
+12:49.200 --> 12:50.380
+kan hier nie dit in dit verander,
+
+12:50.940 --> 12:52.380
+en dan kan ek basis,
+
+12:52.900 --> 12:55.360
+eh, om selke raad, het gaan so veel kost,
+
+12:55.700 --> 12:57.780
+en hulle kan my hiervoor app te postie dan gee,
+
+12:57.780 --> 12:59.320
+en dan kan ek ontwikkelaar betaal,
+
+12:59.780 --> 13:01.680
+om die rees van die goeders te doen,
+
+13:02.360 --> 13:04.480
+eh, nou, dis, dis maar hoe ek gedink het,
+
+13:04.540 --> 13:05.380
+want op die stadium,
+
+13:05.900 --> 13:08.320
+gaan die ontwikkelaar vir my alles ga uitkoud,
+
+13:08.420 --> 13:09.120
+en alles doen,
+
+13:09.520 --> 13:11.120
+ek het vir my PRD gegeer,
+
+13:11.260 --> 13:11.660
+vir my,
+
+13:12.420 --> 13:14.180
+wat is die architect gegeer,
+
+13:15.020 --> 13:16.300
+en, dan gaan hy alles doen,
+
+13:16.560 --> 13:18.040
+en ek kan saam met hom mee werk,
+
+13:18.120 --> 13:18.740
+en sovoort,
+
+13:19.160 --> 13:20.740
+maar ek weet het gaan nog steeds,
+
+13:21.220 --> 13:22.200
+is as ek en hy,
+
+13:23.120 --> 13:24.100
+saam die goed moet doen,
+
+13:24.100 --> 13:25.100
+gaan die klient nog steeds,
+
+13:25.100 --> 13:27.540
+tussen 50 en 60 duizend band op betaal,
+
+13:27.780 --> 13:28.620
+en,
+
+13:29.100 --> 13:30.640
+jy weet wat vir iemand in Amerika,
+
+13:30.800 --> 13:32.580
+of Nederland nie baie geld is nie,
+
+13:32.640 --> 13:34.020
+maar, vir Suid-Afrikaanse,
+
+13:34.460 --> 13:35.120
+een boer,
+
+13:35.500 --> 13:37.160
+wat een taxidermie teesuit het,
+
+13:37.240 --> 13:38.080
+dit gaan vir hom,
+
+13:38.620 --> 13:39.140
+voel ek,
+
+13:39.240 --> 13:40.260
+julle mol te veel ges,
+
+13:40.700 --> 13:41.440
+ok, nou, ek,
+
+13:41.440 --> 13:42.620
+ek kan, ek kan een uitdaging,
+
+13:42.800 --> 13:43.060
+ek gaan,
+
+13:43.160 --> 13:44.880
+ek gewoon iets probeer,
+
+13:44.980 --> 13:45.880
+is, als ek met my,
+
+13:46.160 --> 13:46.460
+eh,
+
+13:47.280 --> 13:47.920
+as jy jou,
+
+13:49.420 --> 13:50.360
+als jy het bijvoorbeeld,
+
+13:50.420 --> 13:51.200
+die verhaal beskrijf,
+
+13:51.240 --> 13:52.940
+van wat die taxidermie moet gaan doen,
+
+13:52.940 --> 13:54.420
+wat is een bedrijfsproces,
+
+13:54.520 --> 13:55.760
+wat is inputs, outputs,
+
+13:55.760 --> 13:57.080
+foto's,
+
+13:57.140 --> 13:57.980
+dat hy moet upload,
+
+13:58.340 --> 13:58.940
+so duidelik,
+
+13:59.000 --> 13:59.720
+als moeilijk,
+
+14:00.580 --> 14:01.160
+dan kan ek,
+
+14:01.260 --> 14:02.000
+het is dit weet,
+
+14:02.440 --> 14:03.200
+dan kan ek dit,
+
+14:03.760 --> 14:04.240
+eh,
+
+14:05.620 --> 14:05.920
+in,
+
+14:06.140 --> 14:07.580
+in my proces ingooi,
+
+14:08.420 --> 14:08.900
+en,
+
+14:09.480 --> 14:09.760
+kyk,
+
+14:09.960 --> 14:10.480
+of hy in,
+
+14:10.620 --> 14:11.400
+een keer,
+
+14:12.360 --> 14:13.060
+dit kopieer,
+
+14:13.360 --> 14:13.700
+plak,
+
+14:14.060 --> 14:14.300
+druk,
+
+14:14.420 --> 14:14.800
+enter,
+
+14:16.040 --> 14:16.740
+of hy daarna,
+
+14:16.800 --> 14:17.260
+10 minuut,
+
+14:17.320 --> 14:17.460
+in,
+
+14:17.600 --> 14:18.120
+in,
+
+14:18.120 --> 14:18.640
+MVP,
+
+14:18.640 --> 14:19.860
+in website,
+
+14:20.280 --> 14:21.120
+voorbeeld website,
+
+14:21.220 --> 14:21.880
+daar uitspoeg,
+
+14:21.880 --> 14:24.040
+wat is,
+
+14:24.140 --> 14:24.320
+jy sê,
+
+14:24.400 --> 14:25.280
+ek wil het bijwaardeer,
+
+14:25.840 --> 14:26.260
+dit is,
+
+14:26.340 --> 14:26.540
+maar,
+
+14:26.720 --> 14:27.580
+ek het al uit haar gedoe,
+
+14:27.880 --> 14:29.180
+ek het haar PRB geskryf,
+
+14:29.240 --> 14:29.980
+ek het een routnet,
+
+14:31.180 --> 14:32.260
+ek het een mindmap,
+
+14:33.720 --> 14:33.960
+en,
+
+14:34.620 --> 14:34.900
+ek het,
+
+14:34.900 --> 14:35.840
+ek het volledig op,
+
+14:36.160 --> 14:36.420
+nou,
+
+14:36.480 --> 14:36.760
+groebeer,
+
+14:36.820 --> 14:37.180
+het Bits,
+
+14:37.260 --> 14:37.580
+Gtt,
+
+14:37.900 --> 14:38.800
+alles gedoen,
+
+14:39.120 --> 14:40.380
+so ek het hele dreed,
+
+14:40.380 --> 14:41.320
+ok,
+
+14:41.780 --> 14:41.980
+goed,
+
+14:42.080 --> 14:42.360
+wat ek,
+
+14:42.640 --> 14:42.820
+wat,
+
+14:42.920 --> 14:43.060
+ok,
+
+14:43.160 --> 14:43.520
+eerstens,
+
+14:43.600 --> 14:44.000
+dit is dit,
+
+14:44.120 --> 14:45.680
+ek kan jy niks beloof,
+
+14:45.760 --> 14:46.340
+van hoe dit gaan,
+
+14:46.420 --> 14:46.840
+dit is gewoon,
+
+14:46.980 --> 14:47.220
+dit is,
+
+14:47.220 --> 14:47.240
+dit is,
+
+14:47.240 --> 14:48.280
+dit is eerste keer,
+
+14:48.340 --> 14:49.260
+wat ek nu dit gaan doen,
+
+14:49.920 --> 14:50.320
+wat ik,
+
+14:50.800 --> 14:51.160
+eh,
+
+14:51.220 --> 14:52.340
+want dit is iets wat ik,
+
+14:52.560 --> 14:53.640
+dit, wat jy nu beschrijf,
+
+14:53.740 --> 14:54.040
+dit is,
+
+14:54.240 --> 14:55.520
+en dit met iemand interview,
+
+14:55.660 --> 14:56.700
+en dit proces,
+
+14:57.020 --> 14:57.380
+omdoen,
+
+14:57.460 --> 14:58.320
+en een website bouw,
+
+14:58.420 --> 14:58.560
+en,
+
+14:58.920 --> 14:59.700
+iteratief werk,
+
+14:59.800 --> 15:00.240
+en dit al met,
+
+15:00.240 --> 15:01.420
+white coding,
+
+15:02.040 --> 15:02.320
+dus,
+
+15:02.620 --> 15:03.000
+eh,
+
+15:05.000 --> 15:06.280
+dus wat jy eigenlijk met iemand,
+
+15:06.380 --> 15:07.480
+met alle mensen wil doen,
+
+15:07.660 --> 15:08.940
+dit doe ek nu eerst met jou,
+
+15:09.260 --> 15:10.120
+en dan gaan jy dit,
+
+15:10.120 --> 15:12.040
+met jou taxi daarmee gebeur het,
+
+15:12.120 --> 15:12.740
+en dit is,
+
+15:12.740 --> 15:13.860
+dit is so'n soort van die,
+
+15:13.980 --> 15:15.400
+van die gebeurkinges,
+
+15:15.500 --> 15:15.840
+en so,
+
+15:16.360 --> 15:16.780
+wat ek gaan,
+
+15:16.940 --> 15:17.280
+wat ek,
+
+15:17.460 --> 15:17.740
+eh,
+
+15:17.960 --> 15:18.600
+wat eerstens,
+
+15:18.660 --> 15:19.560
+want ek wil graag,
+
+15:19.600 --> 15:20.320
+ek wil graag,
+
+15:20.400 --> 15:21.780
+en daar gaan ook mensen wees,
+
+15:22.340 --> 15:22.660
+wat,
+
+15:22.660 --> 15:22.840
+eh,
+
+15:23.040 --> 15:23.400
+ik zie,
+
+15:23.460 --> 15:24.280
+wat sikker dienste,
+
+15:24.580 --> 15:25.580
+dit baie bezig het,
+
+15:25.580 --> 15:25.900
+dit soek,
+
+15:25.900 --> 15:26.580
+soek sa eie,
+
+15:27.080 --> 15:27.800
+applicatie,
+
+15:27.900 --> 15:29.200
+maar jy kan nie daarvoor betaal nie,
+
+15:29.220 --> 15:29.820
+en ek wil graag,
+
+15:29.880 --> 15:30.380
+die mark,
+
+15:30.980 --> 15:31.560
+my lekke,
+
+15:31.640 --> 15:33.000
+want jy loont een probleem op,
+
+15:33.360 --> 15:34.460
+jy nie kan dit vinnig oplost,
+
+15:35.000 --> 15:36.500
+as jy die rechte proces te gebruik,
+
+15:36.540 --> 15:37.140
+en ek wil graag,
+
+15:37.140 --> 15:38.760
+die mark betregen,
+
+15:38.920 --> 15:40.020
+ek wil dit baie geniet,
+
+15:40.720 --> 15:40.920
+eh,
+
+15:41.240 --> 15:41.740
+ek het my,
+
+15:41.880 --> 15:42.040
+eh,
+
+15:42.760 --> 15:43.900
+net nog geen weet het gegeen,
+
+15:43.960 --> 15:44.500
+ek het my,
+
+15:44.900 --> 15:45.640
+point of sale,
+
+15:45.720 --> 15:46.940
+het of hy ditelijk gebruik,
+
+15:47.360 --> 15:48.300
+het ek achtergekom,
+
+15:48.380 --> 15:49.200
+ek kan toegang krijg,
+
+15:49.240 --> 15:50.160
+voor die databasis,
+
+15:50.720 --> 15:51.020
+oh ja,
+
+15:51.280 --> 15:51.920
+en toe,
+
+15:52.100 --> 15:52.460
+eh,
+
+15:53.380 --> 15:53.960
+toe die word,
+
+15:54.020 --> 15:54.420
+ingeneer,
+
+15:54.500 --> 15:55.260
+dat ik point of sale,
+
+15:55.320 --> 15:56.440
+dat hij remotely kan werk,
+
+15:57.120 --> 15:57.940
+skryg my eie ding,
+
+15:58.000 --> 15:58.740
+met anti-gravity,
+
+15:58.940 --> 15:59.820
+ek sê die agente,
+
+16:00.340 --> 16:01.780
+ek koppel my die databasis,
+
+16:02.120 --> 16:03.100
+via MCP,
+
+16:04.040 --> 16:05.700
+aan SQL Server databasis,
+
+16:06.020 --> 16:06.880
+on-on-on-on-on-trent,
+
+16:07.140 --> 16:10.160
+en ek doen transaksies op die huidige point of sale,
+
+16:10.720 --> 16:11.660
+en ek sê vir die agente,
+
+16:11.760 --> 16:12.500
+kyk wat ek doen,
+
+16:12.680 --> 16:14.260
+kyk wat gebeur in die databasis,
+
+16:14.620 --> 16:15.500
+en dan vandaar af,
+
+16:15.580 --> 16:16.700
+skryg jy my die brand en,
+
+16:17.020 --> 16:17.640
+en die bank,
+
+16:17.760 --> 16:18.340
+wow,
+
+16:18.520 --> 16:20.380
+ek het binnen drie daa,
+
+16:20.480 --> 16:20.800
+eerst,
+
+16:20.920 --> 16:21.800
+ek het ding geskrypt,
+
+16:22.360 --> 16:22.540
+en,
+
+16:22.600 --> 16:23.380
+maar ek,
+
+16:23.440 --> 16:24.140
+ek het,
+
+16:24.140 --> 16:24.160
+ek het,
+
+16:24.160 --> 16:25.160
+soos gewee,
+
+16:25.840 --> 16:26.280
+het ek,
+
+16:26.800 --> 16:28.260
+shiny object syndrome,
+
+16:28.920 --> 16:30.140
+of eekkoorinkie syndrome,
+
+16:30.600 --> 16:31.140
+eh,
+
+16:31.480 --> 16:32.180
+as ek iets anders,
+
+16:32.240 --> 16:33.960
+ek lost vinnig het in die middel,
+
+16:34.080 --> 16:34.200
+en,
+
+16:34.600 --> 16:34.780
+ja,
+
+16:34.860 --> 16:35.280
+iets anders,
+
+16:35.280 --> 16:36.400
+getraak my aandacht,
+
+16:36.600 --> 16:37.000
+of ek,
+
+16:37.000 --> 16:37.020
+ek,
+
+16:37.020 --> 16:38.140
+ek voel,
+
+16:38.200 --> 16:39.300
+ek het klaar die ding bereik,
+
+16:39.400 --> 16:40.520
+en ek het klaar my toe van mien,
+
+16:40.980 --> 16:42.000
+tussie vir die dag het rin,
+
+16:42.060 --> 16:43.520
+en dan gaan ek iets anders betoet,
+
+16:44.340 --> 16:44.660
+maar,
+
+16:44.840 --> 16:45.580
+maar ja,
+
+16:45.920 --> 16:46.360
+so,
+
+16:46.740 --> 16:48.540
+het jy al met anti-gravity gebeur?
+
+16:48.540 --> 16:49.220
+eh,
+
+16:49.220 --> 16:49.540
+nee,
+
+16:49.680 --> 16:49.960
+ek het,
+
+16:50.080 --> 16:50.320
+ek,
+
+16:50.460 --> 16:51.020
+nog nie,
+
+16:51.220 --> 16:51.440
+maar,
+
+16:51.720 --> 16:51.940
+wat,
+
+16:52.160 --> 16:53.340
+ek weet het is een browser,
+
+16:53.540 --> 16:54.220
+of het is een,
+
+16:55.640 --> 16:56.660
+iets met van Google,
+
+16:56.780 --> 16:56.900
+ja?
+
+16:57.000 --> 16:57.120
+Ja,
+
+16:57.220 --> 16:58.040
+die anti-gravity,
+
+16:58.240 --> 16:58.420
+ja,
+
+16:58.500 --> 16:59.160
+anti-gravity,
+
+16:59.340 --> 17:01.120
+ek weet nie wat noem je alles nie,
+
+17:01.180 --> 17:01.340
+maar,
+
+17:01.480 --> 17:02.500
+dis nou een incentive,
+
+17:02.580 --> 17:02.760
+en,
+
+17:02.920 --> 17:04.660
+jy download hem op jou rekenaar,
+
+17:05.040 --> 17:05.740
+en dan,
+
+17:05.860 --> 17:06.080
+eh,
+
+17:06.260 --> 17:07.620
+hy is lokaal gestoor,
+
+17:08.180 --> 17:08.420
+hy,
+
+17:08.520 --> 17:10.740
+hy kan volle beheerkryf van jou rekenaar,
+
+17:10.960 --> 17:12.340
+hy kan die folder skip,
+
+17:12.820 --> 17:13.020
+hy,
+
+17:13.080 --> 17:14.640
+hy skryf basis die code,
+
+17:15.140 --> 17:16.260
+op jou rekenaar,
+
+17:16.260 --> 17:17.800
+en ook met proms,
+
+17:17.880 --> 17:19.440
+en binnen in anti-gravity,
+
+17:19.700 --> 17:20.580
+such as DCT,
+
+17:20.720 --> 17:21.300
+dat flow,
+
+17:21.500 --> 17:22.240
+dat gemene,
+
+17:22.480 --> 17:22.720
+alles,
+
+17:22.800 --> 17:23.720
+ek in model kies,
+
+17:24.440 --> 17:25.180
+jy kan vorms,
+
+17:25.240 --> 17:26.200
+die documente,
+
+17:27.020 --> 17:27.780
+documente,
+
+17:28.260 --> 17:29.220
+beide aanhouders,
+
+17:29.300 --> 17:30.300
+die development blog,
+
+17:30.400 --> 17:30.600
+en hier,
+
+17:30.660 --> 17:31.080
+ook map,
+
+17:31.220 --> 17:32.320
+en die hand hand op,
+
+17:32.400 --> 17:33.160
+en al dat soort dit,
+
+17:33.640 --> 17:34.000
+en,
+
+17:34.000 --> 17:35.760
+dit is alles lokaal op jou beestje,
+
+17:35.880 --> 17:36.080
+en,
+
+17:36.160 --> 17:37.460
+dan kan hy dit stoot na,
+
+17:38.080 --> 17:38.380
+na,
+
+17:38.380 --> 17:39.360
+a get up toe.
+
+17:39.840 --> 17:40.040
+Ok,
+
+17:40.140 --> 17:40.480
+dit link,
+
+17:40.580 --> 17:40.840
+dit,
+
+17:40.840 --> 17:42.020
+dit link,
+
+17:42.160 --> 17:42.480
+dit is,
+
+17:42.480 --> 17:43.940
+dit is eigenlijk selfs als,
+
+17:44.120 --> 17:44.840
+open pool,
+
+17:45.400 --> 17:45.700
+is,
+
+17:46.260 --> 17:47.420
+anti-gravity,
+
+17:47.760 --> 17:48.100
+maar dan,
+
+17:48.280 --> 17:49.100
+open pool is,
+
+17:49.620 --> 17:50.360
+open source,
+
+17:51.720 --> 17:53.280
+en met die code zelf,
+
+17:53.500 --> 17:53.720
+van,
+
+17:53.840 --> 17:54.620
+van open pool,
+
+17:55.040 --> 17:55.240
+maar,
+
+17:55.540 --> 17:55.740
+ja,
+
+17:55.940 --> 17:56.160
+dit is,
+
+17:56.580 --> 17:57.160
+misschien kan ek,
+
+17:57.240 --> 17:58.580
+anti-gravity gaan onderzoek,
+
+17:58.620 --> 17:59.740
+want dit is eigenlijk precies,
+
+17:59.740 --> 18:00.240
+dit is,
+
+18:00.240 --> 18:00.980
+met open pool,
+
+18:01.100 --> 18:01.400
+ek sê,
+
+18:01.700 --> 18:02.800
+daar is een fireclaw,
+
+18:02.940 --> 18:03.140
+eh,
+
+18:03.140 --> 18:03.820
+fireclaw,
+
+18:03.960 --> 18:05.540
+wat je kan koppel aan anti-gravity,
+
+18:05.600 --> 18:05.780
+ja,
+
+18:05.880 --> 18:06.320
+maar dit is,
+
+18:06.320 --> 18:06.700
+dit is,
+
+18:06.820 --> 18:07.320
+dit is,
+
+18:07.900 --> 18:08.080
+eh,
+
+18:08.080 --> 18:08.880
+ok,
+
+18:09.000 --> 18:09.180
+met,
+
+18:09.180 --> 18:09.340
+met,
+
+18:09.440 --> 18:09.620
+want,
+
+18:09.620 --> 18:11.160
+ek wist nie dat jy met,
+
+18:11.680 --> 18:12.440
+anti-gravity,
+
+18:12.540 --> 18:13.120
+overfereld,
+
+18:13.200 --> 18:14.380
+naar github kan publish,
+
+18:14.380 --> 18:15.620
+en,
+
+18:15.840 --> 18:16.240
+eh,
+
+18:17.080 --> 18:17.420
+agent,
+
+18:17.620 --> 18:18.580
+en eigen pront,
+
+18:18.660 --> 18:19.040
+en so,
+
+18:19.320 --> 18:20.300
+en weet sê wat kan doen.
+
+18:20.300 --> 18:20.600
+hy het,
+
+18:20.600 --> 18:21.260
+hy het een eitje,
+
+18:21.260 --> 18:22.360
+hy klomp eitjens ook,
+
+18:22.440 --> 18:23.040
+jy kan eitje,
+
+18:23.240 --> 18:24.680
+in die 20 eitjens apart,
+
+18:24.780 --> 18:24.920
+dat,
+
+18:24.980 --> 18:25.160
+daar,
+
+18:25.220 --> 18:26.360
+met elkeens eie saak,
+
+18:26.440 --> 18:27.120
+en ek weet nog nie,
+
+18:27.120 --> 18:28.160
+lekker hoe werk dit nie,
+
+18:28.840 --> 18:29.040
+eh,
+
+18:29.100 --> 18:29.400
+maar,
+
+18:29.760 --> 18:30.140
+jy kan,
+
+18:30.220 --> 18:31.100
+met anti-gravity,
+
+18:31.180 --> 18:31.760
+kan jy aan,
+
+18:32.240 --> 18:33.100
+baie goed koppel,
+
+18:33.180 --> 18:34.280
+nie baie mcp,
+
+18:34.800 --> 18:35.040
+en,
+
+18:35.100 --> 18:36.060
+hy het een fireclaw,
+
+18:36.180 --> 18:36.600
+ek sêker,
+
+18:36.680 --> 18:37.220
+open flow,
+
+18:37.300 --> 18:38.300
+dan ook met hom kan werk,
+
+18:38.780 --> 18:39.680
+wat anti-gravity,
+
+18:39.760 --> 18:40.840
+of wat ek nie verstaan nie,
+
+18:40.880 --> 18:40.980
+is,
+
+18:40.980 --> 18:41.160
+hy,
+
+18:41.840 --> 18:42.560
+hy gaan doen,
+
+18:42.660 --> 18:43.520
+en toets nie die goed,
+
+18:43.740 --> 18:44.160
+self nie,
+
+18:44.200 --> 18:45.360
+of misschien weet ek nog nie,
+
+18:45.360 --> 18:45.920
+van dit lied,
+
+18:46.300 --> 18:46.540
+maar,
+
+18:46.700 --> 18:48.120
+hy het ek met alle toets,
+
+18:48.180 --> 18:48.620
+en dan sê het,
+
+18:48.660 --> 18:48.740
+o,
+
+18:48.740 --> 18:49.320
+hy is een koud,
+
+18:49.480 --> 18:49.900
+en dan,
+
+18:50.360 --> 18:50.980
+moet ek dit nou,
+
+18:51.100 --> 18:51.340
+en dan,
+
+18:51.520 --> 18:51.720
+weet,
+
+18:51.780 --> 18:52.600
+wat ek nou weer lang,
+
+18:52.740 --> 18:52.900
+en,
+
+18:53.480 --> 18:54.340
+soos laat het ek,
+
+18:54.600 --> 18:55.580
+waarop ek vir die liter,
+
+18:56.320 --> 18:57.920
+of wil ek kursieve elg gebruik,
+
+18:57.980 --> 18:58.540
+vir die liter,
+
+18:59.200 --> 18:59.460
+en,
+
+18:59.540 --> 19:00.100
+op my een,
+
+19:00.220 --> 19:01.360
+een module heb,
+
+19:01.740 --> 19:02.700
+het het iere gevat,
+
+19:02.800 --> 19:03.740
+om het bedrag te krijg,
+
+19:03.800 --> 19:04.880
+het ek self gedinkt,
+
+19:04.920 --> 19:05.420
+het geset maar,
+
+19:05.420 --> 19:07.080
+het het iets met die fond te doen,
+
+19:07.720 --> 19:07.860
+en,
+
+19:07.860 --> 19:07.900
+en,
+
+19:07.900 --> 19:09.160
+en maak het saam toen raam in,
+
+19:09.300 --> 19:09.480
+en,
+
+19:09.480 --> 19:11.040
+en bracht daar die oplossing,
+
+19:11.560 --> 19:11.860
+die weet,
+
+19:11.940 --> 19:12.080
+maar,
+
+19:12.080 --> 19:12.800
+sikker goed vind,
+
+19:12.920 --> 19:13.700
+iemand die ek,
+
+19:13.940 --> 19:15.060
+wat iere en iere,
+
+19:15.580 --> 19:16.360
+waar iemand die jy,
+
+19:16.420 --> 19:17.500
+die dalk in een paar seconde,
+
+19:17.560 --> 19:17.880
+sal weet,
+
+19:17.940 --> 19:18.700
+wat die probleem,
+
+19:18.780 --> 19:18.900
+of,
+
+19:19.420 --> 19:20.520
+kom beter instructies,
+
+19:20.520 --> 19:20.740
+sê,
+
+19:21.320 --> 19:21.620
+maar,
+
+19:21.820 --> 19:22.500
+wat ek het,
+
+19:22.620 --> 19:22.760
+en,
+
+19:22.760 --> 19:23.700
+het het selfde,
+
+19:23.780 --> 19:24.340
+het selfde,
+
+19:24.420 --> 19:24.640
+het selfde,
+
+19:24.640 --> 19:26.340
+van fouten te ontdek,
+
+19:26.520 --> 19:27.340
+het ek een soort van,
+
+19:27.420 --> 19:27.880
+genaamde,
+
+19:27.980 --> 19:28.800
+testharness,
+
+19:29.940 --> 19:30.380
+waar hy,
+
+19:31.200 --> 19:33.360
+as hy fouten ontdek,
+
+19:33.880 --> 19:34.800
+moet hy die fouten,
+
+19:35.000 --> 19:35.820
+gaan onderzoek,
+
+19:36.060 --> 19:36.680
+hy moet een,
+
+19:37.200 --> 19:39.080
+uitvoerplan,
+
+19:39.220 --> 19:39.840
+samenstel,
+
+19:40.620 --> 19:40.860
+en,
+
+19:40.860 --> 19:42.200
+hy moet my adviseer,
+
+19:42.680 --> 19:43.720
+wat hy gaan verander,
+
+19:44.220 --> 19:44.460
+en,
+
+19:44.520 --> 19:45.120
+hy moet vergelijk,
+
+19:45.200 --> 19:46.200
+waarom hy dit gaan doen,
+
+19:47.000 --> 19:47.380
+en,
+
+19:47.580 --> 19:48.260
+hy moet,
+
+19:48.320 --> 19:49.420
+ek moet kan rollback,
+
+19:49.540 --> 19:50.640
+naar die vorige versie,
+
+19:51.120 --> 19:51.740
+van een fix,
+
+19:53.020 --> 19:53.460
+dus,
+
+19:53.580 --> 19:54.280
+om precies,
+
+19:54.420 --> 19:55.620
+wat jy nie beschrijf,
+
+19:56.080 --> 19:56.700
+dit te,
+
+19:56.840 --> 19:57.420
+af te vang,
+
+19:58.780 --> 19:59.040
+dus,
+
+19:59.040 --> 19:59.260
+dit,
+
+19:59.260 --> 19:59.960
+dit bevurreld,
+
+20:00.000 --> 20:00.120
+iets,
+
+20:00.180 --> 20:00.920
+als het die times,
+
+20:01.000 --> 20:01.760
+na die nieuwe raaming,
+
+20:02.180 --> 20:03.560
+misschien weet ek ek nie direct,
+
+20:03.960 --> 20:04.160
+maar,
+
+20:04.220 --> 20:04.400
+hy,
+
+20:04.720 --> 20:05.660
+moet my begeleid,
+
+20:05.700 --> 20:06.160
+dan naartoe,
+
+20:06.240 --> 20:06.520
+dat ek,
+
+20:06.580 --> 20:07.040
+in plaats van,
+
+20:07.120 --> 20:08.120
+dat ek een uur om die besers,
+
+20:08.120 --> 20:11.220
+10 minuten mee bezig,
+
+20:11.780 --> 20:12.640
+dus om dit op te los,
+
+20:12.700 --> 20:12.960
+ja,
+
+20:13.500 --> 20:13.840
+ja,
+
+20:14.120 --> 20:14.360
+joh,
+
+20:14.820 --> 20:15.680
+nee, dit blink goed,
+
+20:16.640 --> 20:16.840
+sê,
+
+20:16.840 --> 20:17.500
+so siel,
+
+20:17.640 --> 20:18.060
+ek sal,
+
+20:18.260 --> 20:19.780
+ek sal baie waardere,
+
+20:19.880 --> 20:20.140
+sê,
+
+20:20.480 --> 20:21.360
+uit halkanel,
+
+20:21.640 --> 20:23.140
+ek is op boemelaar status,
+
+20:23.260 --> 20:23.440
+en,
+
+20:23.500 --> 20:23.520
+nou,
+
+20:23.580 --> 20:24.000
+sê,
+
+20:24.100 --> 20:24.360
+ek sal,
+
+20:24.420 --> 20:25.220
+kijk,
+
+20:25.280 --> 20:25.800
+hoe kan ek,
+
+20:25.860 --> 20:27.500
+een geldie maak,
+
+20:27.540 --> 20:28.040
+of een ding,
+
+20:28.160 --> 20:29.020
+uit die klient uit,
+
+20:29.620 --> 20:30.080
+want,
+
+20:30.140 --> 20:31.320
+het ek nou nou om toegang van,
+
+20:31.380 --> 20:31.640
+en sê,
+
+20:31.700 --> 20:31.800
+nee,
+
+20:31.860 --> 20:33.300
+maar ons moet een fiver gebruik,
+
+20:33.820 --> 20:33.980
+en,
+
+20:34.060 --> 20:34.140
+nou,
+
+20:34.220 --> 20:34.520
+moet hy,
+
+20:35.080 --> 20:35.480
+daaraf,
+
+20:35.540 --> 20:36.040
+uit en draan,
+
+20:36.100 --> 20:36.960
+daarin betaal,
+
+20:37.120 --> 20:37.300
+maar,
+
+20:37.380 --> 20:37.500
+ek,
+
+20:37.580 --> 20:37.960
+kom sê,
+
+20:38.020 --> 20:38.200
+ons,
+
+20:38.280 --> 20:39.080
+ons het een risiko,
+
+20:39.200 --> 20:39.420
+dat,
+
+20:39.980 --> 20:40.700
+die developer,
+
+20:40.840 --> 20:42.060
+ek ken hem van geen kant af,
+
+20:42.140 --> 20:42.220
+nie,
+
+20:42.280 --> 20:42.440
+ja,
+
+20:42.440 --> 20:43.400
+en e-news is goed,
+
+20:43.860 --> 20:45.440
+maar daar produceer hy nie van ons,
+
+20:45.480 --> 20:46.220
+wat ons soek nie,
+
+20:46.340 --> 20:47.580
+hoe krijg my geld terug,
+
+20:48.240 --> 20:48.460
+wil jy,
+
+20:48.520 --> 20:49.020
+as jy met sikke,
+
+20:49.120 --> 20:50.320
+een tyf van langdradige goed,
+
+20:50.380 --> 20:51.220
+na kneem toe gaan,
+
+20:51.800 --> 20:52.040
+dan,
+
+20:52.120 --> 20:53.220
+dan gaan jy ons verloor,
+
+20:53.720 --> 20:53.860
+nou,
+
+20:53.960 --> 20:54.080
+ek,
+
+20:54.080 --> 20:54.200
+ek,
+
+20:54.200 --> 20:54.560
+ek,
+
+20:54.560 --> 20:55.080
+ek,
+
+20:55.080 --> 20:55.740
+ek vind jou,
+
+20:55.740 --> 20:57.080
+ek vind jou,
+
+20:57.140 --> 20:57.820
+jou aanpak,
+
+20:58.340 --> 20:58.760
+interessant,
+
+20:59.220 --> 21:00.000
+is dat jy eerst,
+
+21:00.300 --> 21:02.080
+een basiswebsite gaan bouw,
+
+21:02.260 --> 21:02.840
+dat jy na die,
+
+21:03.000 --> 21:04.320
+na die persoon al benader,
+
+21:04.800 --> 21:04.940
+sê,
+
+21:05.020 --> 21:05.240
+kijk,
+
+21:05.320 --> 21:06.640
+ek het al hier een website gebouw,
+
+21:06.760 --> 21:07.120
+dit is,
+
+21:07.200 --> 21:08.080
+dit is een voorbeeld,
+
+21:08.800 --> 21:10.840
+en hy is helemaal gericht op jou,
+
+21:10.840 --> 21:12.040
+en dit is een app,
+
+21:12.100 --> 21:13.200
+wat spesifiek op jou,
+
+21:13.380 --> 21:15.060
+taxidermie gericht is,
+
+21:15.940 --> 21:16.500
+of jou,
+
+21:16.600 --> 21:17.220
+weet ek veel,
+
+21:17.340 --> 21:18.120
+jou kaas en,
+
+21:18.180 --> 21:19.100
+kaas en brooikie,
+
+21:19.240 --> 21:19.840
+besigheid,
+
+21:20.620 --> 21:21.020
+en,
+
+21:22.240 --> 21:23.460
+hy is spesifiek op jou,
+
+21:24.040 --> 21:24.180
+hy,
+
+21:24.360 --> 21:25.460
+alles het hierin,
+
+21:25.760 --> 21:26.380
+betaal my,
+
+21:26.480 --> 21:29.120
+10.000 rand,
+
+21:29.200 --> 21:29.760
+het het 20,
+
+21:29.860 --> 21:30.820
+30.000 rand,
+
+21:30.900 --> 21:31.560
+en hy is van jou,
+
+21:31.740 --> 21:32.960
+of betaal my elke maal,
+
+21:33.880 --> 21:34.320
+300,
+
+21:34.480 --> 21:35.280
+500 rand,
+
+21:35.400 --> 21:35.560
+en,
+
+21:35.760 --> 21:36.660
+jy kan hom gebruik,
+
+21:37.960 --> 21:38.200
+ja,
+
+21:38.440 --> 21:38.640
+ja,
+
+21:38.640 --> 21:39.840
+en hy is klaar,
+
+21:39.880 --> 21:40.520
+hy is klaar,
+
+21:40.520 --> 21:42.080
+hier staat al jou data,
+
+21:42.280 --> 21:43.680
+alles is hier al beskikbaar,
+
+21:44.060 --> 21:44.860
+jou producte,
+
+21:44.940 --> 21:45.120
+weet ek,
+
+21:45.160 --> 21:46.320
+vir jou kaas brooikie,
+
+21:46.380 --> 21:46.680
+X,
+
+21:47.280 --> 21:48.780
+en jou kaas in,
+
+21:48.860 --> 21:49.380
+in ou,
+
+21:49.600 --> 21:50.100
+met wat,
+
+21:50.460 --> 21:51.100
+20 rand,
+
+21:51.160 --> 21:51.860
+of 30 rand,
+
+21:51.940 --> 21:52.640
+so weet nie hoeveel het,
+
+21:52.680 --> 21:52.860
+met,
+
+21:53.020 --> 21:53.740
+te hoerig kost,
+
+21:53.860 --> 21:54.040
+maar,
+
+21:54.580 --> 21:55.580
+dit staat alles al,
+
+21:55.660 --> 21:56.600
+hier is jou menu,
+
+21:56.760 --> 21:56.960
+kijk,
+
+21:57.040 --> 21:57.900
+hier is jou betaal,
+
+21:57.960 --> 21:59.120
+na jou betaalsysteem,
+
+21:59.220 --> 21:59.720
+jy kan gewoon,
+
+21:59.800 --> 22:00.380
+alles klaar,
+
+22:00.440 --> 22:00.740
+jy moet,
+
+22:03.180 --> 22:03.600
+wil jou,
+
+22:03.840 --> 22:04.400
+ja of nie,
+
+22:05.180 --> 22:06.040
+en wat wil jou anders?
+
+22:06.140 --> 22:06.280
+Ja,
+
+22:07.480 --> 22:07.900
+dit is,
+
+22:07.900 --> 22:08.360
+dit is,
+
+22:08.360 --> 22:09.000
+dit is,
+
+22:09.000 --> 22:09.980
+die manier,
+
+22:09.980 --> 22:10.760
+waar ons om toe gaan,
+
+22:10.860 --> 22:11.020
+want,
+
+22:11.420 --> 22:12.240
+hierdie mense ook,
+
+22:12.340 --> 22:14.360
+hy weet toch nie wat hy nie weet nie,
+
+22:14.420 --> 22:14.680
+so hy,
+
+22:15.040 --> 22:16.760
+hy weet nie as eindig wat hy al soep nie,
+
+22:17.140 --> 22:18.060
+so as hy kom bys,
+
+22:18.500 --> 22:19.900
+wat hy nodig het dan van hy,
+
+22:20.040 --> 22:20.660
+van,
+
+22:21.220 --> 22:22.160
+wat do ek by hulle sit,
+
+22:22.220 --> 22:23.140
+jy sê vir hulle precies,
+
+22:23.220 --> 22:23.380
+ek,
+
+22:23.440 --> 22:25.600
+kom ek sê vir hulle wat hy dink jy hulle nodig het,
+
+22:25.600 --> 22:26.600
+want hulle volgens my sê nie,
+
+22:26.680 --> 22:27.380
+so ek klaar da,
+
+22:27.440 --> 22:28.300
+die sê hulle hier sê,
+
+22:28.300 --> 22:29.900
+flink of jy hier gewaard het,
+
+22:30.220 --> 22:31.780
+maar dit is,
+
+22:31.780 --> 22:32.300
+dit is om het,
+
+22:32.380 --> 22:32.860
+dit is om het,
+
+22:33.720 --> 22:33.940
+ja,
+
+22:34.660 --> 22:34.960
+jy weet,
+
+22:35.100 --> 22:36.220
+dat sê daarmee is een,
+
+22:36.220 --> 22:38.760
+is een vervaardigingsbezigheid,
+
+22:38.900 --> 22:39.740
+en hy is niks anders,
+
+22:39.860 --> 22:42.060
+dit is enige ander vervaardigingsbezigheid nie,
+
+22:42.580 --> 22:43.440
+en jy moet net,
+
+22:43.680 --> 22:44.640
+dink aan die stappen,
+
+22:45.280 --> 22:46.620
+en wat wil die kleing graf sien,
+
+22:46.800 --> 22:47.800
+wat wil die kleing graf sien,
+
+22:47.880 --> 22:49.260
+en wat wil syd nie in die graf sien,
+
+22:49.760 --> 22:50.000
+so,
+
+22:50.280 --> 22:50.840
+dus basis,
+
+22:50.980 --> 22:51.460
+jy wil net,
+
+22:51.760 --> 22:52.120
+jy wil,
+
+22:52.120 --> 22:53.940
+het die post toe kan inneem,
+
+22:54.020 --> 22:55.220
+jy wil een potatie kan geë,
+
+22:55.220 --> 22:57.160
+jy wil die oude dokumente kan oplaai,
+
+22:57.160 --> 22:59.460
+en jy wil vir hom kan praaf,
+
+22:59.500 --> 23:00.520
+wat dit die betrifie is,
+
+23:00.600 --> 23:01.540
+soek hy van die goed,
+
+23:01.940 --> 23:02.400
+al die,
+
+23:02.980 --> 23:04.580
+die bokse kop in sy velle,
+
+23:04.680 --> 23:05.260
+en alles met,
+
+23:05.580 --> 23:06.640
+spesifieke kodes kry,
+
+23:06.760 --> 23:08.140
+hulle moet aan mekaar gekoppel wees,
+
+23:08.200 --> 23:09.300
+wat hulle kan verloor nie,
+
+23:09.640 --> 23:10.720
+in die databas is,
+
+23:11.200 --> 23:11.680
+en dan,
+
+23:11.900 --> 23:13.540
+as die kleing dan nou weg gaan,
+
+23:13.700 --> 23:14.180
+oorseer,
+
+23:14.460 --> 23:16.340
+dan wil jy kom opdaterings kan geë,
+
+23:16.380 --> 23:17.820
+of hulle met enige tyd kan invang,
+
+23:17.860 --> 23:19.060
+een kleing te portaal in,
+
+23:19.420 --> 23:19.920
+om te sien,
+
+23:20.000 --> 23:21.980
+waar in die proces is sy bokkop,
+
+23:22.700 --> 23:25.200
+en dan moet hy een notifikatie kan kry,
+
+23:25.200 --> 23:26.820
+en hy gaat hier in die proces,
+
+23:26.920 --> 23:28.240
+wat hy dan iets moet goedkeer,
+
+23:28.300 --> 23:29.600
+stel nou maar die bokkyk links,
+
+23:30.080 --> 23:30.740
+en hy sê nie,
+
+23:31.100 --> 23:32.860
+hy wil eerder die bok moet recht kyk,
+
+23:33.060 --> 23:33.640
+en dan moet hy sê,
+
+23:33.700 --> 23:35.080
+soek die bok recht kyk,
+
+23:35.380 --> 23:36.920
+en dan moet hy dit so goedkeer,
+
+23:37.180 --> 23:39.460
+en dan kan die tekstie daar nie verder aangaan,
+
+23:39.860 --> 23:41.320
+en hy het een audit trail om te sien,
+
+23:41.380 --> 23:42.000
+maar jy vervee,
+
+23:42.060 --> 23:42.880
+soek jou bok so,
+
+23:42.880 --> 23:45.800
+en dan as dit nou by finale,
+
+23:46.980 --> 23:49.420
+as die trofee dan nou klaar is,
+
+23:49.920 --> 23:51.960
+dan moet die klent eerst betaal,
+
+23:52.640 --> 23:54.920
+hy kan uiteraard ook na die foto's kyk,
+
+23:55.060 --> 23:56.800
+dan moet hy die finale betaling maak,
+
+23:57.240 --> 23:59.060
+en dan word die volgende proces,
+
+23:59.140 --> 24:01.300
+is dan die versending,
+
+24:01.560 --> 24:04.040
+of shipments in Engelse terme,
+
+24:04.600 --> 24:08.480
+dan moet daar die dyns voorbereid word,
+
+24:08.540 --> 24:09.980
+om geskeept te word,
+
+24:09.980 --> 24:11.660
+en dan moet die weibel wees,
+
+24:11.780 --> 24:13.200
+en die klent aan die ander kant,
+
+24:13.280 --> 24:14.060
+hoe dan kan volge,
+
+24:14.720 --> 24:17.580
+dis net in een nete top wat dit is,
+
+24:18.360 --> 24:19.680
+en ek het dit so mooi,
+
+24:19.820 --> 24:22.560
+in my project requirement document,
+
+24:22.660 --> 24:23.900
+het dit so opgesteld,
+
+24:24.420 --> 24:26.120
+en ek kan dit via spier,
+
+24:26.540 --> 24:28.580
+ek so graag wil,
+
+24:29.020 --> 24:33.180
+ja, ek baie opgewonde oor jou agenten ding wat jy gebouw het,
+
+24:33.180 --> 24:38.620
+en die kruis verificaties en toetsen en goete,
+
+24:38.620 --> 24:41.900
+want ek het so systeem gebruik in Zuid-Afrika,
+
+24:42.020 --> 24:42.940
+die dynk ek die ene,
+
+24:43.420 --> 24:45.020
+as jy so stelsel kan bouw,
+
+24:45.200 --> 24:46.380
+en jy kan bij die klent sit,
+
+24:47.000 --> 24:47.340
+en jy,
+
+24:47.680 --> 24:48.100
+dierom,
+
+24:48.200 --> 24:49.320
+jy vraan nie vir die klent,
+
+24:49.420 --> 24:50.160
+klomp vra,
+
+24:50.840 --> 24:52.220
+en jy verstaan die business case,
+
+24:52.300 --> 24:53.840
+en jy voer dit en die ding in,
+
+24:54.300 --> 24:56.200
+kan jy binnen een week vir die klente,
+
+24:56.940 --> 24:58.060
+een prototype gee,
+
+24:58.860 --> 25:00.020
+en jy kan,
+
+25:00.580 --> 25:01.580
+jy kan binnen twee weke,
+
+25:01.680 --> 25:02.140
+kan jy,
+
+25:02.300 --> 25:02.940
+kan jy tot die,
+
+25:02.940 --> 25:04.300
+die tot productie gaan,
+
+25:04.300 --> 25:05.700
+nou jy denk jy kan het,
+
+25:05.820 --> 25:06.380
+as jy,
+
+25:06.380 --> 25:07.900
+as jy al jou,
+
+25:08.000 --> 25:08.380
+jou,
+
+25:09.180 --> 25:09.580
+eh,
+
+25:10.720 --> 25:12.080
+as jy al die informatie had,
+
+25:12.160 --> 25:13.580
+jou funsionalist specificaties,
+
+25:13.660 --> 25:14.500
+jy weet al wat het,
+
+25:14.680 --> 25:16.100
+plus jy eie ervaring,
+
+25:16.960 --> 25:18.060
+en jy het die,
+
+25:18.280 --> 25:20.120
+jy het een agent ingesteld met,
+
+25:20.200 --> 25:21.980
+met governance beheer,
+
+25:22.160 --> 25:22.400
+wat,
+
+25:22.580 --> 25:22.980
+eh,
+
+25:23.580 --> 25:25.480
+inventarisaties op vraag gestel,
+
+25:25.620 --> 25:27.480
+en die devil's advocate speelt,
+
+25:27.480 --> 25:29.340
+dat jy,
+
+25:30.560 --> 25:32.200
+misschien al binnen een dag,
+
+25:33.780 --> 25:33.980
+ja,
+
+25:34.120 --> 25:34.480
+binnen,
+
+25:34.680 --> 25:36.020
+binnen een paar uur,
+
+25:36.180 --> 25:36.840
+al zelfs,
+
+25:36.900 --> 25:37.180
+in,
+
+25:37.180 --> 25:37.300
+in,
+
+25:37.300 --> 25:37.680
+in,
+
+25:37.680 --> 25:38.920
+eh,
+
+25:38.920 --> 25:41.100
+een demo website kan bouw,
+
+25:41.220 --> 25:42.860
+wat misschien nog nie geïntegreerd is,
+
+25:42.940 --> 25:44.940
+wat nog nie weibels kan verwerk,
+
+25:45.040 --> 25:45.280
+of,
+
+25:46.000 --> 25:46.300
+eh,
+
+25:46.760 --> 25:47.040
+en,
+
+25:47.300 --> 25:47.600
+maar,
+
+25:48.020 --> 25:48.280
+wat,
+
+25:48.340 --> 25:48.820
+maar,
+
+25:48.820 --> 25:49.160
+maar,
+
+25:49.160 --> 25:49.340
+maar,
+
+25:49.340 --> 25:49.460
+maar,
+
+25:49.460 --> 25:49.960
+met wel,
+
+25:50.200 --> 25:52.100
+en nog niet in integratie,
+
+25:52.120 --> 25:53.020
+sekere manual stappen het,
+
+25:53.120 --> 25:53.640
+maar nog steeds,
+
+25:53.820 --> 25:54.040
+ja,
+
+25:54.320 --> 25:54.480
+ja,
+
+25:54.580 --> 25:55.000
+maar dat jy,
+
+25:55.020 --> 25:56.120
+hy kan het simuleer,
+
+25:56.120 --> 26:01.240
+dat jy die simulaties inbouw,
+
+26:01.300 --> 26:02.420
+asof jy een way wil stuur,
+
+26:02.520 --> 26:02.620
+met,
+
+26:02.620 --> 26:03.860
+met DHL,
+
+26:03.980 --> 26:04.580
+of weetveel,
+
+26:04.700 --> 26:04.900
+en,
+
+26:04.900 --> 26:05.080
+en,
+
+26:05.080 --> 26:07.860
+dat jy daar in is,
+
+26:07.940 --> 26:08.380
+dat jy sien,
+
+26:08.440 --> 26:08.600
+ok,
+
+26:08.780 --> 26:09.840
+dit is moeilijk,
+
+26:09.980 --> 26:10.220
+alleen,
+
+26:11.040 --> 26:13.140
+die integraties moet jy dan onderzoek,
+
+26:13.520 --> 26:15.540
+dit gaan misschien extra kosting kies,
+
+26:15.680 --> 26:16.500
+en dan koste bedoel,
+
+26:16.600 --> 26:18.280
+en jy moet maandeliks betaal aan,
+
+26:18.740 --> 26:19.340
+DHL,
+
+26:19.500 --> 26:19.680
+of,
+
+26:20.460 --> 26:20.680
+ja,
+
+26:20.900 --> 26:21.280
+koor ja,
+
+26:22.060 --> 26:22.540
+maar dit is,
+
+26:22.620 --> 26:24.860
+dit is die minder belangrijkste gedeelte nou,
+
+26:24.860 --> 26:26.240
+genauwe van die klenten sê,
+
+26:26.760 --> 26:27.160
+eh,
+
+26:27.160 --> 26:28.220
+MVP is,
+
+26:28.620 --> 26:30.080
+hy wil die klenten kan inneem,
+
+26:30.200 --> 26:31.420
+hy wil foto's kan inneem,
+
+26:31.800 --> 26:34.060
+en hy wil heer die klenten moet kan kyk en kan goedkeer,
+
+26:34.560 --> 26:35.140
+en hy moet,
+
+26:35.220 --> 26:35.560
+as hy,
+
+26:35.600 --> 26:37.060
+as hy moet die betaling neen kan kry,
+
+26:37.140 --> 26:38.720
+van Stripe of PayPal of so,
+
+26:39.140 --> 26:39.400
+en,
+
+26:39.400 --> 26:40.460
+en daalig so betaal,
+
+26:40.540 --> 26:41.060
+so wie die goed,
+
+26:41.140 --> 26:42.800
+waar hy makkelijk gereconcileer kan hoort,
+
+26:43.200 --> 26:44.700
+dit is sy hoofdhoefte,
+
+26:44.920 --> 26:46.080
+daarin het goed kan vaten,
+
+26:46.160 --> 26:47.060
+twee en drie wees,
+
+26:47.640 --> 26:48.120
+maar ja,
+
+26:48.340 --> 26:48.520
+eh,
+
+26:48.520 --> 26:49.380
+ja,
+
+26:49.380 --> 26:49.920
+nee, ek,
+
+26:50.220 --> 26:51.420
+dit vindt my goed,
+
+26:51.420 --> 26:52.720
+maar het jy dit al,
+
+26:52.840 --> 26:53.860
+het jy dit al,
+
+26:53.940 --> 26:54.320
+eh,
+
+26:54.320 --> 26:54.900
+in jou,
+
+26:54.960 --> 26:55.320
+eh,
+
+26:55.840 --> 26:56.620
+doks geschreven,
+
+26:56.760 --> 26:56.900
+die,
+
+26:56.900 --> 26:57.700
+die proces,
+
+26:57.960 --> 26:58.580
+in die video,
+
+26:58.880 --> 26:59.140
+alles,
+
+26:59.280 --> 26:59.700
+oké,
+
+27:00.040 --> 27:00.360
+alles,
+
+27:00.360 --> 27:00.700
+alles,
+
+27:00.780 --> 27:01.320
+alles geschreven,
+
+27:01.420 --> 27:01.800
+ek kan,
+
+27:02.540 --> 27:04.320
+en is in Afrikaans ook reed,
+
+27:05.060 --> 27:05.360
+mooi,
+
+27:05.360 --> 27:06.100
+as hy,
+
+27:06.180 --> 27:06.960
+as hy wil,
+
+27:07.160 --> 27:09.240
+en jy wil daar indruk in jouw systeem,
+
+27:09.300 --> 27:09.780
+en met die,
+
+27:10.240 --> 27:11.620
+kan ek het nou vir jou stuur,
+
+27:11.980 --> 27:12.420
+ja,
+
+27:12.560 --> 27:13.700
+as hy dit na my te stuur,
+
+27:13.820 --> 27:14.600
+dan gaan ek het,
+
+27:14.960 --> 27:17.760
+eindelijk is dit een soort van officieel my werktijd nog,
+
+27:18.500 --> 27:19.440
+maar ek is moe baas,
+
+27:19.440 --> 27:20.760
+nee, nee, maar maak niet uit,
+
+27:20.840 --> 27:22.280
+dit als stuur het maak,
+
+27:22.680 --> 27:23.080
+maar wat ek,
+
+27:23.400 --> 27:23.680
+net,
+
+27:23.680 --> 27:24.460
+net informatie,
+
+27:24.540 --> 27:24.900
+wat my,
+
+27:25.480 --> 27:25.780
+eh,
+
+27:26.160 --> 27:27.360
+wat my proces doen is,
+
+27:27.420 --> 27:27.560
+hy,
+
+27:27.900 --> 27:29.340
+hy maak dokumentatie,
+
+27:29.440 --> 27:30.760
+dus alles wat jy gaan stuur,
+
+27:31.380 --> 27:31.720
+gaan ek,
+
+27:31.720 --> 27:32.620
+gaan ek nie neem,
+
+27:33.120 --> 27:33.460
+en dan,
+
+27:33.540 --> 27:33.960
+gaan ek,
+
+27:34.040 --> 27:34.060
+dan gaan ek,
+
+27:34.300 --> 27:34.940
+dan gaan ek,
+
+27:35.040 --> 27:35.880
+dan sal hy daar,
+
+27:35.960 --> 27:36.900
+op basis daarvan,
+
+27:37.380 --> 27:37.940
+functionele,
+
+27:38.080 --> 27:39.420
+hy sal een businesskeis schrijf,
+
+27:39.500 --> 27:39.640
+hy,
+
+27:39.720 --> 27:40.340
+hy maak een,
+
+27:40.520 --> 27:40.880
+technisch,
+
+27:40.960 --> 27:41.860
+functionele ontwerp,
+
+27:41.920 --> 27:43.400
+hy gaan user stories schrijf,
+
+27:43.800 --> 27:45.460
+alles wat jy my nie had verteld,
+
+27:46.200 --> 27:47.380
+van die taxidermie,
+
+27:47.480 --> 27:48.040
+dit sal hy,
+
+27:48.140 --> 27:49.020
+dit gaan hy alvast,
+
+27:49.020 --> 27:50.840
+in die user stories beskryf,
+
+27:50.900 --> 27:51.800
+van die user story,
+
+27:52.220 --> 27:52.700
+en hy sal,
+
+27:52.800 --> 27:54.180
+en hy gaat die,
+
+27:54.780 --> 27:56.920
+hy sal skrim kanban backlog maak,
+
+27:58.120 --> 27:58.560
+en,
+
+28:00.480 --> 28:01.960
+die let gesproken ook nog,
+
+28:02.220 --> 28:02.880
+alvast in,
+
+28:03.000 --> 28:05.940
+mdp 0.0.1,
+
+28:07.940 --> 28:08.140
+ja,
+
+28:08.700 --> 28:08.860
+ja,
+
+28:08.860 --> 28:09.220
+en,
+
+28:09.220 --> 28:10.140
+fantastisch,
+
+28:11.140 --> 28:11.700
+web-based,
+
+28:11.700 --> 28:12.140
+het was een,
+
+28:12.140 --> 28:12.320
+like,
+
+28:12.560 --> 28:13.100
+web-based,
+
+28:13.100 --> 28:13.960
+web-based code,
+
+28:14.920 --> 28:15.200
+so,
+
+28:15.280 --> 28:15.420
+met,
+
+28:15.420 --> 28:15.480
+ja,
+
+28:15.480 --> 28:16.160
+hier gaan,
+
+28:16.260 --> 28:17.080
+is een web-app,
+
+28:17.160 --> 28:17.800
+beest teker,
+
+28:17.800 --> 28:18.480
+en ek weet nie,
+
+28:18.480 --> 28:19.740
+wat die proces om,
+
+28:19.740 --> 28:20.820
+dit van daaraf later,
+
+28:20.920 --> 28:21.080
+na,
+
+28:21.420 --> 28:22.220
+een native app,
+
+28:22.280 --> 28:22.860
+zoals een Android,
+
+28:22.980 --> 28:23.120
+of,
+
+28:23.120 --> 28:23.480
+of,
+
+28:23.480 --> 28:24.000
+Iphone,
+
+28:24.100 --> 28:24.580
+zoals een Spotify,
+
+28:24.580 --> 28:25.580
+maar,
+
+28:25.580 --> 28:26.120
+web-app,
+
+28:26.180 --> 28:27.440
+het waars voordeel,
+
+28:27.560 --> 28:28.640
+dit kan op enige plek,
+
+28:29.180 --> 28:29.280
+en,
+
+28:29.340 --> 28:29.920
+maar makkelijk,
+
+28:30.000 --> 28:30.720
+kan je inlok,
+
+28:30.900 --> 28:31.060
+maar,
+
+28:31.120 --> 28:31.840
+die punt is net,
+
+28:32.260 --> 28:32.840
+je gaan sikkel,
+
+28:32.920 --> 28:33.380
+met sekere,
+
+28:33.380 --> 28:34.200
+funktionaliteiten,
+
+28:34.200 --> 28:34.720
+soos,
+
+28:34.720 --> 28:34.740
+soos,
+
+28:34.740 --> 28:36.740
+instant messaging,
+
+28:37.000 --> 28:38.060
+en sekere typen van goeders,
+
+28:38.260 --> 28:38.360
+en,
+
+28:38.360 --> 28:38.560
+en,
+
+28:38.560 --> 28:39.420
+dalkiel camera,
+
+28:39.620 --> 28:40.060
+zoog,
+
+28:40.060 --> 28:40.800
+ja,
+
+28:40.800 --> 28:40.860
+ja,
+
+28:42.120 --> 28:42.320
+ja,
+
+28:42.400 --> 28:44.300
+dit kan nog later uitsorteer,
+
+28:44.400 --> 28:44.740
+met,
+
+28:44.800 --> 28:45.760
+messaging,
+
+28:46.020 --> 28:46.180
+met,
+
+28:46.240 --> 28:46.340
+met,
+
+28:46.340 --> 28:46.380
+met,
+
+28:46.380 --> 28:46.520
+met,
+
+28:46.520 --> 28:47.200
+met,
+
+28:47.200 --> 28:47.240
+met,
+
+28:47.240 --> 28:47.260
+met,
+
+28:47.260 --> 28:47.280
+met,
+
+28:47.280 --> 28:47.340
+met,
+
+28:47.340 --> 28:47.840
+met,
+
+28:47.840 --> 28:48.200
+met,
+
+28:48.200 --> 28:48.340
+met,
+
+28:48.340 --> 28:48.440
+met,
+
+28:48.440 --> 28:48.460
+met,
+
+28:48.460 --> 28:48.480
+met,
+
+28:48.480 --> 28:49.220
+openplol,
+
+28:49.720 --> 28:51.240
+whatsapp berichte verstuur,
+
+28:51.660 --> 28:52.380
+en ontvang,
+
+28:52.620 --> 28:52.800
+dus,
+
+28:52.880 --> 28:53.680
+je kan een volledige,
+
+28:53.680 --> 28:54.860
+je kan geautomatiseer,
+
+28:54.860 --> 28:56.720
+geautomatiseer,
+
+28:56.960 --> 28:57.340
+eh,
+
+28:57.340 --> 28:58.440
+a chatbot,
+
+28:58.860 --> 28:59.120
+via,
+
+28:59.120 --> 28:59.400
+via,
+
+28:59.400 --> 29:00.120
+via whatsapp,
+
+29:03.380 --> 29:03.800
+georbeeld,
+
+29:03.800 --> 29:04.140
+ek,
+
+29:04.140 --> 29:04.520
+ek kan,
+
+29:04.520 --> 29:05.200
+opgeven moment,
+
+29:05.260 --> 29:05.940
+kan ek eindelijk,
+
+29:06.220 --> 29:06.520
+chat,
+
+29:06.680 --> 29:07.340
+ehm,
+
+29:08.600 --> 29:09.240
+chat CPT,
+
+29:09.360 --> 29:09.820
+of tenminste,
+
+29:09.900 --> 29:10.500
+openplol,
+
+29:10.580 --> 29:11.400
+en miswashinglik,
+
+29:11.540 --> 29:12.700
+en anti-gravity ook,
+
+29:13.500 --> 29:14.220
+opdracht gee,
+
+29:14.460 --> 29:14.720
+om,
+
+29:15.000 --> 29:15.660
+as ek een bericht,
+
+29:15.740 --> 29:16.660
+as jy met my gaan,
+
+29:16.760 --> 29:17.640
+gaan whatsapp,
+
+29:18.080 --> 29:19.720
+dat hy my gaan impersoneer,
+
+29:19.860 --> 29:20.340
+en reeg,
+
+29:20.460 --> 29:20.940
+en doen,
+
+29:21.080 --> 29:21.600
+alsof,
+
+29:21.680 --> 29:21.900
+jy,
+
+29:21.940 --> 29:22.560
+jy denk,
+
+29:22.620 --> 29:23.580
+jy praat met my,
+
+29:24.040 --> 29:25.140
+maar jy praat nie met my,
+
+29:25.200 --> 29:25.400
+joh.
+
+29:27.180 --> 29:27.700
+Wonderlijk,
+
+29:27.820 --> 29:28.360
+wonderlijk,
+
+29:28.920 --> 29:29.340
+dit is,
+
+29:29.480 --> 29:30.040
+en alles,
+
+29:30.120 --> 29:30.820
+alles gebeur,
+
+29:30.880 --> 29:31.820
+die is daar op whatsapp,
+
+29:31.900 --> 29:32.060
+so,
+
+29:32.180 --> 29:33.320
+hoe meer jy kan integreer,
+
+29:33.380 --> 29:33.780
+betekent,
+
+29:33.780 --> 29:34.260
+hoe beter,
+
+29:34.820 --> 29:35.360
+hoe beter,
+
+29:36.480 --> 29:36.840
+so ja,
+
+29:37.240 --> 29:37.420
+ja,
+
+29:37.580 --> 29:38.720
+neem maar pas,
+
+29:39.340 --> 29:39.500
+ek,
+
+29:39.560 --> 29:39.580
+ek,
+
+29:39.580 --> 29:40.020
+stuur my,
+
+29:40.080 --> 29:40.620
+stuur my die,
+
+29:40.700 --> 29:40.960
+die,
+
+29:41.060 --> 29:41.100
+die,
+
+29:41.100 --> 29:41.240
+die,
+
+29:41.240 --> 29:41.360
+ek,
+
+29:41.360 --> 29:43.600
+wat ek,
+
+29:43.600 --> 29:44.340
+wat ek gaan doen is,
+
+29:44.400 --> 29:44.780
+al gaan ek,
+
+29:44.900 --> 29:46.020
+gaan die gesprek,
+
+29:46.120 --> 29:46.280
+wat ek,
+
+29:46.340 --> 29:46.920
+wat ek nou het,
+
+29:47.260 --> 29:48.200
+dit gaan ek ontzet,
+
+29:48.280 --> 29:48.420
+in,
+
+29:48.480 --> 29:49.040
+in tekst,
+
+29:49.100 --> 29:49.640
+dit gebruik,
+
+29:49.680 --> 29:50.560
+dit is die databron,
+
+29:51.020 --> 29:51.360
+plus,
+
+29:51.880 --> 29:52.140
+alles,
+
+29:52.340 --> 29:52.520
+ding,
+
+29:52.660 --> 29:53.080
+info,
+
+29:53.160 --> 29:53.940
+wat jy net gestuur,
+
+29:54.060 --> 29:54.680
+en dit gaan ek,
+
+29:54.740 --> 29:55.040
+sal ek,
+
+29:55.120 --> 29:55.680
+sal ek,
+
+29:55.680 --> 29:55.940
+sêg,
+
+29:56.020 --> 29:56.120
+ok,
+
+29:56.180 --> 29:57.380
+dit is al die databronen,
+
+29:57.440 --> 29:58.100
+kan,
+
+29:58.100 --> 29:58.520
+kan ek,
+
+29:58.600 --> 29:59.000
+kan ek,
+
+29:59.000 --> 29:59.600
+vir jou,
+
+29:59.720 --> 30:00.000
+eh,
+
+30:01.000 --> 30:02.060
+net ter,
+
+30:02.140 --> 30:03.040
+terwille van,
+
+30:03.220 --> 30:04.400
+die omskakeling na tekst,
+
+30:04.460 --> 30:04.940
+jy kan ek sê,
+
+30:04.940 --> 30:05.440
+precies,
+
+30:05.820 --> 30:06.640
+van die begin,
+
+30:06.720 --> 30:07.420
+tot die einde toe,
+
+30:07.500 --> 30:08.000
+hoe dit werk,
+
+30:08.060 --> 30:08.840
+vir die tekst daarmee,
+
+30:08.920 --> 30:09.720
+dit kan ook dalk help,
+
+30:09.800 --> 30:10.060
+ok,
+
+30:10.140 --> 30:10.360
+wacht jy,
+
+30:10.360 --> 30:10.540
+nie,
+
+30:10.540 --> 30:11.260
+user story,
+
+30:12.120 --> 30:12.620
+moet effe,
+
+30:13.220 --> 30:13.480
+kiks,
+
+30:13.560 --> 30:13.860
+moet doen ek,
+
+30:13.860 --> 30:13.960
+ek,
+
+30:13.960 --> 30:14.060
+ek,
+
+30:14.060 --> 30:14.560
+ek,
+
+30:14.560 --> 30:14.620
+ek,
+
+30:14.620 --> 30:15.120
+ek,
+
+30:15.120 --> 30:15.560
+ek,
+
+30:15.560 --> 30:15.620
+ek,
+
+30:15.620 --> 30:15.680
+ek,
+
+30:15.680 --> 30:16.120
+ek,
+
+30:16.120 --> 30:16.620
+ek,
+
+30:16.620 --> 30:17.120
+ek,
+
+30:17.120 --> 30:17.620
+ek,
+
+30:17.620 --> 30:17.680
+ek,
+
+30:17.680 --> 30:18.120
+ek,
+
+30:18.120 --> 30:18.320
+ek,
+
+30:18.320 --> 30:18.460
+ek,
+
+30:18.460 --> 30:18.560
+ek,
+
+30:18.560 --> 30:18.620
+ek,
+
+30:18.620 --> 30:19.620
+ek,
+
+30:19.620 --> 30:20.120
+ek,
+
+30:20.120 --> 30:20.620
+ek,
+
+30:20.620 --> 30:20.680
+ek,
+
+30:20.680 --> 30:21.620
+ek,
+
+30:21.620 --> 30:22.620
+ek,
+
+30:22.620 --> 30:23.620
+ek,
+
+30:29.000 --> 30:29.720
+ek,
+
+30:29.800 --> 30:33.220
+ek,
+
+30:33.220 --> 30:35.620
+ek,
+
+30:35.680 --> 30:35.740
+den,
+
+30:35.980 --> 30:37.080
+ek,
+
+30:37.080 --> 30:37.800
+ek,
+
+30:38.040 --> 30:38.900
+ek,
+
+30:39.080 --> 30:39.260
+ek,
+
+30:39.440 --> 30:39.800
+ek,
+
+30:39.800 --> 30:40.540
+ek,
+
+30:40.960 --> 30:41.940
+ek,
+
+30:42.020 --> 30:42.340
+ek,
+
+30:42.420 --> 30:46.360
+ek,
+
+30:46.620 --> 30:46.960
+ek,
+
+30:49.120 --> 30:49.220
+ek,
+
+30:49.220 --> 30:49.340
+ek,
+
+30:51.440 --> 30:51.960
+�,
+
+30:51.960 --> 30:52.460
+ek,
+
+30:52.460 --> 30:52.700
+ek,
+
+30:53.280 --> 30:53.800
+ek,
+
+30:53.800 --> 30:53.900
+ek,
+
+30:53.900 --> 30:54.800
+ek,
+
+30:54.800 --> 30:54.900
+ek,
+
+30:55.020 --> 30:55.080
+ek,
+
+30:55.080 --> 30:55.800
+ek,
+
+30:55.860 --> 30:56.940
+ek,
+
+30:57.300 --> 30:58.340
+ek,
+
+30:58.480 --> 30:58.960
+ek,
+
+30:58.960 --> 31:03.540
+Moet mooi afgeslag word en sy fel moet gepresipteer word en en en.
+
+31:04.100 --> 31:11.660
+En ja, so met ander woorde, dan vat die professionele jachter nou die klient saam na taxidermie toe.
+
+31:12.160 --> 31:16.740
+Hy vat dan nou die bok en die kop en die tanden en wat ook al saam.
+
+31:17.260 --> 31:18.700
+Hulle gaan na die taxidermie toe.
+
+31:19.320 --> 31:25.780
+Hy kom in die taxidermie en hy kies dan wat sy type trofee soekrys
+
+31:25.780 --> 31:30.020
+vir Sennema sy kudo wat hy geskiet het of sy leidberg of wat ook al.
+
+31:30.540 --> 31:37.080
+En hy kies die trofee Sennema en dan word daarom dier die taxidermie gesêkel.
+
+31:37.180 --> 31:39.700
+Ruit meneer, dit gaan vir jou soveel kost.
+
+31:39.940 --> 31:43.360
+Dan stier hulle kom Sennema op die oomlijke kwotatie.
+
+31:43.800 --> 31:48.060
+Somming na die boon toe, argument onthalwe met a payment guideway Sennema.
+
+31:48.060 --> 31:52.560
+En dan kan hy dit aanswaar en hy kan dan betaling maak.
+
+31:52.560 --> 31:56.260
+Het gewone kvat hulle ontrent so 50% de positief.
+
+31:56.860 --> 32:00.960
+Nou Sennema het bringe a bok in.
+
+32:01.120 --> 32:05.220
+Nou a bok het woerend, hy het a fel, Sennema het tanden.
+
+32:05.780 --> 32:10.960
+So daar word basis dieke maar a jobkaart gecreëid, vertrefeeerd.
+
+32:11.220 --> 32:13.560
+En binnen na die jobkaart het jy een verskillende items.
+
+32:13.900 --> 32:17.340
+Al hierdie items moet aan mekaar gekoppel word met die code.
+
+32:17.700 --> 32:19.100
+So dat dit nie kan verloor nie.
+
+32:19.100 --> 32:23.820
+Sennema gesêkel kan dink dat sy daarmee duisende kliënte wat in kom met, kom met sy ouwe keer.
+
+32:24.920 --> 32:26.620
+En kom met, doof, spees.
+
+32:26.620 --> 32:29.540
+Tam je uit te jen ohen.
+
+32:30.440 --> 32:32.260
+Kom met, doof, spees.
+
+32:32.440 --> 32:55.400
+Weet te jenen om te jak Emmy
+
+32:55.400 --> 33:25.380
+O, O, O, O, O, O, O.
+
+33:25.400 --> 33:55.380
+O, O, O, O, O.
+
+33:55.400 --> 33:57.400
+O.
+
+34:25.400 --> 34:27.400
+O.
+
+34:55.400 --> 34:57.400
+O.
+
+35:25.400 --> 35:27.400
+O.
+
+35:27.400 --> 35:29.400
+O.
+
+35:49.400 --> 35:51.400
+O.
+
+35:51.400 --> 35:53.400
+O.
+
+35:53.400 --> 35:55.400
+O.
+
+35:55.400 --> 35:57.400
+O.
+
+35:57.400 --> 35:59.400
+O.
+
+35:59.400 --> 36:01.400
+O.
+
+36:01.400 --> 36:03.400
+O.
+
+36:03.400 --> 36:05.400
+O.
+
+36:05.400 --> 36:07.400
+O.
+
+36:07.400 --> 36:09.400
+O.
+
+36:09.400 --> 36:11.400
+O.
+
+36:11.400 --> 36:13.400
+O.
+
+36:13.400 --> 36:15.400
+O.
+
+36:15.400 --> 36:17.400
+O.
+
+36:17.400 --> 36:19.400
+O.
+
+36:19.400 --> 36:21.400
+O.
+
+36:21.400 --> 36:22.900
+O.
+
+36:22.900 --> 36:37.480
+Jy hoef niks te doen, dit word een test, want theorieet gesproken, jy spreek een spraakbericht in, hy vertaal die spraakbericht bij my naar tekst en hy stuur dit naar my en ook naar jou.
+
+36:39.040 --> 36:43.280
+Oh ok, dit is interessant, maar ek gaan gaf jy een voice now dan spier.
+
+36:43.400 --> 36:44.600
+Ok, goed zo, ok, oei.
+
+36:44.900 --> 36:46.680
+Ok, en dan die PhD, dankie.
+
+36:52.900 --> 37:22.880
+O, O, O.
+
+37:22.900 --> 37:31.900
+Oep.
+
+37:52.900 --> 37:54.900
+O.
+
+38:22.900 --> 38:24.900
+O.
+
+38:52.900 --> 38:54.900
+O.
+
+39:22.900 --> 39:24.900
+O.
+
+39:52.900 --> 39:54.900
+O.
+
+39:54.900 --> 39:56.900
+O.
+
+39:56.900 --> 39:58.900
+O.
+
+39:58.900 --> 40:00.900
+O.
+
+40:00.900 --> 40:02.900
+O.
+
+40:02.900 --> 40:04.900
+O.
+
+40:04.900 --> 40:06.900
+O.
+
+40:18.900 --> 40:20.900
+O.
+
+40:21.740 --> 40:23.880
+die nous geleues, die weithelige
+
+40:30.800 --> 40:35.020
+van die weithelige
+
+40:50.900 --> 41:20.880
+Terima kasih.
+
+41:20.900 --> 41:50.880
+O, O, O.
+
+41:50.900 --> 42:20.880
+O, O, O.
+
+42:20.900 --> 42:50.880
+O, O, O, O.
+
+42:50.880 --> 43:20.860
+O, O, O, O, O, O.
+
+43:20.860 --> 43:22.860
+Ja, kom ons volgend na door, wat is dit nou?
+
+43:22.860 --> 43:24.860
+Wat is dit nou?
+
+43:24.860 --> 43:26.860
+Ehm...
+
+43:26.860 --> 43:28.860
+Maar, nou ja, weet je wel.
+
+43:28.860 --> 43:30.860
+Het gaat wel.
+
+43:30.860 --> 43:32.860
+Het gaat wel.
+
+43:32.860 --> 43:34.860
+Het gaat wel.
+
+43:34.860 --> 43:36.860
+Ja, jy had ook die heterolatie.
+
+43:36.860 --> 43:38.860
+Jy had ook een...
+
+43:38.860 --> 43:40.860
+Jy had daar ook nog een uitreik.
+
+43:40.860 --> 43:42.860
+Maar jou is echt...
+
+43:42.860 --> 43:44.860
+Hater.
+
+43:44.860 --> 43:46.860
+En jij wil nie echt wat eigen ding
+
+43:46.860 --> 43:48.860
+en je eigen eigen ding, dat jij niet voor zover...
+
+43:48.860 --> 43:50.860
+Maar heeft hij mij ge...
+
+43:50.860 --> 43:52.860
+Daar...
+
+43:52.860 --> 43:54.860
+Nee, waar is de mens?
+
+43:54.860 --> 43:56.860
+Heeft hij mij gevraagd...
+
+43:56.860 --> 43:58.860
+Heeft hij...
+
+43:58.860 --> 44:00.860
+Heeft hij mij gevraagd of ik het wil, of ik je daar niet kan helpen?
+
+44:00.860 --> 44:02.860
+Nee.
+
+44:02.860 --> 44:04.860
+Oké.
+
+44:04.860 --> 44:06.860
+Maar...
+
+44:06.860 --> 44:08.860
+Dus ik heb ook niet de optie om...
+
+44:08.860 --> 44:10.860
+om nee te zeggen.
+
+44:10.860 --> 44:12.860
+Want jij zegt al...
+
+44:12.860 --> 44:14.860
+Ik heb zo ervaard...
+
+44:14.860 --> 44:16.860
+Er wordt al namens mij nee gezegd.
+
+44:16.860 --> 44:18.860
+Nou, het is meer aan je aardigheid.
+
+44:18.860 --> 44:20.860
+Want dan denk jij...
+
+44:20.860 --> 44:22.860
+Je hebt zelf nogal veel dingen aan je eigen huis te doen.
+
+44:22.860 --> 44:24.860
+Dat doe je ook al niet.
+
+44:24.860 --> 44:26.860
+Dat snap ik, maar...
+
+44:26.860 --> 44:28.860
+Dat gaat ook niet uit.
+
+44:28.860 --> 44:30.860
+Ja.
+
+44:30.860 --> 44:32.860
+Maar zo...
+
+44:32.860 --> 44:34.860
+Ik hoef je niet te vragen.
+
+44:34.860 --> 44:36.860
+Ik vind het ook...
+
+44:36.860 --> 44:38.860
+Ik vind het ook zelf wel...
+
+44:38.860 --> 44:40.860
+Eh...
+
+44:40.860 --> 44:42.860
+Kijk...
+
+44:42.860 --> 44:44.860
+Ik werk op dit moment niet zelf.
+
+44:44.860 --> 44:46.860
+Nee.
+
+44:46.860 --> 44:48.860
+Dus...
+
+44:48.860 --> 44:50.860
+Ik heb ook wel gewoon...
+
+44:50.860 --> 44:52.860
+Ik heb ook wel...
+
+44:52.860 --> 44:54.860
+Ik heb ook wel gewoon...
+
+44:54.860 --> 44:56.860
+Dat is wat meer...
+
+44:56.860 --> 44:58.860
+vrij...
+
+44:58.860 --> 45:00.860
+Ik vind het ook wel...
+
+45:00.860 --> 45:02.860
+Eh...
+
+45:02.860 --> 45:03.860
+Kijk...
+
+45:03.860 --> 45:04.860
+Ik werk op dit moment niet zelf.
+
+45:04.860 --> 45:06.860
+Nee.
+
+45:06.860 --> 45:07.860
+Dus...
+
+45:07.860 --> 45:08.860
+Ik heb ook wel gewoon...
+
+45:08.860 --> 45:09.860
+Ik heb ook wel gewoon...
+
+45:09.860 --> 45:10.860
+Dat is wat meer...
+
+45:10.860 --> 45:11.860
+Vrij...
+
+45:11.860 --> 45:12.860
+Vrij...
+
+45:12.860 --> 45:13.860
+Vind ik veel...
+
+45:13.860 --> 45:14.860
+Van andere mensen...
+
+45:14.860 --> 45:16.860
+In dit soort dingen als te doen.
+
+45:16.860 --> 45:17.860
+Dus ik vind het ook...
+
+45:17.860 --> 45:18.860
+Best wel...
+
+45:18.860 --> 45:19.860
+Kijk...
+
+45:19.860 --> 45:20.860
+Is iemand...
+
+45:20.860 --> 45:21.860
+Dit laatste baan...
+
+45:21.860 --> 45:22.860
+Van hem te doen ofzo...
+
+45:22.860 --> 45:24.860
+Vind ik het ook wel wel anders.
+
+45:24.860 --> 45:25.860
+Maar ik denk...
+
+45:25.860 --> 45:26.860
+Ja...
+
+45:26.860 --> 45:27.860
+Ik werk nu...
+
+45:27.860 --> 45:28.860
+Andere mensen wel...
+
+45:28.860 --> 45:29.860
+En dan is het best wel...
+
+45:29.860 --> 45:30.860
+Ook een belasting.
+
+45:30.860 --> 45:32.860
+Het is ook niet...
+
+45:32.860 --> 45:33.860
+Zeg maar...
+
+45:33.860 --> 45:34.860
+Soms kan je zeggen...
+
+45:34.860 --> 45:35.860
+Dan denk je...
+
+45:35.860 --> 45:36.860
+Oké...
+
+45:36.860 --> 45:37.860
+Het is niet zo...
+
+45:37.860 --> 45:38.860
+Zeg maar...
+
+45:38.860 --> 45:39.860
+Eet...
+
+45:39.860 --> 45:40.860
+Ja...
+
+45:40.860 --> 45:41.860
+Iets verplaatsen...
+
+45:41.860 --> 45:42.860
+Ofzooiets...
+
+45:42.860 --> 45:43.860
+Maar dit is echt wel...
+
+45:43.860 --> 45:44.860
+Gewoon...
+
+45:44.860 --> 45:45.860
+Ja...
+
+45:45.860 --> 45:46.860
+Het klang...
+
+45:46.860 --> 45:47.860
+Eén van de stondste...
+
+45:47.860 --> 45:48.860
+Zinnigste klop...
+
+45:48.860 --> 45:51.860
+In te doen...
+
+45:51.860 --> 45:54.860
+En het is echt...
+
+45:54.860 --> 45:55.860
+Zeven meter...
+
+45:55.860 --> 45:56.860
+Voor zeven meter...
+
+45:56.860 --> 45:58.860
+Dan moet dat behangen af...
+
+45:58.860 --> 45:59.860
+En eigenlijk heb je dan...
+
+45:59.860 --> 46:00.860
+Ja...
+
+46:00.860 --> 46:01.860
+Ik bedoel...
+
+46:01.860 --> 46:02.860
+Ik bedoel...
+
+46:02.860 --> 46:03.860
+Als je een lege basis...
+
+46:03.860 --> 46:05.860
+Er niks moet hebben...
+
+46:05.860 --> 46:08.860
+Om een pak te voren van me aan...
+
+46:08.860 --> 46:10.860
+En...
+
+46:10.860 --> 46:11.860
+En...
+
+46:11.860 --> 46:12.860
+Dat maakt het ook niet heel...
+
+46:12.860 --> 46:13.860
+Weet je wel...
+
+46:13.860 --> 46:14.860
+Weet je wel...
+
+46:14.860 --> 46:15.860
+Weet je ook wel...
+
+46:15.860 --> 46:16.860
+Weet je ook wel...
+
+46:16.860 --> 46:17.860
+Ja...
+
+46:17.860 --> 46:18.860
+Maar...
+
+46:18.860 --> 46:19.860
+Weet je wel...
+
+46:19.860 --> 46:20.860
+Weet je wel...
+
+46:20.860 --> 46:21.860
+Weet je wel...
+
+46:21.860 --> 46:22.860
+Weet je wel...
+
+46:22.860 --> 46:23.860
+Weet je wel...
+
+46:23.860 --> 46:24.860
+Weet je wel...
+
+46:24.860 --> 46:25.860
+Maar hoeveel...
+
+46:25.860 --> 46:26.860
+Hoeveel lagen...
+
+46:26.860 --> 46:27.860
+Waarom ga je verweideren?
+
+46:27.860 --> 46:28.860
+Want ik...
+
+46:28.860 --> 46:29.860
+Want...
+
+46:29.860 --> 46:30.860
+Ik zag van de weekend...
+
+46:30.860 --> 46:32.860
+Ongeveer drie lagen...
+
+46:32.860 --> 46:33.860
+Nee...
+
+46:33.860 --> 46:35.860
+Twee...
+
+46:35.860 --> 46:36.860
+En twee lagen...
+
+46:36.860 --> 46:37.860
+In de opzitter...
+
+46:37.860 --> 46:39.860
+Sommige plekken...
+
+46:39.860 --> 46:40.860
+Ja...
+
+46:40.860 --> 46:41.860
+Maar daaronder heb je dan...
+
+46:41.860 --> 46:42.860
+Weet je dan...
+
+46:42.860 --> 46:43.860
+Weet je dan...
+
+46:43.860 --> 46:44.860
+Weet je dan...
+
+46:44.860 --> 46:45.860
+Weet je dan...
+
+46:45.860 --> 46:46.860
+Weet je dan...
+
+46:46.860 --> 46:47.860
+Weet je dan...
+
+46:47.860 --> 46:48.860
+Weet je dan...
+
+46:48.860 --> 46:49.860
+Weet je dan...
+
+46:49.860 --> 46:50.860
+Maar is dat niet een...
+
+46:50.860 --> 46:51.860
+Is dit niet meer efficiënt om...
+
+46:51.860 --> 46:52.860
+Bijvoorbeeld...
+
+46:52.860 --> 46:53.860
+Een behangstomer...
+
+46:53.860 --> 46:54.860
+Of...
+
+46:54.860 --> 46:55.860
+Te...
+
+46:55.860 --> 46:56.860
+Nee...
+
+46:56.860 --> 46:57.860
+Ik kan het met een kleenstomer...
+
+46:57.860 --> 46:58.860
+En dat is...
+
+46:58.860 --> 46:59.860
+Nou ja...
+
+46:59.860 --> 47:00.860
+Maar behangstomer is...
+
+47:00.860 --> 47:01.860
+Oké...
+
+47:01.860 --> 47:02.860
+Een behangstomer is...
+
+47:02.860 --> 47:03.860
+Heeft een veel groter...
+
+47:03.860 --> 47:04.860
+Een soort van...
+
+47:04.860 --> 47:05.860
+Bak...
+
+47:05.860 --> 47:06.860
+Oké...
+
+47:06.860 --> 47:07.860
+En...
+
+47:07.860 --> 47:08.860
+Een keer meer...
+
+47:08.860 --> 47:09.860
+Het is...
+
+47:09.860 --> 47:10.860
+In het verleden...
+
+47:10.860 --> 47:11.860
+In het verleden...
+
+47:11.860 --> 47:12.860
+Het is...
+
+47:12.860 --> 47:13.860
+Heel aard...
+
+47:13.860 --> 47:14.860
+Ja...
+
+47:14.860 --> 47:15.860
+Maar luister...
+
+47:15.860 --> 47:16.860
+Even...
+
+47:16.860 --> 47:17.860
+En...
+
+47:17.860 --> 47:18.860
+En...
+
+47:18.860 --> 47:19.860
+Je bent nu...
+
+47:19.860 --> 47:20.860
+Je schouders...
+
+47:20.860 --> 47:21.860
+Je bent nu aan het krabbing...
+
+47:21.860 --> 47:22.860
+En...
+
+47:22.860 --> 47:23.860
+Enzovoort...
+
+47:23.860 --> 47:24.860
+Je bent je schouders...
+
+47:24.860 --> 47:25.860
+Je bent je arme aan het gebruiken...
+
+47:25.860 --> 47:26.860
+En...
+
+47:26.860 --> 47:27.860
+Dit kan bijdragen...
+
+47:27.860 --> 47:28.860
+Aan...
+
+47:28.860 --> 47:29.860
+Aan...
+
+47:29.860 --> 47:30.860
+Algemene toestand...
+
+47:30.860 --> 47:31.860
+Ik meld dit...
+
+47:31.860 --> 47:32.860
+Nee...
+
+47:32.860 --> 47:33.860
+Maar...
+
+47:33.860 --> 47:34.860
+Ik denk...
+
+47:34.860 --> 47:35.860
+Ik heb een boonmau...
+
+47:35.860 --> 47:37.860
+Ja...
+
+47:37.860 --> 47:38.860
+Wat is dat?
+
+47:38.860 --> 47:39.860
+En ik hoor even...
+
+47:39.860 --> 47:40.860
+Een...
+
+47:40.860 --> 47:41.860
+Een...
+
+47:41.860 --> 47:42.860
+Een...
+
+47:42.860 --> 47:43.860
+Een...
+
+47:43.860 --> 47:44.860
+Een...
+
+47:44.860 --> 47:45.860
+Een...
+
+47:45.860 --> 47:46.860
+Een...
+
+47:46.860 --> 47:47.400
+Ze...
+
+47:47.620 --> 47:47.860
+Een...
+
+47:47.860 --> 47:49.860
+En...
+
+47:49.860 --> 47:50.860
+Een...
+
+47:50.860 --> 47:51.860
+Een...
+
+47:51.860 --> 47:59.800
+Omdat er een soort van stil zijn, maar niet zo echt van later, maar het voelde alweer die nou weer liefde in jou.
+
+48:02.800 --> 48:07.800
+Ja, we moeten gewoon even opleggen, maar het is een soort van goed aansleefd.
+
+48:09.180 --> 48:14.300
+Omdat het normaal is gaat, en het is pas de doorzitter ook nog.
+
+48:14.300 --> 48:24.040
+Nou ja, het is een van alles wat we hebben gedaan.
+
+48:24.040 --> 48:31.940
+Ik wil eigenlijk even kijken voor de laatste stappen, dat is mijn verlissing, dat is een aanslaafdra,
+
+48:31.940 --> 48:51.680
+en dat is wel een groot spiegel ook al voor je, workplace, ja, iets van, ik denk dat het van een soort draaistoeltje wil, ik denk dat dat heel veel elektrische draaistoeltjes.
+
+48:51.680 --> 49:00.260
+De draaistoeltjes, oh ja, ja, maar had je niet ooit, ik bedoel, van de laaggezettende draaistoeltjes?
+
+49:00.260 --> 49:17.420
+Ja, maar ik denk dat een draaistoel is in de zin wat praktisch, want je hebt niet veel ruimte, en als je een, als je een echte stoel hebt, dan kan je wat meer,
+
+49:17.420 --> 49:26.120
+je kan mensen, die iemand kan gaan zitten, en naar links en rechts kijken, en misschien nog voor de spiegel, dat is gewoon in het kader van ruimte meer.
+
+49:26.120 --> 49:36.120
+Dat is ook inderdaad, ja, en ik vind het ook heel lekker, zeker wel, het is een soort van spiel, het gevoel, ook,
+
+49:36.120 --> 49:44.120
+dan draaistoeltjes van, ja, en het is ook praktisch met werk, van, dat willen we laten zien, dat het even aan de zijkant is,
+
+49:44.120 --> 49:46.120
+Ja.
+
+49:46.120 --> 49:47.120
+Ja.
+
+49:47.120 --> 49:48.120
+Ja.
+
+49:48.120 --> 49:49.120
+Ja.
+
+49:49.120 --> 49:50.120
+Ja.
+
+49:50.120 --> 49:51.120
+Ja.
+
+49:51.120 --> 49:52.120
+Ja.
+
+49:52.120 --> 49:53.120
+Ja.
+
+49:53.120 --> 50:02.120
+Ja, dat is zo, eh, handig, maar ja, het is echt, ik en ik voel gewoon wel, ja, zo die tijdstuk van, eh,
+
+50:02.120 --> 50:11.120
+en, eh, deze maand, ik had wel gekeken, wanneer moet ik WD aan gaan vragen, enzo,
+
+50:11.120 --> 50:12.120
+Ja.
+
+50:12.120 --> 50:23.120
+Eh, maar dat is nu nog niet, dus dat is in iets van 1 mei, dat moet ik dat doen, en, eh, maar ik zie echt gewoon
+
+50:23.120 --> 50:31.120
+niet, nee, dat is wel een beetje jammer, van lucht.
+
+50:31.120 --> 50:32.120
+Nee.
+
+50:32.120 --> 50:40.120
+Dus, ja, dus vind ik wel een lot sterk, maar ja, misschien is dat echt wel maar een...
+
+50:40.120 --> 50:48.120
+Ja, maar dan wordt het, eh, van die, dat ik met het, eh, ROC, dat ze zo, ja, gestoord was.
+
+50:48.120 --> 50:50.120
+Ja, dat is wel mooi.
+
+50:50.120 --> 50:55.120
+Ja, ja, ik weet niet, af te laat te zien, denk ik, ik weet zelfs dat ik die vakkakuur al hoorde al,
+
+50:55.120 --> 51:00.120
+dan was het echt niets van mij, ik deed zo'n half, acht, acht, acht en dan,
+
+51:00.120 --> 51:06.120
+en dan al in het stressmodus van, eh, alles klaar zetten, die examen,
+
+51:06.120 --> 51:11.120
+het staat in welke vakkenblad, maar je kan nu echte servicier en dan het spouten doen.
+
+51:11.120 --> 51:17.120
+En dan, eh, die Tom Zalwacht al daar, allemaal problemen gaan om, je hoortje tot 9 uur,
+
+51:17.120 --> 51:22.120
+van dingen die niet goed staan, of niet goed vergaan zijn, of whatever,
+
+51:22.120 --> 51:25.120
+ik denk, nou, dat is niet niks van mij mogelijk, toch?
+
+51:25.120 --> 51:27.120
+Ik heb wel gewoon rustig.
+
+51:27.120 --> 51:29.120
+Kunnen we starten zo ver?
+
+51:29.120 --> 51:31.120
+Eh, nee.
+
+51:31.120 --> 51:32.120
+Nee.
+
+51:32.120 --> 51:38.120
+Het is er achteraf gezien, denk ik, ja, ook al, wat het wel qua uren goed geweest,
+
+51:38.120 --> 51:40.120
+vind ik het helemaal niet aantrekkelijk vinden.
+
+51:40.120 --> 51:41.120
+Nee.
+
+51:41.120 --> 51:42.120
+Nee.
+
+51:42.120 --> 51:43.120
+Nee.
+
+51:43.120 --> 51:44.120
+Nee.
+
+51:44.120 --> 51:47.120
+Maar, ja, ik zit ook al naar hele andere dingen te kijken.
+
+51:47.120 --> 51:54.120
+Ik denk wel gewoon naar, cijf je winkel of je memorie, ja, of, deze gewoon totaal,
+
+51:54.120 --> 51:59.120
+totaal buiten, buiten, buiten, buiten de box.
+
+51:59.120 --> 52:07.940
+Ja, maar weet je wel, als je een leven anders wilt leden, moet je ook andere incolliënt gaan zoeken.
+
+52:08.200 --> 52:17.660
+Maar je hebt ook al een brede ervaring, wat je werkt, ooit bij de bouwling, jaren lang bij de bouwling gewerkt.
+
+52:17.660 --> 52:37.160
+En je was bij die opleiding, ooit bij ROC gewerkt, je was bij personeelzaken van HMC en je was ook nog managementsassistent geweest met groen, beter groen, gezond in De Haag.
+
+52:37.160 --> 52:49.380
+En je was bij TDC, TDAH, officieel winkelsupport medewerker, of milkswinkelsupport, enzo, een coördinaal winkelcoördinator.
+
+52:50.380 --> 52:55.260
+Dus dit was, ja, die heb heel veel verschillende ervaringen gehad.
+
+52:56.940 --> 53:06.380
+Ja, ik heb wel wat, maar ik ben natuurlijk ook wel nog geen centen meer, dus ik denk dat het wel ook is, dat je dan natuurlijk ook...
+
+53:07.160 --> 53:10.000
+Heet jy het, die is net wat er vandaan is, die is daarom?
+
+53:10.340 --> 53:17.240
+Ja, maar vervur nog, ek werk nog altijd in de ICT, ek was altijd, ek volgde in een bepaalde soort van lijn.
+
+53:18.160 --> 53:26.160
+Het is niet dat ik, ek ben al jaren in, zeg maar, in soort van functioneel beheer, maar jy doen, jy heb een brede...
+
+53:26.160 --> 53:38.220
+Wat heeft onderwijs, en examens, en wat jy ooit heb gedaan, waar is dat gerelateerd aan bij TDAH winkelcoördinator?
+
+53:38.480 --> 53:43.380
+Wat heeft, qua werkzaamheden, is totaal andere sektor ook?
+
+53:43.380 --> 53:54.380
+Nee, maar het maakt ook niet zoveel uit. Het gaat ook om dat je moet coördineren, organiseren, regelen, ehm, dat je verantwoordelijkheid volgt,
+
+53:54.380 --> 53:58.380
+om dingen op te pakken, dat je ook anders kan werken.
+
+53:58.380 --> 54:06.380
+Ja, dus Stefan wel, weet je, je zit in al die sectoren, en dan kan je wel zien van het eeuw,
+
+54:06.380 --> 54:14.380
+je moet daar gedaan, hier is het niet het steltje te zijn, en anders zou je heel moeilijk ergens dat je het net te kunnen vinden,
+
+54:14.380 --> 54:17.380
+want je had iemand echt al in een onderwijs geweld moeten hebben, ofzo.
+
+54:17.380 --> 54:22.380
+Het is wel misschien handig, maar je hoeft niet, hoor.
+
+54:22.380 --> 54:29.380
+Het is meer dat je, ehm, ja, gewoon een beetje weet hoe dat soort dingen werken.
+
+54:29.380 --> 54:34.380
+En, ehm, naja, dat.
+
+54:34.380 --> 54:43.380
+Maar, ja, het is meer dat ik denk van, ehm, die vakken die je leest.
+
+54:43.380 --> 54:53.380
+Ik vind het zo gewoon, dat ik, ehm, ik vind het echt wel denk van, dit is niet gewoon echt,
+
+54:53.380 --> 54:57.380
+van die hele stad, dat je gewoon stelt van een doel voor.
+
+54:57.380 --> 55:02.380
+Dus ja, dat is eigenlijk gewoon wel, het leuk vind.
+
+55:02.380 --> 55:07.380
+Het is een ingewikkeld stad, dus je denkt van, nee, dan ben je het normaal, maar,
+
+55:07.380 --> 55:14.380
+en dan, in de helftende week, deze ben je dan toch weer iets anders.
+
+55:14.380 --> 55:15.380
+Ja.
+
+55:15.380 --> 55:16.380
+Ja.
+
+55:16.380 --> 55:21.380
+En toen was ik, ehm, ook met Caroline, die is het ook gaan doen.
+
+55:21.380 --> 55:25.380
+Toen was ik ook nog even aan de restructuur, hè.
+
+55:25.380 --> 55:27.380
+Ja, het klinkt me als, ehm.
+
+55:27.380 --> 55:29.380
+Ja, dat klinkt me als, ehm.
+
+55:29.380 --> 55:30.380
+Ja.
+
+55:30.380 --> 55:32.380
+Ja, het klinkt me als, ehm.
+
+55:32.380 --> 55:33.380
+Ja.
+
+55:33.380 --> 55:34.380
+Ja.
+
+55:34.380 --> 55:38.380
+En je hebt toch nog die, eh, Isabel, wat open is, wat, wat, wat, met haar stichting,
+
+55:38.380 --> 55:39.380
+wat nu hard loopt.
+
+55:39.380 --> 55:43.380
+En je kunt, of weet je wat, in een stichting, ehm,
+
+55:43.380 --> 55:46.380
+een stichting, je kan mensen in dienst neem bij een stichting.
+
+55:46.380 --> 55:50.380
+Je kan personeel aanneem voor een salaris, maar diegene die het stichting staart vindt.
+
+55:50.380 --> 55:53.380
+Dus Isabel mag herself niets aan verdienen.
+
+55:53.380 --> 55:58.380
+En die mag ook niet, ehm, ook niet via kickbacks, en, enzovoorts met, ehm,
+
+55:58.380 --> 56:00.380
+enzovoorts met, ehm, enzovoorts, dit is legaal.
+
+56:00.380 --> 56:03.380
+Maar, je kan wel mensen in dienst neem, bij voorbeeld.
+
+56:03.380 --> 56:05.380
+Oké, het is niet dat je wil.
+
+56:05.380 --> 56:08.380
+Maar, weetens, het gaat om het principe van de bedrijfstaten.
+
+56:08.380 --> 56:12.380
+Ah, hallo, dit is vroeg niet wat je zegt. Isabel kan gaan bezalen.
+
+56:12.380 --> 56:16.380
+Als je een stichting hebt, kan je wel gaan laten bezalen.
+
+56:16.380 --> 56:17.380
+Oké, nou ja.
+
+56:17.380 --> 56:20.380
+Hoe is dat dan als je geld moet verdienen, als je dan een stichting moet?
+
+56:20.380 --> 56:24.380
+Ja, die theorie is, die theorie is, die stichting is, gaat voor goede doelen.
+
+56:24.380 --> 56:26.380
+En, die theorie is dat de stichting...
+
+56:26.380 --> 56:29.380
+Ja, maar twee jaar is ook een stichting.
+
+56:29.380 --> 56:33.380
+Ja, maar je mag geen, een stichting mag niet winst nabejagen.
+
+56:33.380 --> 56:38.380
+Maar dat is dus anders. Winst, nou ja, of je zelf niet uit, die houdt allemaal dingen door elkaar.
+
+56:38.380 --> 56:43.380
+Je mag gewoon in een stichting, mag je jezelf gewoon uitdalen.
+
+56:43.380 --> 56:47.380
+En je mag het dan, ehm, vanavondig krijgen hoor.
+
+56:47.380 --> 56:49.380
+En er staat niemand in stichting in die stichting aan.
+
+56:49.380 --> 56:50.380
+Ja.
+
+56:50.380 --> 56:53.380
+Dus je mag het gewoon personeel aanmelen.
+
+56:53.380 --> 56:54.380
+Ja.
+
+56:54.380 --> 56:59.380
+Nou, oké, nee, correctie. Ja, goed dat je het zegt, maar, ehm, ja.
+
+56:59.380 --> 57:00.380
+Ja.
+
+57:00.380 --> 57:01.380
+Ja.
+
+57:01.380 --> 57:02.380
+Ja.
+
+57:02.380 --> 57:03.380
+Ja.
+
+57:03.380 --> 57:06.380
+Ja, je zei, je zei, ik had ook gewoon een bepaalde voor de dingen die we in het verleden niet,
+
+57:06.380 --> 57:07.380
+maar nu wel.
+
+57:07.380 --> 57:08.380
+Ja.
+
+57:08.380 --> 57:11.380
+Voor de eeuwen die zij daar, zeg maar, aan de steek.
+
+57:11.380 --> 57:12.380
+Ja.
+
+57:12.380 --> 57:13.380
+Ja.
+
+57:13.380 --> 57:14.380
+Dus, ja.
+
+57:14.380 --> 57:18.380
+Maar, ik wil nu zien mijn ideeën in de stichting doen hoor.
+
+57:18.380 --> 57:20.380
+Maar, ehm, ja.
+
+57:20.380 --> 57:22.380
+Wel, dan.
+
+57:22.380 --> 57:24.380
+Zoals te kijken naar.
+
+57:24.380 --> 57:28.380
+Waar gaat de stichting in de winkel en de combinatie, weet ik.
+
+57:28.380 --> 57:30.380
+zo'n groot stad.
+
+57:30.380 --> 57:31.380
+Ja.
+
+57:31.380 --> 57:35.380
+Aan de andere kant, denk ik, ja, het is een groot stad.
+
+57:35.380 --> 57:41.380
+Maar, hij is wel, heel meer aan de kant van het lager, als het gaat om neren.
+
+57:41.380 --> 57:45.380
+Dan, als ik het hard doe, en hier, thuis.
+
+57:45.380 --> 57:49.380
+En, ik kan het hier thuis ook doen, dus het gaat niet in de plek.
+
+57:49.380 --> 57:50.380
+Ja.
+
+57:50.380 --> 57:53.380
+Maar, het gaat om de bereikbaarheid.
+
+57:53.380 --> 57:56.380
+En als de bereikbaarheid is zo, zo in de normale grover.
+
+57:56.380 --> 57:59.380
+Als je een lingua hebt.
+
+57:59.380 --> 58:03.380
+Dus, ik denk dat het een jaar, dat je moet verlaten.
+
+58:03.380 --> 58:06.380
+Dus, je komt het niet te kant.
+
+58:06.380 --> 58:07.380
+Ja.
+
+58:07.380 --> 58:10.380
+Als je dan, je kan nu de film aan het doen.
+
+58:10.380 --> 58:13.380
+Dus, stel dat die ww, ja.
+
+58:13.380 --> 58:14.380
+Stel dat je zegt, oké.
+
+58:14.380 --> 58:17.380
+Je mag, een half jaar, weet ik wel.
+
+58:17.380 --> 58:19.380
+Aan grovering van.
+
+58:19.380 --> 58:20.380
+Ja.
+
+58:20.380 --> 58:22.380
+Goed, ww.
+
+58:22.380 --> 58:23.380
+Ja.
+
+58:23.380 --> 58:24.380
+Ja.
+
+58:24.380 --> 58:26.380
+Dan denk ik echt, dat ik dacht, ja.
+
+58:26.380 --> 58:30.380
+Maar, wanneer zou ik dan niet gewoon, dat hele bouw doen?
+
+58:30.380 --> 58:33.380
+Gewoon wel, met een winkel erbij.
+
+58:33.380 --> 58:34.380
+Ja.
+
+58:34.380 --> 58:35.380
+Ja.
+
+58:35.380 --> 58:39.380
+Ja, dan ben ik gewoon volledig, maar jammer dat die winkel, eh.
+
+58:39.380 --> 58:43.380
+Waar het, eh, dat het, eh, gevoel was.
+
+58:43.380 --> 58:45.380
+Dat jij op je ogen had gehad.
+
+58:45.380 --> 58:48.380
+Nee, ja, maar, ik bedoel, daar gaat het niet om.
+
+58:48.380 --> 58:49.380
+Ik doe het niet veel van.
+
+58:49.380 --> 58:52.380
+Ik heb er nog heel veel mee.
+
+58:52.380 --> 58:55.380
+Nou ja, misschien niet weten, misschien wel.
+
+58:55.380 --> 59:00.380
+Maar, het gaat meer om, je voelt al heel wat anders dan.
+
+59:00.380 --> 59:01.380
+Ja.
+
+59:01.380 --> 59:04.380
+Het gaat meer om, van, ja, wat wil ik?
+
+59:04.380 --> 59:05.380
+Weet je wel?
+
+59:05.380 --> 59:09.380
+Van, wat is de wijsheid in deze fraadheid?
+
+59:09.380 --> 59:10.380
+Ja.
+
+59:10.380 --> 59:14.380
+Dat, dat is meer waar ik mee weet, en in mijn hoofd.
+
+59:14.380 --> 59:15.380
+Ja, even.
+
+59:15.380 --> 59:16.380
+Het is, eh...
+
+59:16.380 --> 59:17.380
+Ehm.
+
+59:17.380 --> 59:18.380
+Ja.
+
+59:18.380 --> 59:19.380
+Even.
+
+59:19.380 --> 59:20.380
+Het is, eh...
+
+59:20.380 --> 59:21.380
+Ik bedoel.
+
+59:21.380 --> 59:22.380
+Ik bedoel.
+
+59:22.380 --> 59:23.380
+Ik bedoel.
+
+59:23.380 --> 59:24.380
+Ik bedoel.
+
+59:24.380 --> 59:25.380
+Ik bedoel.
+
+59:25.380 --> 59:26.380
+Ik bedoel, ja.
+
+59:26.380 --> 59:27.380
+Ik bedoel.
+
+59:27.380 --> 59:28.380
+Ik bedoel.
+
+59:28.380 --> 59:30.380
+Ja, en dan had ik nog wel niets om.
+
+59:30.380 --> 59:32.380
+Dan denk je, hoe je er alleen maar syriaar is.
+
+59:34.380 --> 59:35.380
+Nou, nee.
+
+59:35.380 --> 59:36.380
+Wat heb je er te doen?
+
+59:36.380 --> 59:37.380
+Oké, nee.
+
+59:37.380 --> 59:38.380
+Verklaar.
+
+59:38.380 --> 59:40.380
+Een syriaar is, je, jij, jij.
+
+59:40.380 --> 59:41.380
+Oké, vertel.
+
+59:41.380 --> 59:42.380
+Hoe die uit Syria komt.
+
+59:42.380 --> 59:43.380
+Ja.
+
+59:43.380 --> 59:44.380
+Ja.
+
+59:44.380 --> 59:46.380
+En die mensen, ja.
+
+59:46.380 --> 59:50.380
+Die beginnen gewoon met winkels en ondernemen.
+
+59:50.380 --> 59:52.380
+Die komen nu op vluchteling.
+
+59:52.380 --> 59:56.380
+Toen heb ik daar in een geval, weet ik zo, drie jaar of zo, vijf jaar.
+
+59:56.380 --> 01:00:02.380
+en, ehm, willen we gewoon hun eigen monee nemen.
+
+01:00:02.380 --> 01:00:05.380
+Dus die doen, die zijn gewend iets op monee maakt.
+
+01:00:05.380 --> 01:00:06.380
+Ja, want dit is, en dit...
+
+01:00:06.380 --> 01:00:08.380
+Laat het zo'n groot ding weten.
+
+01:00:08.380 --> 01:00:14.380
+Nou, weet u waarom, daar is een reden waarom, waarom mensen daar makkelijker onderneemt.
+
+01:00:14.380 --> 01:00:21.380
+Is omdat daar, ehm, economie is meer gebast, is daar, er zijn minder formele werkgelegenheden mee.
+
+01:00:21.380 --> 01:00:29.380
+Er zijn weinig, die enige vaste banen zijn meestal mensen die bij een telecombedrijf werken of bij overheden.
+
+01:00:29.380 --> 01:00:33.380
+En, voor die rest, heb je, heb je, heb je vaak ondernemers.
+
+01:00:33.380 --> 01:00:34.380
+Heb je die moe...
+
+01:00:34.380 --> 01:00:35.380
+Dat weet ik niet veel.
+
+01:00:35.380 --> 01:00:36.380
+Ik denk echt, om...
+
+01:00:36.380 --> 01:00:40.380
+Dat soort langer, dat is mij zo bekend, vind ik al wel.
+
+01:00:40.380 --> 01:00:45.380
+Maar, het gaat erom, dat het een bepaalde, ook mentaliteit is.
+
+01:00:45.380 --> 01:00:52.380
+Ik noem het even als voorbeeld, de syrische mentaliteit van, weet je wel, gewoon doen.
+
+01:00:52.380 --> 01:00:57.380
+En, ehm, hier gaan we gelijk heel erg nadenken.
+
+01:00:57.380 --> 01:00:59.380
+Ja, maar wat al?
+
+01:00:59.380 --> 01:01:01.380
+We gaan het heel moeilijk maken.
+
+01:01:01.380 --> 01:01:04.380
+Terwijl ik denk, ja, is het nou echt...
+
+01:01:04.380 --> 01:01:11.380
+Je moet aanreken, je moet een belastingdeling, je moet andere afvoeringen, je moet het liefst niet in het probleem komen.
+
+01:01:11.380 --> 01:01:14.380
+Ja, dat snap ik allemaal.
+
+01:01:14.380 --> 01:01:17.380
+En aan de andere kant denk ik ook, ja, maar ja.
+
+01:01:17.380 --> 01:01:28.380
+Weet je, het goede deen die, die dat doet, die het wel doet, ehm, die weet ook gewoon hoe het is.
+
+01:01:28.380 --> 01:01:29.380
+Ja, want, ehm...
+
+01:01:29.380 --> 01:01:34.380
+Ja, ik kan wel omhoog, allemaal dingen bedenken, maar ja, ik heb het niet gedaan, dus dat weet je niet.
+
+01:01:34.380 --> 01:01:43.380
+Ja, maar heel even ter informatie, ehm, als ik heb je al gedaan over ondernemerschap en mijn jeugd ervaren, Zuid-Afrika,
+
+01:01:43.380 --> 01:01:46.380
+Hindoestanen zijn ondernemers.
+
+01:01:46.380 --> 01:01:52.380
+Hindoestanen werken nooit, die werken niet voor hun, voor hun baas.
+
+01:01:52.380 --> 01:01:53.380
+Nee.
+
+01:01:53.380 --> 01:02:04.380
+En toch, en ze waren, ze waren, in die apartheidstijd, ze waren van die meest welvarende groep, ehm, in hun eigen, in hun eigen omgeving.
+
+01:02:04.380 --> 01:02:05.380
+Ja.
+
+01:02:05.380 --> 01:02:13.380
+Dikke Mercedes, grote huizen, echt, renditte, en dat ook nog in die apart, in die apartheidstijd.
+
+01:02:13.380 --> 01:02:21.380
+ehm, en die ANC-regime heeft een pesthekel aan, ehm, aan die, ehm, Hindustanen.
+
+01:02:21.380 --> 01:02:25.380
+Eerst is het blanke, tweede is het nu Hindustanen.
+
+01:02:25.380 --> 01:02:34.380
+Nee, maar, los ben je daarvan, ehm, is het gewoon iets, ja.
+
+01:02:34.380 --> 01:02:45.380
+Want ik denk, ja, ehm, het heeft te maken met, hoe zit je in, in het proces, weet je, hoe bekijk je dingen, hoe benader je dingen.
+
+01:02:45.380 --> 01:02:46.380
+Ja.
+
+01:02:46.380 --> 01:02:55.380
+En als er allerlei dingen roept, gebeurt er, waardoor je, ehm, wat perking is niet ofzo, dus waardoor je denkt, oh ja maar, ja maar, ja maar.
+
+01:02:55.380 --> 01:02:56.380
+Ja.
+
+01:02:56.380 --> 01:02:57.380
+Dikke?
+
+01:02:57.380 --> 01:02:59.380
+Dat vind ik heel handig.
+
+01:02:59.380 --> 01:03:08.380
+En, ja, wat natuurlijk ook een beetje is, ik vind het een lange stel, als je dat weer op mijn huid gaat oefen, ja.
+
+01:03:08.380 --> 01:03:18.380
+Ja, gij toch iets anders hoort, waai, dan, als je het, of een confessionele werkplek zou doen, ja.
+
+01:03:18.380 --> 01:03:25.380
+Ok, weet jy wat ek, wat ek net sit te denken, in plaats van net gewoon doen, het is, ja, eh, eerstens, niems, had ek, eh,
+
+01:03:25.380 --> 01:03:33.380
+had gewoon een winkel gestaat, sy het nooit een winkel gehad, en, ok, dit is, eh, Michiel was die, was die sponsor geweest,
+
+01:03:33.380 --> 01:03:39.380
+en sy kon haar ding doen, en eventueel was dit een enorme financiële, eh, last geworden.
+
+01:03:39.380 --> 01:03:46.380
+Laten we dit even buiten beschouwing neem, maar sy, sy was daar gewoon ingesprongen geweest, net zonder ervaring.
+
+01:03:46.380 --> 01:03:48.380
+Ja.
+
+01:03:48.380 --> 01:03:57.380
+En, eh, misschien kan jy, gewoon in Piet Heinstraat, of Jan Hendrik, of, of in, eh, langslopen by van die ondernemers,
+
+01:03:57.380 --> 01:04:04.380
+en, neem, en, vraag of jy, of jy iemand, by een winkel wat onlang was geopend, of afgelopen jaar, of so,
+
+01:04:04.380 --> 01:04:10.380
+wat, jy wil, jy wil graag een winkel starten, nie vertel wat jy wil doen, het kan by een tabakzaak sy,
+
+01:04:10.380 --> 01:04:17.380
+het kan by een, weet te veel, een eetzaak sy staan, had jy voor je een ervaring, had jy daar voor een bedrijf gehad,
+
+01:04:17.380 --> 01:04:21.380
+wat was jou, eh, of was jy gewoon begonnen, wat was jou proces,
+
+01:04:21.380 --> 01:04:32.380
+dat soort van info, dan, eh, niet, niet om jou te ontmoedigen, maar meer om jou te, te sterk in jou,
+
+01:04:32.380 --> 01:04:38.380
+in dit idee van, oké, jy gaat er gewoon aan beginnen, met de winkel.
+
+01:04:38.380 --> 01:04:40.380
+Ja, ja.
+
+01:04:40.380 --> 01:04:46.380
+Het is, want het is best wel, het is best wel een soort van grote stap, en die heb, eh,
+
+01:04:46.380 --> 01:04:54.380
+de meeste mensen doet dit met een partner, die heeft een, die heeft een vriend, die heeft een, eh, die heeft een, dat soort van dingen, dus.
+
+01:04:54.380 --> 01:04:59.380
+Hoe zou je het bouwen, het zegt lijn als wij, maar het is ook wel een beteld in de gedachte,
+
+01:04:59.380 --> 01:05:02.380
+zijn heel veel mensen die alleen zijn die dat ook niet?
+
+01:05:02.380 --> 01:05:06.380
+Ja, er zijn veel mensen die het alleen zijn, maar ik heb, ik heb geluisterd naar,
+
+01:05:06.380 --> 01:05:11.380
+als ik nu ook technisch mag zijn, daar meer dan 2.500, of misschien 3.000 interviews,
+
+01:05:11.380 --> 01:05:18.380
+echt een goddeloze veelheid, 2 interviews per dag, 3, 4 jaar lang, elke dag.
+
+01:05:18.380 --> 01:05:27.380
+En, wat mij daaruit blijkt, dat 999,99% heeft een partner, iemand wat actief meedenken,
+
+01:05:27.380 --> 01:05:30.380
+oké, jy kan het op jouw leven, prima.
+
+01:05:30.380 --> 01:05:33.380
+Ja, oké.
+
+01:05:33.380 --> 01:05:39.380
+Dus, ik weet niet waar je, waar, wat voor dingen je luistert, maar, en sowieso gaat het in die podcast,
+
+01:05:39.380 --> 01:05:44.380
+ook niet over, oh, ik heb een partner, dat is hele jonge, laat ik helemaal geen nummer weer,
+
+01:05:44.380 --> 01:05:53.380
+het zijn van mensen die zelf ondernemen, wat zou het betekenen dat je, oh, je moet je, eh, een partner hebben,
+
+01:05:53.380 --> 01:05:56.380
+wat heeft een partner dat je überhaupt mee te maken?
+
+01:05:56.380 --> 01:05:57.380
+Eh, niks.
+
+01:05:57.380 --> 01:06:07.380
+Het is gewoon iemand wat, het is iemand wat, wat op hetzelfde niet wou, met hart en ziel,
+
+01:06:07.380 --> 01:06:13.380
+en dan, eh, daarin zitten, en als je een relatie hebt, eh, je kan je niet, dan,
+
+01:06:13.380 --> 01:06:18.380
+dit is juist echt nog bijna nooit gebeurd, dat partner samen, ons ondernemen,
+
+01:06:18.380 --> 01:06:21.380
+dat is eerder de uitvoering van de religie.
+
+01:06:21.380 --> 01:06:24.380
+Ja, maar, kan je, kan je meewerken?
+
+01:06:24.380 --> 01:06:29.380
+Ja, maar, ik had, ja, oké.
+
+01:06:29.380 --> 01:06:32.380
+Ja, oké.
+
+01:06:32.380 --> 01:06:33.380
+Ja, ik weet niet.
+
+01:06:33.380 --> 01:06:42.380
+Ja, nou, oké, dat zijn verschillende meningen.
+
+01:06:42.380 --> 01:06:47.380
+om dit te doen, en jouw manier, als jij dit wilt doen, zoals jij dit goed vindt,
+
+01:06:47.380 --> 01:06:50.380
+dat is helemaal, het is helemaal goed.
+
+01:06:50.380 --> 01:06:54.380
+Nee, maar ik heb het gemiddeld, dat vind ik net voor jou, dat je dan dingen moet doen,
+
+01:06:54.380 --> 01:06:59.380
+en dan, bij jou, is het, als je het eender hebt gehoord in een potpast,
+
+01:06:59.380 --> 01:07:01.380
+is het gelijk 100 jaar.
+
+01:07:01.380 --> 01:07:05.380
+En dan, over de wijze moet je ook, maar het is heel groot,
+
+01:07:05.380 --> 01:07:09.380
+en dan, ja, het is gewoon dat je dat dan eender hebt gehoord enzo,
+
+01:07:09.380 --> 01:07:12.380
+maar, het blijft wel leuk.
+
+01:07:12.380 --> 01:07:17.380
+Dus ik vind niet dat ik daarmee, eh, die boek die en toe ofzo,
+
+01:07:17.380 --> 01:07:20.380
+of die 18 lady, die doet het gat gaan zetten.
+
+01:07:20.380 --> 01:07:21.380
+Ja.
+
+01:07:21.380 --> 01:07:23.380
+Dus die doet ons ook nog een partner,
+
+01:07:23.380 --> 01:07:25.380
+ik heb nog nooit aan mannen die niet, eh,
+
+01:07:25.380 --> 01:07:27.380
+maar niet dat je van weet.
+
+01:07:27.380 --> 01:07:29.380
+Of wat?
+
+01:07:29.380 --> 01:07:31.380
+Niet waarvan jy weet.
+
+01:07:33.380 --> 01:07:35.380
+Maar het is prima, als jy dit,
+
+01:07:35.380 --> 01:07:38.380
+jy kan ook, als jy jarenlang ervaring hebt,
+
+01:07:38.380 --> 01:07:40.380
+en jy weet hoe die proces werkt,
+
+01:07:40.380 --> 01:07:44.380
+en, eh, van, van, in jou, in jou expertgebied,
+
+01:07:44.380 --> 01:07:46.380
+ja, dan kan jy dit ook alleen doen.
+
+01:07:46.380 --> 01:07:48.380
+en jy mag ook wel even voortgetek,
+
+01:07:48.380 --> 01:07:50.380
+tel voor dat jy dit samenloopt,
+
+01:07:50.380 --> 01:07:52.380
+en, en dan, of zou jy dan,
+
+01:07:52.380 --> 01:07:54.380
+die eerder die godmins te voorslag?
+
+01:07:54.380 --> 01:07:56.380
+Wel, Mims, voor die voordeel,
+
+01:07:56.380 --> 01:07:58.380
+voor in my, in my jeugdgeval,
+
+01:07:58.380 --> 01:08:00.380
+voor Mims als geval is,
+
+01:08:00.380 --> 01:08:02.380
+als het winkel, eh,
+
+01:08:02.380 --> 01:08:05.380
+zij had een sponsor,
+
+01:08:05.380 --> 01:08:08.380
+en zij kon, zij kon die winkel starten,
+
+01:08:08.380 --> 01:08:11.380
+zij kon haar ideaal nastreven,
+
+01:08:11.380 --> 01:08:12.380
+en, zij kon,
+
+01:08:12.380 --> 01:08:15.380
+ze had niet hoef te stressen over eten,
+
+01:08:15.380 --> 01:08:18.380
+eh, dat er geen geld is voor eten,
+
+01:08:18.380 --> 01:08:20.380
+of dat er, zij had haar,
+
+01:08:20.380 --> 01:08:22.380
+ze had haar onderdak,
+
+01:08:22.380 --> 01:08:23.380
+en, maar,
+
+01:08:23.380 --> 01:08:24.380
+dit is verschillende mensen,
+
+01:08:24.380 --> 01:08:25.380
+is het anders,
+
+01:08:25.380 --> 01:08:27.380
+jij hebt dat behoefte niet.
+
+01:08:27.380 --> 01:08:29.380
+Andere mensen heeft, eh,
+
+01:08:29.380 --> 01:08:31.380
+heeft zelf geld,
+
+01:08:31.380 --> 01:08:33.380
+maar ze hebben een behoefte aan begeleiding,
+
+01:08:33.380 --> 01:08:35.380
+of iemand om mee te sparen,
+
+01:08:35.380 --> 01:08:36.380
+en ervaring,
+
+01:08:36.380 --> 01:08:37.380
+enzovoorts,
+
+01:08:37.380 --> 01:08:39.380
+en, sommige mensen hebben het,
+
+01:08:39.380 --> 01:08:40.380
+en willen het,
+
+01:08:40.380 --> 01:08:41.380
+helemaal zelf doen,
+
+01:08:41.380 --> 01:08:42.380
+ze wil zelf,
+
+01:08:42.380 --> 01:08:43.380
+bij wijze van spreken,
+
+01:08:43.380 --> 01:08:45.380
+berg Everest in hun eigen,
+
+01:08:45.380 --> 01:08:46.380
+met hun,
+
+01:08:46.380 --> 01:08:47.380
+zelf om beklimmen,
+
+01:08:47.380 --> 01:08:49.380
+ze wil hem zelf voorwerken,
+
+01:08:49.380 --> 01:08:50.380
+alle materialen sameneem,
+
+01:08:50.380 --> 01:08:52.380
+ze wil hem met uppie,
+
+01:08:52.380 --> 01:08:54.380
+tot aan die piek van Everest klimmen,
+
+01:08:54.380 --> 01:08:56.380
+geen hulp van niemand.
+
+01:08:56.380 --> 01:08:57.380
+Nou wel,
+
+01:08:57.380 --> 01:08:58.380
+Michiel, ehm,
+
+01:08:58.380 --> 01:08:59.380
+ik denk dat het voor jouw moeder,
+
+01:08:59.380 --> 01:09:00.380
+een moeder,
+
+01:09:00.380 --> 01:09:01.380
+een soort van,
+
+01:09:01.380 --> 01:09:03.380
+deurig geweld,
+
+01:09:03.380 --> 01:09:04.380
+die ligt gewoon,
+
+01:09:04.380 --> 01:09:05.380
+niet meer dat deurig,
+
+01:09:05.380 --> 01:09:07.380
+maar dan,
+
+01:09:07.380 --> 01:09:08.380
+weet je,
+
+01:09:08.380 --> 01:09:09.380
+dat,
+
+01:09:09.380 --> 01:09:10.380
+misschien,
+
+01:09:10.380 --> 01:09:11.380
+jouw vader,
+
+01:09:11.380 --> 01:09:12.380
+een beetje,
+
+01:09:12.380 --> 01:09:13.380
+een zak van haar,
+
+01:09:13.380 --> 01:09:14.380
+en zei,
+
+01:09:14.380 --> 01:09:15.380
+dit is het leukste te doen,
+
+01:09:15.380 --> 01:09:16.380
+maar één,
+
+01:09:16.380 --> 01:09:17.380
+dan dat het echt,
+
+01:09:17.380 --> 01:09:18.380
+weer te zien,
+
+01:09:18.380 --> 01:09:19.380
+oké,
+
+01:09:19.380 --> 01:09:20.380
+weet je,
+
+01:09:20.380 --> 01:09:21.380
+dit is,
+
+01:09:21.380 --> 01:09:22.380
+dat het vaak,
+
+01:09:22.380 --> 01:09:23.380
+in de meeste,
+
+01:09:23.380 --> 01:09:24.380
+een stukje,
+
+01:09:24.380 --> 01:09:25.380
+zo'n nieuwe woorden,
+
+01:09:25.380 --> 01:09:26.380
+en daar ga je,
+
+01:09:26.380 --> 01:09:27.380
+ik weet niet,
+
+01:09:27.380 --> 01:09:28.380
+zo,
+
+01:09:28.380 --> 01:09:29.380
+ik kan het niet helemaal,
+
+01:09:29.380 --> 01:09:30.380
+over hoe je daarover staat,
+
+01:09:30.380 --> 01:09:32.380
+meer dan deuriging,
+
+01:09:32.380 --> 01:09:33.380
+dat het slecht te doen,
+
+01:09:33.380 --> 01:09:34.380
+daarin.
+
+01:09:37.380 --> 01:09:38.380
+Ja.
+
+01:09:38.380 --> 01:09:39.380
+Zo,
+
+01:09:39.380 --> 01:09:40.380
+ik zeg maar zo,
+
+01:09:40.380 --> 01:09:41.380
+zeg maar,
+
+01:09:41.380 --> 01:09:42.380
+een soort van,
+
+01:09:42.380 --> 01:09:43.380
+uit,
+
+01:09:43.380 --> 01:09:45.380
+en ik heb meerdere vrouwen,
+
+01:09:45.380 --> 01:09:46.380
+die gewoon,
+
+01:09:46.380 --> 01:09:47.380
+in die manier,
+
+01:09:47.380 --> 01:09:48.380
+in die manier,
+
+01:09:48.380 --> 01:09:49.380
+in die manier,
+
+01:09:49.380 --> 01:09:50.380
+zei,
+
+01:09:50.380 --> 01:09:51.380
+oh,
+
+01:09:51.380 --> 01:09:52.380
+ik kan,
+
+01:09:52.380 --> 01:09:53.380
+ik kan,
+
+01:09:53.380 --> 01:09:54.380
+ik kan,
+
+01:09:54.380 --> 01:09:55.380
+ik kan beginnen,
+
+01:09:55.380 --> 01:09:56.380
+en dan doen ze dan,
+
+01:09:56.380 --> 01:09:57.380
+eigenlijk,
+
+01:09:57.380 --> 01:09:58.380
+met zelf,
+
+01:09:58.380 --> 01:09:59.380
+de mogelijkheden,
+
+01:09:59.380 --> 01:10:00.380
+van mijn relatie,
+
+01:10:00.380 --> 01:10:01.380
+in die manier,
+
+01:10:01.380 --> 01:10:02.380
+dan is er voorbeeld,
+
+01:10:02.380 --> 01:10:03.380
+dat zijn vrouwen,
+
+01:10:03.380 --> 01:10:04.380
+die hebben dan,
+
+01:10:04.380 --> 01:10:05.380
+bijvoorbeeld,
+
+01:10:05.380 --> 01:10:06.380
+als de kinderen,
+
+01:10:06.380 --> 01:10:07.380
+voor,
+
+01:10:07.380 --> 01:10:08.380
+en die gaan dan,
+
+01:10:08.380 --> 01:10:09.380
+over,
+
+01:10:09.380 --> 01:10:10.380
+nou ja,
+
+01:10:10.380 --> 01:10:11.380
+nu is de tijd,
+
+01:10:11.380 --> 01:10:12.380
+van de kinderen,
+
+01:10:12.380 --> 01:10:13.380
+en de kinderen,
+
+01:10:13.380 --> 01:10:14.380
+en,
+
+01:10:14.380 --> 01:10:15.380
+dat,
+
+01:10:15.380 --> 01:10:16.380
+en dan denk je,
+
+01:10:16.380 --> 01:10:17.380
+eh,
+
+01:10:17.380 --> 01:10:19.380
+dat is toch,
+
+01:10:19.380 --> 01:10:20.380
+iets,
+
+01:10:20.380 --> 01:10:21.380
+anders,
+
+01:10:21.380 --> 01:10:23.380
+dan,
+
+01:10:23.380 --> 01:10:24.380
+als jij,
+
+01:10:24.380 --> 01:10:25.380
+gewoon,
+
+01:10:25.380 --> 01:10:26.380
+er echt van,
+
+01:10:26.380 --> 01:10:27.380
+reden,
+
+01:10:27.380 --> 01:10:28.380
+hebt,
+
+01:10:28.380 --> 01:10:29.380
+als je,
+
+01:10:29.380 --> 01:10:30.380
+op die manier,
+
+01:10:30.380 --> 01:10:31.380
+in de website,
+
+01:10:31.380 --> 01:10:32.380
+zit,
+
+01:10:32.380 --> 01:10:33.380
+als jij,
+
+01:10:33.380 --> 01:10:34.380
+gewoon,
+
+01:10:34.380 --> 01:10:35.380
+dus,
+
+01:10:35.380 --> 01:10:36.380
+daarnaast,
+
+01:10:36.380 --> 01:10:37.380
+ja,
+
+01:10:37.380 --> 01:10:38.380
+dan,
+
+01:10:38.380 --> 01:10:39.380
+kan je ook,
+
+01:10:39.380 --> 01:10:40.380
+heel anders,
+
+01:10:40.380 --> 01:10:41.380
+naar je,
+
+01:10:41.380 --> 01:10:42.380
+onderneming kijken,
+
+01:10:42.380 --> 01:10:43.380
+dan kan je,
+
+01:10:43.380 --> 01:10:44.380
+op een hele andere manier,
+
+01:10:44.380 --> 01:10:45.380
+of,
+
+01:10:45.380 --> 01:10:47.380
+weet je dat allemaal,
+
+01:10:47.380 --> 01:10:49.380
+dan,
+
+01:10:49.380 --> 01:10:50.380
+als je het,
+
+01:10:50.380 --> 01:10:51.380
+gewoon,
+
+01:10:51.380 --> 01:10:52.380
+van nul,
+
+01:10:52.380 --> 01:10:53.380
+zomaar,
+
+01:10:53.380 --> 01:10:54.380
+ze hebben gewoon,
+
+01:10:54.380 --> 01:10:55.380
+geen geld,
+
+01:10:55.380 --> 01:10:56.380
+dus,
+
+01:10:56.380 --> 01:10:57.380
+ehm,
+
+01:10:57.380 --> 01:10:58.380
+dat kan nou,
+
+01:10:58.380 --> 01:10:59.380
+denk ik,
+
+01:10:59.380 --> 01:11:00.380
+nog,
+
+01:11:00.380 --> 01:11:01.380
+nog,
+
+01:11:01.380 --> 01:11:02.380
+maar zo,
+
+01:11:02.380 --> 01:11:03.380
+is gewoon,
+
+01:11:03.380 --> 01:11:04.380
+geen geld.
+
+01:11:04.380 --> 01:11:05.380
+Ja, maar het zijn veel mensen,
+
+01:11:05.380 --> 01:11:06.380
+daarom,
+
+01:11:06.380 --> 01:11:07.380
+veel mensen,
+
+01:11:07.380 --> 01:11:08.380
+zonder geld,
+
+01:11:08.380 --> 01:11:09.380
+die gaan,
+
+01:11:09.380 --> 01:11:10.380
+iets beginnen,
+
+01:11:10.380 --> 01:11:11.380
+wat,
+
+01:11:11.380 --> 01:11:12.380
+als ze in een winkel beginnen,
+
+01:11:12.380 --> 01:11:13.380
+in,
+
+01:11:13.380 --> 01:11:14.380
+iets wat je gaat,
+
+01:11:14.380 --> 01:11:15.380
+inkoop,
+
+01:11:15.380 --> 01:11:16.380
+of verkoop,
+
+01:11:16.380 --> 01:11:17.380
+misschien,
+
+01:11:17.380 --> 01:11:19.380
+mobiele telefoonhoesjes,
+
+01:11:19.380 --> 01:11:20.380
+of,
+
+01:11:20.380 --> 01:11:21.380
+ehm,
+
+01:11:21.380 --> 01:11:22.380
+weet ik veel,
+
+01:11:22.380 --> 01:11:23.380
+zelfs op die markt,
+
+01:11:23.380 --> 01:11:24.380
+die verkoop,
+
+01:11:24.380 --> 01:11:25.380
+iets van alles,
+
+01:11:25.380 --> 01:11:26.380
+die heeft,
+
+01:11:26.380 --> 01:11:28.380
+een mini AliExpress.
+
+01:11:28.380 --> 01:11:29.380
+Ja,
+
+01:11:29.380 --> 01:11:30.380
+goed,
+
+01:11:30.380 --> 01:11:32.380
+maar,
+
+01:11:32.380 --> 01:11:34.380
+dat is bij mij,
+
+01:11:34.380 --> 01:11:35.380
+ik heb natuurlijk niet,
+
+01:11:35.380 --> 01:11:36.380
+een inkoop,
+
+01:11:36.380 --> 01:11:37.380
+dus, eh,
+
+01:11:37.380 --> 01:11:40.380
+toch een voordeel,
+
+01:11:40.380 --> 01:11:41.380
+hoe,
+
+01:11:41.380 --> 01:11:42.380
+aan de dag van de sport,
+
+01:11:42.380 --> 01:11:43.380
+waar ik hier iets wil doen,
+
+01:11:43.380 --> 01:11:44.380
+alleen,
+
+01:11:44.380 --> 01:11:45.380
+ben ik wel afhandelijk,
+
+01:11:45.380 --> 01:11:46.380
+van het inbedrijf,
+
+01:11:46.380 --> 01:11:47.380
+van mensen,
+
+01:11:47.380 --> 01:11:48.380
+jy bent aan,
+
+01:11:48.380 --> 01:11:50.380
+jy zit in die diensting industrie,
+
+01:11:50.380 --> 01:11:51.380
+jy zit in,
+
+01:11:51.380 --> 01:11:52.380
+jy dienst,
+
+01:11:52.380 --> 01:11:54.380
+die service industrie,
+
+01:11:54.380 --> 01:11:56.380
+die service industrie,
+
+01:11:56.380 --> 01:11:57.380
+service,
+
+01:11:57.380 --> 01:11:58.380
+diensting industrie,
+
+01:11:58.380 --> 01:11:59.380
+diensting,
+
+01:11:59.380 --> 01:12:00.380
+diensting,
+
+01:12:00.380 --> 01:12:01.380
+jy verkoop,
+
+01:12:01.380 --> 01:12:02.380
+jy het geen voor,
+
+01:12:02.380 --> 01:12:03.380
+jy het,
+
+01:12:03.380 --> 01:12:04.380
+jy het,
+
+01:12:04.380 --> 01:12:05.380
+jy het,
+
+01:12:05.380 --> 01:12:06.380
+in,
+
+01:12:06.380 --> 01:12:07.380
+jy verkoopt een,
+
+01:12:07.380 --> 01:12:08.380
+jy verkoopt een dienst.
+
+01:12:08.380 --> 01:12:09.380
+Nou,
+
+01:12:09.380 --> 01:12:10.380
+dat is niet,
+
+01:12:10.380 --> 01:12:11.380
+als ik een winkel,
+
+01:12:11.380 --> 01:12:12.380
+zou hebben,
+
+01:12:12.380 --> 01:12:13.380
+dan verkoop ik wel,
+
+01:12:13.380 --> 01:12:14.380
+voorraad.
+
+01:12:14.380 --> 01:12:15.380
+Maar,
+
+01:12:15.380 --> 01:12:16.380
+als ik alleen,
+
+01:12:16.380 --> 01:12:17.380
+ga doen,
+
+01:12:17.380 --> 01:12:18.380
+voor een winkel,
+
+01:12:18.380 --> 01:12:19.380
+met teiling,
+
+01:12:19.380 --> 01:12:20.380
+dan heb ik inderdaad,
+
+01:12:20.380 --> 01:12:21.380
+diensten.
+
+01:12:21.380 --> 01:12:23.380
+Dan verkoop ik verschillende dingen.
+
+01:12:23.380 --> 01:12:25.380
+Als ik kleding wil gaan verkozen,
+
+01:12:25.380 --> 01:12:26.380
+dan,
+
+01:12:26.380 --> 01:12:27.380
+heb ik natuurlijk wel,
+
+01:12:27.380 --> 01:12:28.380
+gewoon,
+
+01:12:28.380 --> 01:12:29.380
+voorraad.
+
+01:12:30.380 --> 01:12:31.380
+Dank je wel?
+
+01:12:31.380 --> 01:12:32.380
+Ja.
+
+01:12:32.380 --> 01:12:33.380
+Dus,
+
+01:12:33.380 --> 01:12:34.380
+ja,
+
+01:12:34.380 --> 01:12:35.380
+ja,
+
+01:12:35.380 --> 01:12:36.380
+ja,
+
+01:12:36.380 --> 01:12:37.380
+ja,
+
+01:12:37.380 --> 01:12:38.380
+dat zouden we een soort van,
+
+01:12:38.380 --> 01:12:40.380
+tevings gaan maken.
+
+01:12:40.380 --> 01:12:41.380
+Ja,
+
+01:12:41.380 --> 01:12:42.380
+of je dit,
+
+01:12:42.380 --> 01:12:43.380
+vol tijds wil gaan doen,
+
+01:12:43.380 --> 01:12:44.380
+en of je dit,
+
+01:12:44.380 --> 01:12:45.380
+eh,
+
+01:12:45.380 --> 01:12:46.380
+ja,
+
+01:12:46.380 --> 01:12:48.380
+of je dit echt met de meditering wil doen,
+
+01:12:48.380 --> 01:12:49.380
+of,
+
+01:12:49.380 --> 01:12:50.380
+ja.
+
+01:12:50.380 --> 01:12:51.380
+Nou ja,
+
+01:12:51.380 --> 01:12:52.380
+ik moet ook eens kijken,
+
+01:12:52.380 --> 01:12:53.380
+van,
+
+01:12:53.380 --> 01:12:55.380
+ik heb net wel een wetening van,
+
+01:12:55.380 --> 01:12:57.380
+de pleiding van Noors,
+
+01:12:57.380 --> 01:12:58.380
+eh,
+
+01:12:58.380 --> 01:13:01.380
+van Timka,
+
+01:13:01.380 --> 01:13:02.380
+ja,
+
+01:13:02.380 --> 01:13:03.380
+ja,
+
+01:13:03.380 --> 01:13:04.380
+ja,
+
+01:13:04.380 --> 01:13:05.380
+ja,
+
+01:13:05.380 --> 01:13:06.380
+ja,
+
+01:13:06.380 --> 01:13:07.380
+ja,
+
+01:13:07.380 --> 01:13:08.380
+het is elke keer,
+
+01:13:08.380 --> 01:13:09.380
+want ik, eh,
+
+01:13:09.380 --> 01:13:10.380
+weet ik altijd los,
+
+01:13:10.380 --> 01:13:11.380
+ja,
+
+01:13:11.380 --> 01:13:12.380
+maar,
+
+01:13:12.380 --> 01:13:13.380
+ja,
+
+01:13:13.380 --> 01:13:14.380
+eh,
+
+01:13:14.380 --> 01:13:15.380
+die,
+
+01:13:15.380 --> 01:13:16.380
+ja,
+
+01:13:16.380 --> 01:13:17.380
+ja,
+
+01:13:17.380 --> 01:13:18.380
+ja,
+
+01:13:18.380 --> 01:13:19.380
+ja,
+
+01:13:19.380 --> 01:13:20.380
+ja,
+
+01:13:20.380 --> 01:13:21.380
+ja,
+
+01:13:21.380 --> 01:13:22.380
+ja,
+
+01:13:22.380 --> 01:13:23.380
+ja,
+
+01:13:23.380 --> 01:13:24.380
+al zover,
+
+01:13:24.380 --> 01:13:25.380
+dat hij zijn,
+
+01:13:25.380 --> 01:13:26.380
+echte,
+
+01:13:26.380 --> 01:13:28.380
+solo vlucht had gedaan.
+
+01:13:28.380 --> 01:13:29.380
+Ja,
+
+01:13:29.380 --> 01:13:30.380
+het is gewoon,
+
+01:13:30.380 --> 01:13:31.380
+hetzelfde van de mobiele,
+
+01:13:31.380 --> 01:13:32.380
+het maakt het uit,
+
+01:13:32.380 --> 01:13:33.380
+en dan niet uit,
+
+01:13:33.380 --> 01:13:34.380
+ik weet hoe het eindeblad wordt,
+
+01:13:34.380 --> 01:13:35.380
+maar,
+
+01:13:35.380 --> 01:13:36.380
+ja,
+
+01:13:36.380 --> 01:13:37.380
+maar wanneer,
+
+01:13:37.380 --> 01:13:38.380
+wanneer,
+
+01:13:38.380 --> 01:13:39.380
+vliegt hij een,
+
+01:13:39.380 --> 01:13:40.380
+en vliegt bij de W,
+
+01:13:40.380 --> 01:13:42.380
+dat hij bijvoorbeeld,
+
+01:13:42.380 --> 01:13:43.380
+die,
+
+01:13:43.380 --> 01:13:44.380
+zo'n opleidingsliefd heeft,
+
+01:13:44.380 --> 01:13:45.380
+dat hij gewoon,
+
+01:13:45.380 --> 01:13:48.380
+hij gaat op vakantie naar,
+
+01:13:48.380 --> 01:13:49.380
+eh,
+
+01:13:49.380 --> 01:13:50.380
+naar Italië,
+
+01:13:50.380 --> 01:13:51.380
+en hij denkt, oké,
+
+01:13:51.380 --> 01:13:53.380
+met een vliegtuig huren,
+
+01:13:53.380 --> 01:13:54.380
+en hij gaat zo'n vliegtuig,
+
+01:13:54.380 --> 01:13:55.380
+en ik heb,
+
+01:13:55.380 --> 01:13:56.380
+en hij bent gesertificeerd,
+
+01:13:56.380 --> 01:13:57.380
+voor dat soort van vliegtuiging,
+
+01:13:57.380 --> 01:13:58.380
+eh,
+
+01:13:58.380 --> 01:14:00.380
+is hij nu al zo ver,
+
+01:14:00.380 --> 01:14:01.380
+dat hij,
+
+01:14:01.380 --> 01:14:03.380
+dus op vakantie kan gaan,
+
+01:14:03.380 --> 01:14:04.380
+en,
+
+01:14:04.380 --> 01:14:05.380
+gewoon,
+
+01:14:05.380 --> 01:14:06.380
+voor de middag,
+
+01:14:06.380 --> 01:14:07.380
+in vliegtuig huren,
+
+01:14:07.380 --> 01:14:09.380
+voor een rondlucht?
+
+01:14:09.380 --> 01:14:10.380
+Oké,
+
+01:14:10.380 --> 01:14:11.380
+ik denk,
+
+01:14:11.380 --> 01:14:12.380
+ik denk,
+
+01:14:12.380 --> 01:14:13.380
+ik denk,
+
+01:14:13.380 --> 01:14:14.380
+ah, oké,
+
+01:14:14.380 --> 01:14:16.380
+misschien een veelste technische vraag,
+
+01:14:16.380 --> 01:14:17.380
+maar,
+
+01:14:17.380 --> 01:14:18.380
+eh,
+
+01:14:18.380 --> 01:14:19.380
+ja,
+
+01:14:19.380 --> 01:14:20.380
+ja,
+
+01:14:20.380 --> 01:14:21.380
+ik denk,
+
+01:14:21.380 --> 01:14:22.380
+het moet niet zorgen,
+
+01:14:22.380 --> 01:14:23.380
+we moeten zorgen.
+
+01:14:23.380 --> 01:14:24.380
+Oké,
+
+01:14:24.380 --> 01:14:25.380
+ja,
+
+01:14:25.380 --> 01:14:26.380
+maar ja,
+
+01:14:26.380 --> 01:14:27.380
+nee,
+
+01:14:27.380 --> 01:14:28.380
+die 10k,
+
+01:14:28.380 --> 01:14:29.380
+ja,
+
+01:14:29.380 --> 01:14:30.380
+nou ja,
+
+01:14:30.380 --> 01:14:31.380
+het is meer,
+
+01:14:31.380 --> 01:14:32.380
+het speel moet ik nu wel mee,
+
+01:14:32.380 --> 01:14:33.380
+ik denk,
+
+01:14:33.380 --> 01:14:34.380
+dat vind ik ook de sluiters van,
+
+01:14:34.380 --> 01:14:35.380
+maar dan moet ik,
+
+01:14:35.380 --> 01:14:36.380
+bij Jorda,
+
+01:14:36.380 --> 01:14:37.380
+nou,
+
+01:14:37.380 --> 01:14:38.380
+ik vind ik de sluiters nodig,
+
+01:14:38.380 --> 01:14:39.380
+want dan moet ik wel gewoon mee,
+
+01:14:39.380 --> 01:14:40.380
+dan moet ik de situatie,
+
+01:14:40.380 --> 01:14:42.380
+dan werkt het van de PDH aan,
+
+01:14:42.380 --> 01:14:43.380
+ja,
+
+01:14:43.380 --> 01:14:44.380
+ik heb het niet nodig,
+
+01:14:44.380 --> 01:14:47.380
+ik weet niet of ik hetzelfde besluit neemt,
+
+01:14:47.380 --> 01:14:49.380
+misschien zou ik nu wel ook hebben genomen,
+
+01:14:49.380 --> 01:14:50.380
+en dan denk ik,
+
+01:14:50.380 --> 01:14:51.380
+ja,
+
+01:14:51.380 --> 01:14:55.380
+maar misschien zou ik dat wel toch snel in de vorm van een lening hebben gedaan,
+
+01:14:55.380 --> 01:14:58.380
+ik heb het nu misschien gewoon geschreven,
+
+01:14:58.380 --> 01:14:59.380
+ja,
+
+01:14:59.380 --> 01:15:00.380
+maar nu ja,
+
+01:15:00.380 --> 01:15:02.380
+ik wil echt zo'n,
+
+01:15:02.380 --> 01:15:03.380
+eh,
+
+01:15:03.380 --> 01:15:05.380
+meegaal er al,
+
+01:15:05.380 --> 01:15:06.380
+waar ik zelf,
+
+01:15:06.380 --> 01:15:09.380
+in de lezing natuurlijk ook,
+
+01:15:09.380 --> 01:15:10.380
+eh,
+
+01:15:10.380 --> 01:15:14.380
+nuttig van kan gebruik te maken,
+
+01:15:14.380 --> 01:15:15.380
+ja,
+
+01:15:15.380 --> 01:15:17.380
+het eindelijk snijdt het wel uit,
+
+01:15:17.380 --> 01:15:19.380
+het gaat echt wel ten koste van het wel uit,
+
+01:15:19.380 --> 01:15:20.380
+want,
+
+01:15:20.380 --> 01:15:21.380
+al dat gaat gewoon,
+
+01:15:21.380 --> 01:15:23.380
+ik zou hebben gehad,
+
+01:15:23.380 --> 01:15:25.380
+dan,
+
+01:15:25.380 --> 01:15:26.380
+ja,
+
+01:15:26.380 --> 01:15:27.380
+maar heb jij,
+
+01:15:27.380 --> 01:15:29.380
+heb jij niet zogenaamd,
+
+01:15:29.380 --> 01:15:31.380
+buyer's remorse?
+
+01:15:31.380 --> 01:15:32.380
+nee, nee,
+
+01:15:32.380 --> 01:15:34.380
+want, weet ik het voor mij niet,
+
+01:15:34.380 --> 01:15:35.380
+met de dier,
+
+01:15:35.380 --> 01:15:36.380
+heel denk ik,
+
+01:15:36.380 --> 01:15:37.380
+van,
+
+01:15:37.380 --> 01:15:38.380
+de keuze voor,
+
+01:15:38.380 --> 01:15:39.380
+voor lenen,
+
+01:15:39.380 --> 01:15:40.380
+of geven,
+
+01:15:40.380 --> 01:15:41.380
+dan,
+
+01:15:41.380 --> 01:15:42.380
+niet heel anders,
+
+01:15:42.380 --> 01:15:43.380
+of misschien gewoon deel,
+
+01:15:43.380 --> 01:15:44.380
+of gewoon deel,
+
+01:15:44.380 --> 01:15:45.380
+of gewoon deel te nemen,
+
+01:15:45.380 --> 01:15:46.380
+en deel te geven,
+
+01:15:46.380 --> 01:15:47.380
+weet je hoor,
+
+01:15:47.380 --> 01:15:49.380
+daar gaat het natuurlijk ook gewoon goed voor dienen,
+
+01:15:49.380 --> 01:15:50.380
+want dan denk ik, ja,
+
+01:15:50.380 --> 01:15:51.380
+eh,
+
+01:15:51.380 --> 01:15:52.380
+stel je zou de helft doen,
+
+01:15:52.380 --> 01:15:53.380
+weet je,
+
+01:15:53.380 --> 01:15:54.380
+de helft zelfvertalen,
+
+01:15:54.380 --> 01:15:55.380
+en de helft lenen,
+
+01:15:55.380 --> 01:15:56.380
+dat je dan moet hebben,
+
+01:15:56.380 --> 01:15:58.380
+dat je gewoon pensie wilt,
+
+01:15:58.380 --> 01:15:59.380
+aan de andere kant,
+
+01:15:59.380 --> 01:16:01.380
+heb ik natuurlijk nooit zoveel,
+
+01:16:01.380 --> 01:16:02.380
+een opleiding,
+
+01:16:02.380 --> 01:16:03.380
+of,
+
+01:16:03.380 --> 01:16:04.380
+weet je,
+
+01:16:04.380 --> 01:16:05.380
+dingen kunnen ook medetalen,
+
+01:16:05.380 --> 01:16:06.380
+maar ja,
+
+01:16:06.380 --> 01:16:10.380
+wat ik mij afvraag is,
+
+01:16:10.380 --> 01:16:11.380
+of ik denk,
+
+01:16:11.380 --> 01:16:12.380
+of je zelf al die vraag hebt gevraagd,
+
+01:16:12.380 --> 01:16:13.380
+dus,
+
+01:16:13.380 --> 01:16:14.380
+stel,
+
+01:16:14.380 --> 01:16:15.380
+veronderstel,
+
+01:16:15.380 --> 01:16:16.380
+je had geen,
+
+01:16:16.380 --> 01:16:17.380
+ehm,
+
+01:16:17.380 --> 01:16:18.380
+geen,
+
+01:16:18.380 --> 01:16:19.380
+die erfenis,
+
+01:16:19.380 --> 01:16:20.380
+je had het niet,
+
+01:16:20.380 --> 01:16:21.380
+maar je had wel die,
+
+01:16:21.380 --> 01:16:22.380
+ehm,
+
+01:16:22.380 --> 01:16:23.380
+HNC,
+
+01:16:23.380 --> 01:16:24.380
+en die,
+
+01:16:24.380 --> 01:16:25.380
+die,
+
+01:16:25.380 --> 01:16:26.380
+TDAH,
+
+01:16:26.380 --> 01:16:27.380
+ehm,
+
+01:16:27.380 --> 01:16:28.380
+uitbetalingen,
+
+01:16:28.380 --> 01:16:29.380
+of je dan,
+
+01:16:29.380 --> 01:16:30.380
+alsnog,
+
+01:16:30.380 --> 01:16:31.380
+met,
+
+01:16:31.380 --> 01:16:32.380
+welke keuze,
+
+01:16:32.380 --> 01:16:33.380
+hoe zou je dan,
+
+01:16:33.380 --> 01:16:34.380
+ehm,
+
+01:16:34.380 --> 01:16:35.380
+zou je dan,
+
+01:16:35.380 --> 01:16:37.380
+je landstijl wil beginnen,
+
+01:16:37.380 --> 01:16:38.380
+of zou je die dan,
+
+01:16:38.380 --> 01:16:39.380
+anders,
+
+01:16:39.380 --> 01:16:40.380
+hoe zou je die,
+
+01:16:40.380 --> 01:16:41.380
+anders aanpakken,
+
+01:16:41.380 --> 01:16:42.380
+misschien is dat,
+
+01:16:42.380 --> 01:16:43.380
+die,
+
+01:16:43.380 --> 01:16:44.380
+aanpak,
+
+01:16:44.380 --> 01:16:45.380
+wat je,
+
+01:16:45.380 --> 01:16:46.380
+ja,
+
+01:16:46.380 --> 01:16:47.380
+in de zucht,
+
+01:16:47.380 --> 01:16:49.380
+je hebt niet helemaal dat geld,
+
+01:16:49.380 --> 01:16:51.380
+je hebt niet helemaal toegezegd,
+
+01:16:51.380 --> 01:16:52.380
+aan de woord,
+
+01:16:52.380 --> 01:16:53.380
+dus,
+
+01:16:53.380 --> 01:16:54.380
+misschien moet je dan,
+
+01:16:54.380 --> 01:16:56.380
+is het nodig dat je,
+
+01:16:56.380 --> 01:16:57.380
+ja,
+
+01:16:57.380 --> 01:16:58.380
+die,
+
+01:16:58.380 --> 01:16:59.380
+het,
+
+01:16:59.380 --> 01:17:00.380
+wel wat je zei,
+
+01:17:00.380 --> 01:17:01.380
+van die ideefalingen,
+
+01:17:01.380 --> 01:17:02.380
+je bent een Syrisse vluchteling,
+
+01:17:02.380 --> 01:17:03.380
+of je bent een Syrië,
+
+01:17:03.380 --> 01:17:05.380
+het gaat vanuit,
+
+01:17:05.380 --> 01:17:06.380
+je hebt,
+
+01:17:06.380 --> 01:17:07.380
+je hebt,
+
+01:17:07.380 --> 01:17:08.380
+je hebt alleen,
+
+01:17:08.380 --> 01:17:09.380
+ehm,
+
+01:17:09.380 --> 01:17:10.380
+je hebt het geld niet,
+
+01:17:10.380 --> 01:17:11.380
+je hebt niet,
+
+01:17:11.380 --> 01:17:12.380
+drie ton op die bank,
+
+01:17:12.380 --> 01:17:13.380
+of twee ton,
+
+01:17:13.380 --> 01:17:14.380
+of iets,
+
+01:17:14.380 --> 01:17:15.380
+je hebt,
+
+01:17:15.380 --> 01:17:17.380
+20k of 30k op die bank,
+
+01:17:17.380 --> 01:17:19.380
+en daarmee moet je dit doen,
+
+01:17:19.380 --> 01:17:20.380
+en daarmee gaan je dit doen,
+
+01:17:20.380 --> 01:17:21.380
+en daarmee gaan je dit doen,
+
+01:17:21.380 --> 01:17:22.380
+en daarmee gaan je dit doen,
+
+01:17:22.380 --> 01:17:24.380
+en daarmee gaan je dit doen,
+
+01:17:24.380 --> 01:17:25.380
+en daarmee gaan je dit doen,
+
+01:17:25.380 --> 01:17:26.380
+ja,
+
+01:17:26.380 --> 01:17:27.380
+dus,
+
+01:17:27.380 --> 01:17:28.380
+ik zit wel gewoon zo in te doen,
+
+01:17:28.380 --> 01:17:29.380
+ja,
+
+01:17:29.380 --> 01:17:30.380
+dus als je dit wil doen,
+
+01:17:30.380 --> 01:17:31.380
+zal ik het meer wil doen,
+
+01:17:31.380 --> 01:17:32.380
+vanzelf,
+
+01:17:32.380 --> 01:17:34.380
+met zoveel stil en dan,
+
+01:17:34.380 --> 01:17:35.380
+van,
+
+01:17:35.380 --> 01:17:36.380
+wat uitbouwen,
+
+01:17:39.380 --> 01:17:40.380
+en,
+
+01:17:40.380 --> 01:17:41.380
+ehm,
+
+01:17:41.380 --> 01:17:42.380
+en,
+
+01:17:42.380 --> 01:17:43.380
+kijk je dan ook een beetje,
+
+01:17:43.380 --> 01:17:44.380
+ik hoor niet heel erg gezien,
+
+01:17:44.380 --> 01:17:45.380
+door de kathletoer,
+
+01:17:45.380 --> 01:17:47.380
+dus dat is ook een beetje,
+
+01:17:47.380 --> 01:17:48.380
+wel, ik denk,
+
+01:17:48.380 --> 01:17:49.380
+dat ik ook een hele leuke dingen,
+
+01:17:49.380 --> 01:17:50.380
+dat ik niet zou,
+
+01:17:50.380 --> 01:17:51.380
+ja,
+
+01:17:51.380 --> 01:17:53.380
+ik zal wel een beetje grote af,
+
+01:17:53.380 --> 01:17:54.380
+door,
+
+01:17:54.380 --> 01:17:55.380
+ik denk,
+
+01:17:55.380 --> 01:17:56.380
+oh,
+
+01:17:56.380 --> 01:17:57.380
+ik denk,
+
+01:17:57.380 --> 01:17:58.380
+oh,
+
+01:17:58.380 --> 01:17:59.380
+dat is een beetje,
+
+01:17:59.380 --> 01:18:00.380
+ik denk,
+
+01:18:00.380 --> 01:18:01.380
+dat is een beetje,
+
+01:18:01.380 --> 01:18:02.380
+dat,
+
+01:18:02.380 --> 01:18:03.380
+maar de ja,
+
+01:18:03.380 --> 01:18:04.380
+ik vind het een minuutje,
+
+01:18:04.380 --> 01:18:05.380
+nee,
+
+01:18:05.380 --> 01:18:06.380
+en,
+
+01:18:06.380 --> 01:18:07.380
+en,
+
+01:18:07.380 --> 01:18:08.380
+dat je ook,
+
+01:18:08.380 --> 01:18:09.380
+om je de baan,
+
+01:18:09.380 --> 01:18:10.380
+waarbij je nog,
+
+01:18:10.380 --> 01:18:11.380
+dat,
+
+01:18:11.380 --> 01:18:12.380
+dat je een beetje,
+
+01:18:12.380 --> 01:18:13.380
+waar,
+
+01:18:13.380 --> 01:18:14.380
+de karo daar is,
+
+01:18:14.380 --> 01:18:15.380
+of zo,
+
+01:18:15.380 --> 01:18:16.380
+en,
+
+01:18:16.380 --> 01:18:17.380
+dan,
+
+01:18:17.380 --> 01:18:18.380
+dat je dan,
+
+01:18:18.380 --> 01:18:19.380
+dat je,
+
+01:18:19.380 --> 01:18:20.380
+dat je,
+
+01:18:20.380 --> 01:18:21.380
+dat je,
+
+01:18:21.380 --> 01:18:22.380
+hebt,
+
+01:18:22.380 --> 01:18:23.380
+ja,
+
+01:18:23.380 --> 01:18:24.380
+goed,
+
+01:18:24.380 --> 01:18:27.380
+maar,
+
+01:18:27.380 --> 01:18:28.380
+ja,
+
+01:18:28.380 --> 01:18:29.380
+ik denk,
+
+01:18:29.380 --> 01:18:30.380
+ehm,
+
+01:18:30.380 --> 01:18:31.380
+ik vind het natuurlijk,
+
+01:18:31.380 --> 01:18:32.380
+gewoon,
+
+01:18:32.380 --> 01:18:33.380
+heel,
+
+01:18:33.380 --> 01:18:34.380
+heel wichtig,
+
+01:18:34.380 --> 01:18:35.380
+gaan kijken,
+
+01:18:35.380 --> 01:18:36.380
+naar de financiër,
+
+01:18:36.380 --> 01:18:38.380
+en, ehm,
+
+01:18:38.380 --> 01:18:39.380
+ja,
+
+01:18:39.380 --> 01:18:40.380
+hoe je het ziet,
+
+01:18:40.380 --> 01:18:42.380
+en, ehm,
+
+01:18:42.380 --> 01:18:43.380
+wat de mogelijkheden zijn,
+
+01:18:43.380 --> 01:18:44.380
+ervoor,
+
+01:18:44.380 --> 01:18:45.380
+ik ga even,
+
+01:18:45.380 --> 01:18:46.380
+Caroline,
+
+01:18:46.380 --> 01:18:47.380
+direct vieren,
+
+01:18:47.380 --> 01:18:48.380
+en,
+
+01:18:48.380 --> 01:18:49.380
+zij heeft echt,
+
+01:18:49.380 --> 01:18:50.380
+gewoon,
+
+01:18:50.380 --> 01:18:51.380
+precies,
+
+01:18:51.380 --> 01:18:52.380
+wat ik nu,
+
+01:18:52.380 --> 01:18:53.380
+wil doen eigenlijk,
+
+01:18:53.380 --> 01:18:55.380
+heeft zij,
+
+01:18:55.380 --> 01:18:56.380
+gedaan,
+
+01:18:56.380 --> 01:18:57.380
+ja,
+
+01:18:57.380 --> 01:18:59.380
+met WD,
+
+01:18:59.380 --> 01:19:00.380
+en,
+
+01:19:00.380 --> 01:19:01.380
+met een soort,
+
+01:19:01.380 --> 01:19:02.380
+vintage-achtige,
+
+01:19:02.380 --> 01:19:03.380
+ehm,
+
+01:19:03.380 --> 01:19:04.380
+ehm,
+
+01:19:04.380 --> 01:19:05.380
+ehm,
+
+01:19:05.380 --> 01:19:06.380
+plek van het,
+
+01:19:06.380 --> 01:19:07.380
+wel ander werk,
+
+01:19:07.380 --> 01:19:08.380
+natuurlijk,
+
+01:19:08.380 --> 01:19:09.380
+maar,
+
+01:19:09.380 --> 01:19:10.380
+ik zag hem dan,
+
+01:19:10.380 --> 01:19:11.380
+opkopen van,
+
+01:19:11.380 --> 01:19:12.380
+ehm,
+
+01:19:12.380 --> 01:19:13.380
+vintage, ehm,
+
+01:19:13.380 --> 01:19:15.380
+en doorgekomen,
+
+01:19:15.380 --> 01:19:16.380
+en,
+
+01:19:16.380 --> 01:19:17.380
+ik heb daar ook een,
+
+01:19:17.380 --> 01:19:18.380
+ik wil,
+
+01:19:18.380 --> 01:19:19.380
+ook voor,
+
+01:19:19.380 --> 01:19:20.380
+maar ik weet ook niet,
+
+01:19:20.380 --> 01:19:21.380
+misschien, ehm,
+
+01:19:21.380 --> 01:19:22.380
+die zijn,
+
+01:19:22.380 --> 01:19:23.380
+met een hele dag anders,
+
+01:19:23.380 --> 01:19:24.380
+ja,
+
+01:19:24.380 --> 01:19:25.380
+dus,
+
+01:19:25.380 --> 01:19:26.380
+ik ga ook van,
+
+01:19:26.380 --> 01:19:27.380
+ehm,
+
+01:19:27.380 --> 01:19:28.380
+en de eerste keer,
+
+01:19:28.380 --> 01:19:29.380
+van jou,
+
+01:19:29.380 --> 01:19:30.380
+ik weet je,
+
+01:19:30.380 --> 01:19:31.380
+ik ben leeg van,
+
+01:19:31.380 --> 01:19:32.380
+van, ehm,
+
+01:19:32.380 --> 01:19:33.380
+voor dit,
+
+01:19:33.380 --> 01:19:34.380
+en,
+
+01:19:34.380 --> 01:19:35.380
+en,
+
+01:19:35.380 --> 01:19:36.380
+en,
+
+01:19:36.380 --> 01:19:37.380
+zelfs leeg van,
+
+01:19:37.380 --> 01:19:38.380
+met je,
+
+01:19:38.380 --> 01:19:39.380
+en,
+
+01:19:39.380 --> 01:19:40.380
+en,
+
+01:19:40.380 --> 01:19:41.380
+en,
+
+01:19:41.380 --> 01:19:42.380
+moest ik horen,
+
+01:19:42.380 --> 01:19:43.380
+van jouw kant,
+
+01:19:43.380 --> 01:19:44.380
+van,
+
+01:19:44.380 --> 01:19:45.380
+weet jij wat,
+
+01:19:45.380 --> 01:19:46.380
+hoe heb je daar gedaan,
+
+01:19:46.380 --> 01:19:47.380
+en,
+
+01:19:47.380 --> 01:19:49.380
+dat moet ik dan doen ook,
+
+01:19:49.380 --> 01:19:50.380
+ik, ehm,
+
+01:19:50.380 --> 01:19:51.380
+ik moet, ehm,
+
+01:19:51.380 --> 01:19:52.380
+ik durf, ehm,
+
+01:19:52.380 --> 01:19:54.380
+hang durven en net werken,
+
+01:19:54.380 --> 01:19:58.380
+mensen niet als ze algemeen doen,
+
+01:19:58.380 --> 01:19:59.380
+als mensen, ehm,
+
+01:19:59.380 --> 01:20:01.380
+wat ik een vraag,
+
+01:20:01.380 --> 01:20:02.380
+ten hulp.
+
+01:20:02.380 --> 01:20:03.380
+Ja.
+
+01:20:03.380 --> 01:20:04.380
+Oké.
+
+01:20:04.380 --> 01:20:05.380
+Ja.
+
+01:20:05.380 --> 01:20:07.380
+Dat gaat vandaag,
+
+01:20:07.380 --> 01:20:08.380
+in ieder geval doen,
+
+01:20:08.380 --> 01:20:10.380
+en, ehm,
+
+01:20:10.380 --> 01:20:29.460
+Ja, het is een beetje, het is van God die les houden en, eh, vertrouwen.
+
+01:20:30.740 --> 01:20:38.880
+Ja, die meestal die, nee, die spreekwoordelijke, die goeroes zeggen vertrouwen krijg je door het te doen.
+
+01:20:38.880 --> 01:20:40.880
+Dat is wel zelfvertrouwen.
+
+01:20:40.880 --> 01:20:42.880
+Klopt.
+
+01:20:44.880 --> 01:20:54.880
+En, je hebt al wel, al veel zelfvertrouwen, al veel moed getoond en door hieraan te, door dit te doen.
+
+01:20:54.880 --> 01:21:03.880
+Eerstens, die investering in die opleiding, dat is, dat is een bak geld.
+
+01:21:03.880 --> 01:21:15.880
+En, zo, en dat is al, dat is al teweiding, ja, dat is al, je hebt de stap, dus, eh, ze vindt ook een laserfout.
+
+01:21:15.880 --> 01:21:19.880
+Ja, dat is het ook, hè, dat maakt ook een betrengde gemoedig voor mij.
+
+01:21:19.880 --> 01:21:25.880
+Omdat ik nu ook nu zit, en dat ik zat, dan denk ik, oh ja, dan moet ik dan mijn werkgever in juni,
+
+01:21:25.880 --> 01:21:29.880
+van mij, ik moet de link in het probleem bijvoorbeeld, gaan aanpassen.
+
+01:21:29.880 --> 01:21:31.880
+Ja.
+
+01:21:31.880 --> 01:21:36.880
+Eh, want dat had ik afgesproken, dat ik dan niet naar, wat dan niet naar staat, dat ik bij TDAH werd.
+
+01:21:36.880 --> 01:21:37.880
+Nee.
+
+01:21:37.880 --> 01:21:43.880
+Dus dat ik, eh, niet even een bericht naar, die zaak, die deze afscheid neemt, weet je dat?
+
+01:21:43.880 --> 01:21:45.880
+Ja, ik dacht, ja, hoe ga ik mezelf dan noemen?
+
+01:21:45.880 --> 01:21:46.880
+Ik dacht, ja, hoe ga ik mezelf dan noemen?
+
+01:21:46.880 --> 01:21:53.880
+Ga ik dan gewoon al zeggen, eh, want als ik in mijn profiel, ja, ik denk dat ik dat wel kan doen,
+
+01:21:53.880 --> 01:22:00.880
+dat ik mijn profiel gewoon invult, al dat ik stilist ben, en, nou ja, dat ik een paar goede woorden erbij,
+
+01:22:00.880 --> 01:22:07.880
+en dat ik op die manier, ehm, ja, voor de WD vind ik natuurlijk vaster van belang,
+
+01:22:07.880 --> 01:22:10.880
+dat je denkt, ja, nu verder ben je al bezig.
+
+01:22:10.880 --> 01:22:16.880
+Daarom kan ik me ook niet echt intrijden bij de KVK nu, en, dus, maar ja, aan de andere kant,
+
+01:22:16.880 --> 01:22:20.880
+ik ben nog niet echt klaar met de opleiding, dus ik zou nu sowieso niet.
+
+01:22:20.880 --> 01:22:21.880
+Ja.
+
+01:22:21.880 --> 01:22:23.880
+Dat heeft de dingen jouw gevolgorde doen.
+
+01:22:23.880 --> 01:22:24.880
+Ja.
+
+01:22:24.880 --> 01:22:28.880
+Maar, ja, voor die winkel, ik ga gewoon even kijken, eh,
+
+01:22:28.880 --> 01:22:31.880
+wat voor bedrag heb ik over,
+
+01:22:31.880 --> 01:22:33.880
+ik denk dat ik vandaag ook een beetje,
+
+01:22:33.880 --> 01:22:37.880
+ik hoef me te staan naar beneden los, maar, nou ja,
+
+01:22:37.880 --> 01:22:41.880
+ik moet een planning gaan maken voor deze week, en voor volgende week,
+
+01:22:41.880 --> 01:22:43.880
+wat ga ik verder doen?
+
+01:22:43.880 --> 01:22:47.880
+En, ja, dan moet je gewoon voor jezelf op een bepaalde moment een besluit nemen.
+
+01:22:47.880 --> 01:22:53.880
+Een soort deadline van, oké, weet je, ik ga dat in ieder geval, je hoeft niet een besluit nemen,
+
+01:22:53.880 --> 01:22:57.880
+ik ga een winkel beginnen, maar je kan in ieder geval wel oriënteren.
+
+01:22:57.880 --> 01:22:58.880
+Ja.
+
+01:22:58.880 --> 01:23:00.880
+En ik heb er nu eigenlijk nog niet georiënteerd,
+
+01:23:00.880 --> 01:23:03.880
+ik heb er nog niet een financieel overzicht,
+
+01:23:03.880 --> 01:23:06.880
+van wat zou ik daar eens toe aan willen besteden.
+
+01:23:06.880 --> 01:23:10.880
+Want het is gewoon een investering dan.
+
+01:23:10.880 --> 01:23:11.880
+Ja.
+
+01:23:11.880 --> 01:23:13.880
+Oké.
+
+01:23:13.880 --> 01:23:19.880
+Ja, wat komt er allemaal bij kijken, eh, of dat soort dingen.
+
+01:23:19.880 --> 01:23:20.880
+Ja.
+
+01:23:20.880 --> 01:23:21.880
+Ja.
+
+01:23:21.880 --> 01:23:22.880
+Ja.
+
+01:23:22.880 --> 01:23:23.880
+Ja.
+
+01:23:23.880 --> 01:23:24.880
+Ja.
+
+01:23:24.880 --> 01:23:25.880
+Ja.
+
+01:23:25.880 --> 01:23:31.880
+Dus, nou ja, oké, ik heb gedacht, ik denk dat jij het dan werk?
+
+01:23:31.880 --> 01:23:32.880
+Ja.
+
+01:23:32.880 --> 01:23:34.880
+Ik weet wel wat te doen.
+
+01:23:34.880 --> 01:23:35.880
+Oké.
+
+01:23:35.880 --> 01:23:37.880
+Maar ik ga even een broodje produceren.
+
+01:23:37.880 --> 01:23:38.880
+Ja.
+
+01:23:38.880 --> 01:23:39.880
+Ja.
+
+01:23:39.880 --> 01:23:43.880
+Nou, ik heb wel behoefte aan je hart te luchten.
+
+01:23:43.880 --> 01:23:44.880
+Ja.
+
+01:23:44.880 --> 01:23:45.880
+Ja.
+
+01:23:45.880 --> 01:23:46.880
+Ja.
+
+01:23:46.880 --> 01:23:50.880
+Het is ook al zo'n poortje ingegrozen, dan praat ik wel over.
+
+01:23:50.880 --> 01:23:51.880
+Dus, ehm.
+
+01:23:51.880 --> 01:23:54.880
+Ik was al niet bezig.
+
+01:23:54.880 --> 01:23:58.880
+Ik was al een ander bezig met AI, ook met keseerde ontwikkeling.
+
+01:23:58.880 --> 01:24:01.880
+Ik had gesprek, ik had Casper gebeld.
+
+01:24:01.880 --> 01:24:05.880
+Casper het mij gebeld, van Zuid-Afrika, van Slavo.
+
+01:24:05.880 --> 01:24:09.880
+We hadden gesproken over AI, hij wil apps bouwen enzovoorts.
+
+01:24:09.880 --> 01:24:14.880
+En, dus eigenlijk wat ik met App wou doen,
+
+01:24:14.880 --> 01:24:16.880
+Ja.
+
+01:24:16.880 --> 01:24:19.880
+Nee, heb ik nooit gehad met Casper doen.
+
+01:24:19.880 --> 01:24:23.880
+Tenminste, hij was super proactief.
+
+01:24:23.880 --> 01:24:24.880
+Hij heeft mij informatie opgestuurd.
+
+01:24:24.880 --> 01:24:26.880
+Hij was hier ook al mee bezig geweest.
+
+01:24:26.880 --> 01:24:29.880
+Hij heeft mij, en hij heeft mij informatie opgestuurd.
+
+01:24:29.880 --> 01:24:30.880
+Hij heeft mij dokumentatie.
+
+01:24:30.880 --> 01:24:33.880
+Dus, in plaats van alleen maar bullshitting.
+
+01:24:33.880 --> 01:24:37.880
+En hij, ehm, heeft hij onderneemd uit actie.
+
+01:24:37.880 --> 01:24:42.880
+En, ehm, hij, hij heeft ook, hij had ook zelf benoemd,
+
+01:24:42.880 --> 01:24:47.880
+dat, ehm, dat, ehm, dat, ehm, dat, ehm, van dat mensen,
+
+01:24:47.880 --> 01:24:50.880
+van, van bullshitting, of mensen dat ze dingen beloofd
+
+01:24:50.880 --> 01:24:52.880
+en het nu al niet doen.
+
+01:24:52.880 --> 01:24:53.880
+Ja.
+
+01:24:53.880 --> 01:24:57.880
+Of, ehm, zeg dat ze, dat er niet afspraken na komen enzo.
+
+01:24:57.880 --> 01:25:00.880
+En, en zij, en vragen, dus weg.
+
+01:25:00.880 --> 01:25:02.880
+Hij heeft mij info opgestuurd.
+
+01:25:02.880 --> 01:25:05.880
+Ik ga een beetje, met, met, dit met hem overleggen.
+
+01:25:05.880 --> 01:25:08.880
+En, om te kijken wat, wat heeft daar verder uitgebeeld.
+
+01:25:08.880 --> 01:25:13.880
+En, wie weet, een euro afdaling verdiend. Hoopelijk.
+
+01:25:13.880 --> 01:25:14.880
+Oké.
+
+01:25:14.880 --> 01:25:18.880
+Maar, ik denk wel, dat hij ook zo'n fiek is, die gewoon,
+
+01:25:18.880 --> 01:25:21.880
+want, anders had hij ook niet met Snabel in te gaan.
+
+01:25:21.880 --> 01:25:22.880
+Ja.
+
+01:25:22.880 --> 01:25:25.880
+Eh, want die is daar, ja, ook vanuit, of die vind.
+
+01:25:25.880 --> 01:25:26.880
+Ja, oké.
+
+01:25:26.880 --> 01:25:30.880
+Ja, want hij was, Snabel was bij, was bij Salou mee geweest,
+
+01:25:30.880 --> 01:25:33.880
+bij, bij zijn, bij die, bij die, bij die koffieplek waar hij ooit was.
+
+01:25:33.880 --> 01:25:34.880
+Ja.
+
+01:25:34.880 --> 01:25:39.880
+Met, ehm, en toen was, toen was hij, toen had Snabel en ik heel lang gepraat over
+
+01:25:39.880 --> 01:25:44.880
+zijn, een zorggelijke idee, website bouwen, data verzamelen,
+
+01:25:44.880 --> 01:25:49.880
+over boerderij en, enzovoorts, en verkopers, inkopers,
+
+01:25:49.880 --> 01:25:52.880
+marketing, communicatie, YouTube, videoclips maken, enzovoorts.
+
+01:25:52.880 --> 01:25:55.880
+Dat heb ik allemaal in verzameld, info.
+
+01:25:55.880 --> 01:25:56.880
+Ja.
+
+01:25:56.880 --> 01:25:59.880
+Eh, en, dus, dat is nog, dat is een tweede kuis.
+
+01:25:59.880 --> 01:26:04.880
+De eerste kuis is, eigenlijk drie, heb ik drie AI proceskeis in.
+
+01:26:04.880 --> 01:26:09.880
+Keis één is van Snabel, voor, voor hem zijn vastgoedgebeuren bouwend.
+
+01:26:09.880 --> 01:26:16.880
+Keis twee is, voor, ehm, Casper een proces, proces maken,
+
+01:26:16.880 --> 01:26:20.880
+om eigen met AI te ontwikkelen en te bouwen,
+
+01:26:20.880 --> 01:26:27.880
+en, het volgende projectstructuur, en dan, die, dat proces te gaan toepassen op,
+
+01:26:27.880 --> 01:26:31.880
+een taxidermie bedrijf, wat hij, wat hij iets voor wil doen.
+
+01:26:31.880 --> 01:26:38.880
+en, hij wil, en, hij wil een app, hij wil naar bij een bedrijf, een maatwerk app bouwen,
+
+01:26:38.880 --> 01:26:44.880
+waarin iemand al benader en sê, kijk, Aisha, hier heb ik een app voor jou, van, van,
+
+01:26:44.880 --> 01:26:48.880
+die landstijl, en, dit heeft jou klant in, dit heeft jou profiel,
+
+01:26:48.880 --> 01:26:51.880
+hij zoek al naar, naar alle aanbevelingen,
+
+01:26:51.880 --> 01:26:54.880
+jou klant uitgekoppeld met betaalsysteem,
+
+01:26:54.880 --> 01:26:57.880
+alsjeblief, klant in klaar, wil je hem?
+
+01:26:57.880 --> 01:26:58.880
+Ja.
+
+01:26:58.880 --> 01:27:01.880
+Dit is, en dit is een voorbeeld van wat, wat kan,
+
+01:27:01.880 --> 01:27:04.880
+jy kan hem nog verder gaan uitruide, maar hier is een voorbeeld.
+
+01:27:04.880 --> 01:27:06.880
+Aisha, kan betaal je app of gratis?
+
+01:27:06.880 --> 01:27:11.880
+Nou, dan, dit is, dit is die product wat ik dan, wat jy dan aanbied is,
+
+01:27:11.880 --> 01:27:18.880
+jy koop die app, of jy betaal, of jy, of jy kan hem gratis gebruik, met beperkinge.
+
+01:27:18.880 --> 01:27:19.880
+Ja jy.
+
+01:27:19.880 --> 01:27:20.880
+Jy.
+
+01:27:20.880 --> 01:27:21.880
+Jy.
+
+01:27:21.880 --> 01:27:22.880
+Jy.
+
+01:27:22.880 --> 01:27:25.880
+Dus dit is, dit is die, dit is die dienst wat jy dan kan aanbied.
+
+01:27:25.880 --> 01:27:29.880
+En, anyways, emm, ja hier was ik onder andere ook.
+
+01:27:29.880 --> 01:27:32.880
+Is er een soort XO dan, die Y-BOM 3-0?
+
+01:27:32.880 --> 01:27:38.880
+Ehm, ja sommige wel, maar hij wil, die mogelijkheid is,
+
+01:27:38.880 --> 01:27:41.880
+kijk, K-K-K-Koppen, bijvoorbeeld, Inge-Words,
+
+01:27:41.880 --> 01:27:46.880
+is, is, eh, iedereen, alles wat jy moet kan doen,
+
+01:27:46.880 --> 01:27:49.960
+wat jy moet kan doen, moet jy in die vorm van MS Word kan doen,
+
+01:27:49.960 --> 01:27:52.420
+als jy word gebruikt, bijvoorbeeld, of dit jy alweer gebruik,
+
+01:27:53.140 --> 01:27:55.020
+jy heb een standaard app, en alles,
+
+01:27:55.680 --> 01:27:58.760
+en veel bedrijven moet voldoen aan die standaard app,
+
+01:27:58.840 --> 01:28:02.880
+jy gebruik standaard funktionaliteit, maar wat als jou proces net iets anders is,
+
+01:28:03.840 --> 01:28:06.660
+wat jy wil dit op een andere manier doen,
+
+01:28:06.760 --> 01:28:10.020
+wat niet in die standaard app is, proces past,
+
+01:28:10.460 --> 01:28:12.780
+dan moet jy a, dan moet jy iemand gaan in die hiering,
+
+01:28:12.780 --> 01:28:14.820
+ten duurste om dit ontwikkeling, of b,
+
+01:28:14.820 --> 01:28:18.820
+jy kan nu met AI, jy eigen werse van die app gaan creëren,
+
+01:28:18.820 --> 01:28:22.740
+en wat precies doen, zoals jy dit doet, dat jy dit doet.
+
+01:28:24.200 --> 01:28:27.040
+En dat is wat Casper wil gaan doen,
+
+01:28:27.140 --> 01:28:31.520
+hij wil, ja, er zijn standaard apps, maar ik wil afwijk van standaard,
+
+01:28:32.140 --> 01:28:33.680
+en ik wil mijn eigen ding doen,
+
+01:28:35.060 --> 01:28:36.920
+wat niet werkt, of dit, maar niet iets anders.
+
+01:28:38.260 --> 01:28:40.100
+Maar snap je hier wel een maier?
+
+01:28:41.220 --> 01:28:42.340
+Ik wil het niet zijn.
+
+01:28:42.340 --> 01:28:46.680
+Ja, je kan daar, er zijn standaard apps,
+
+01:28:46.920 --> 01:28:47.820
+nee, maar dit,
+
+01:28:48.880 --> 01:28:49.400
+dit is,
+
+01:28:50.160 --> 01:28:53.240
+ik ga net, het zal het in verweer samenvatten in mijn bericht enzo,
+
+01:28:53.340 --> 01:28:53.740
+en die,
+
+01:28:53.740 --> 01:28:56.340
+maar goed, ik wil even een brooietje produceer,
+
+01:28:56.860 --> 01:28:57.440
+lieve mens.
+
+01:28:58.300 --> 01:28:58.620
+Ja?
+
+01:28:58.880 --> 01:29:01.780
+Ik sterf van de honger, ik wil even een brooietje produceer.
+
+01:29:02.780 --> 01:29:06.300
+Oké, die schrijf je van langs wel al dat bij je voorzien?
+
+01:29:06.640 --> 01:29:06.980
+Ja.
+
+01:29:06.980 --> 01:29:13.020
+Goed, dat gaan we doen.
+
+01:29:13.980 --> 01:29:14.460
+Oké.
+
+01:29:15.600 --> 01:29:17.120
+Ik heb net wel, ze spreek je later.
+
+01:29:17.240 --> 01:29:20.140
+Ik moet het uitleggen, maar ik ga even bij je uit,
+
+01:29:20.220 --> 01:29:21.860
+en als je moeder dit ook niet maakt,
+
+01:29:21.960 --> 01:29:23.460
+want als je moeder hebt gevaart,
+
+01:29:24.120 --> 01:29:25.140
+heb ik het ook gevaart.
+
+01:29:25.180 --> 01:29:26.400
+Oké, zoiets ja.
+
+01:29:27.060 --> 01:29:27.360
+Ja.
+
+01:29:29.360 --> 01:29:30.320
+Goed, dat was,
+
+01:29:30.700 --> 01:29:31.560
+meteen, doei.
+
+01:29:31.560 --> 01:30:01.540
+Goed, dat is.
+
+01:30:01.560 --> 01:30:31.540
+Goed, dat is.
+
+01:30:31.560 --> 01:31:01.540
+Goed, dat is.
+
+01:31:01.560 --> 01:31:03.560
+one
+
+01:31:31.560 --> 01:31:32.040
+Hem.
+
+01:32:01.560 --> 01:32:03.560
+O.
+
+01:32:31.560 --> 01:32:33.560
+O.
+
+01:33:01.560 --> 01:33:03.560
+O.
+
+01:33:31.560 --> 01:33:33.560
+O.
+
+01:34:01.560 --> 01:34:03.560
+O.
+
+01:34:31.560 --> 01:34:33.560
+O.
+
+01:35:01.560 --> 01:35:03.560
+O.
+
+01:35:31.560 --> 01:35:33.560
+O.
+
+01:36:01.560 --> 01:36:03.560
+O.
+
+01:36:31.560 --> 01:36:33.560
+O.
+
+01:37:01.560 --> 01:37:03.560
+O.
+
+01:37:06.060 --> 01:37:07.560
+O.
+
+01:37:09.560 --> 01:37:11.560
+O.
+
+01:37:12.100 --> 01:37:12.560
+Alle,
+
+01:37:12.560 --> 01:37:42.540
+O ho.
+
+01:37:42.560 --> 01:38:12.540
+O, O, O, O, O, O, O.
+
+01:38:12.560 --> 01:38:42.540
+O이실a
+
+01:38:42.560 --> 01:39:12.540
+Terima kasih.
+
+01:39:12.560 --> 01:39:13.560
+Okay.
+
+01:39:42.560 --> 01:39:48.560
+...
+
+01:39:50.340 --> 01:39:52.560
+...
+
+01:39:53.360 --> 01:39:53.560
+...
+
+01:39:53.560 --> 01:39:56.560
+...
+
+01:39:57.220 --> 01:39:59.560
+...
+
+01:40:09.660 --> 01:40:10.560
+...
+
+01:40:12.560 --> 01:40:14.560
+O.
+
+01:40:42.560 --> 01:40:44.560
+O.
+
+01:41:12.560 --> 01:41:14.560
+O.
+
+01:41:42.560 --> 01:41:44.560
+O.
+
+01:42:12.560 --> 01:42:14.560
+O.
+
+01:42:42.560 --> 01:42:44.560
+O.
+
+01:43:12.560 --> 01:43:14.560
+O.
+
+01:43:14.560 --> 01:43:16.560
+O.
+
+01:43:16.560 --> 01:43:18.560
+O.
+
+01:43:18.560 --> 01:43:20.560
+O.
+
+01:43:20.560 --> 01:43:22.560
+O.
+
+01:43:40.560 --> 01:43:42.560
+O.
+
+01:43:42.560 --> 01:43:44.560
+O.
+
+01:44:12.560 --> 01:44:14.560
+O.
+
+01:44:42.560 --> 01:44:44.560
+O.
+
+01:45:12.560 --> 01:45:14.560
+O.
+
+01:45:42.560 --> 01:45:44.560
+O.
+
+01:46:12.560 --> 01:46:14.560
+O.
+
+01:46:16.560 --> 01:46:18.560
+O.
+
+01:46:20.560 --> 01:46:22.560
+O.
+
+01:46:26.560 --> 01:46:28.560
+O.
+
+01:46:30.560 --> 01:46:32.560
+O.
+
+01:46:32.560 --> 01:46:34.560
+O.
+
+01:46:36.560 --> 01:46:38.560
+O.
+
+01:46:42.560 --> 01:46:44.560
+O.
+
+01:47:12.560 --> 01:47:14.560
+O.
+
+01:47:42.560 --> 01:47:44.560
+O.
+
+01:48:12.560 --> 01:48:14.560
+O.
+
+01:48:42.560 --> 01:48:44.560
+O.
+
+01:49:12.560 --> 01:49:14.560
+O.
+
+01:49:42.560 --> 01:49:44.560
+O.
+
+01:49:44.560 --> 01:49:46.560
+O.
+
+01:49:50.560 --> 01:49:52.560
+O.
+
+01:49:54.560 --> 01:49:56.560
+O.
+
+01:49:56.560 --> 01:49:58.560
+O.
+
+01:49:58.560 --> 01:50:00.560
+O.
+
+01:50:02.560 --> 01:50:08.660
+O.
+
+01:50:12.560 --> 01:50:42.540
+Oes, oes, oes, oes, oes.
+
+01:50:42.560 --> 01:51:12.540
+Oes, oes.
+
+01:51:12.560 --> 01:51:42.540
+Oes, oes.
+
+01:51:42.560 --> 01:51:44.560
+Oes, oes.
+
